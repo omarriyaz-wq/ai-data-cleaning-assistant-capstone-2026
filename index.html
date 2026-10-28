@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Capstone 65: How Reliable is AI-Generated Data-Cleaning Code?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #0a0e17;
+      --bg-card: rgba(18, 24, 38, 0.85);
+      --border-color: rgba(255, 255, 255, 0.08);
+      --primary: #38bdf8;
+      --primary-glow: rgba(56, 189, 248, 0.25);
+      --secondary: #818cf8;
+      --accent: #ec4899;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Outfit', sans-serif;
+      background: var(--bg-dark);
+      color: var(--text-main);
+      overflow: hidden;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background-image: 
+        radial-gradient(circle at 15% 20%, rgba(56, 189, 248, 0.08) 0%, transparent 45%),
+        radial-gradient(circle at 85% 80%, rgba(236, 72, 153, 0.08) 0%, transparent 45%);
+    }
+
+    /* Top Navigation & Progress */
+    header {
+      padding: 1rem 2.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border-color);
+      background: rgba(10, 14, 23, 0.7);
+      backdrop-filter: blur(12px);
+      z-index: 50;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-weight: 700;
+      font-size: 1.15rem;
+      letter-spacing: -0.02em;
+    }
+
+    .brand-badge {
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      padding: 0.25rem 0.6rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      font-weight: 800;
+      color: #000;
+      text-transform: uppercase;
+    }
+
+    .slide-indicator {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      background: rgba(255, 255, 255, 0.04);
+      padding: 0.35rem 0.85rem;
+      border-radius: 20px;
+      border: 1px solid var(--border-color);
+    }
+
+    .progress-bar-container {
+      width: 100%;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.05);
+      position: relative;
+    }
+
+    .progress-bar {
+      height: 100%;
+      width: 10%;
+      background: linear-gradient(90deg, var(--primary), var(--accent));
+      transition: width 0.4s ease;
+      box-shadow: 0 0 12px var(--primary-glow);
+    }
+
+    /* Slides Viewport */
+    main {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      overflow: hidden;
+    }
+
+    .slide {
+      position: absolute;
+      width: 100%;
+      max-width: 1100px;
+      opacity: 0;
+      transform: translateX(60px) scale(0.98);
+      pointer-events: none;
+      transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .slide.active {
+      opacity: 1;
+      transform: translateX(0) scale(1);
+      pointer-events: auto;
+    }
+
+    .slide-header {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .slide-subtitle {
+      font-size: 0.95rem;
+      color: var(--primary);
+      text-transform: uppercase;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+    }
+
+    .slide-title {
+      font-size: 2.5rem;
+      font-weight: 800;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      background: linear-gradient(135deg, #ffffff 40%, #94a3b8 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    /* Cards & Grids */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.25rem;
+      margin-top: 0.5rem;
+    }
+
+    .glass-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      padding: 1.5rem;
+      backdrop-filter: blur(16px);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.3s ease, border-color 0.3s ease;
+    }
+
+    .glass-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(56, 189, 248, 0.3);
+    }
+
+    .glass-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      background: linear-gradient(90deg, var(--primary), transparent);
+      opacity: 0.7;
+    }
+
+    .stat-number {
+      font-size: 2.8rem;
+      font-weight: 800;
+      font-family: 'JetBrains Mono', monospace;
+      margin-bottom: 0.25rem;
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .code-box {
+      background: #06090e;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      color: #38bdf8;
+      overflow-x: auto;
+      line-height: 1.5;
+    }
+
+    /* Comparison Table */
+    .table-container {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      overflow: hidden;
+      backdrop-filter: blur(16px);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.95rem;
+    }
+
+    th {
+      background: rgba(255, 255, 255, 0.03);
+      padding: 1rem 1.25rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      border-bottom: 1px solid var(--border-color);
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+    }
+
+    td {
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.25rem 0.6rem;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .badge-danger { background: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.3); }
+    .badge-success { background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }
+    .badge-warning { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
+
+    /* Footer Controls */
+    footer {
+      padding: 1rem 2.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid var(--border-color);
+      background: rgba(10, 14, 23, 0.8);
+      backdrop-filter: blur(12px);
+      z-index: 50;
+    }
+
+    .controls {
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    button {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      padding: 0.6rem 1.2rem;
+      border-radius: 8px;
+      font-family: 'Outfit', sans-serif;
+      font-weight: 600;
+      font-size: 0.9rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s ease;
+    }
+
+    button:hover:not(:disabled) {
+      background: var(--primary);
+      color: #000;
+      border-color: var(--primary);
+      box-shadow: 0 0 15px var(--primary-glow);
+    }
+
+    button:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
+
+    .speaker-notes-toggle {
+      background: transparent;
+      color: var(--text-muted);
+      border: 1px dashed var(--border-color);
+    }
+
+    .speaker-notes-toggle.active {
+      color: var(--primary);
+      border-color: var(--primary);
+    }
+
+    /* Speaker Notes Drawer */
+    #speaker-notes {
+      position: absolute;
+      bottom: 75px;
+      left: 2.5rem;
+      right: 2.5rem;
+      background: rgba(6, 10, 18, 0.95);
+      border: 1px solid var(--primary);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      line-height: 1.6;
+      box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.5);
+      display: none;
+      z-index: 60;
+    }
+
+    #speaker-notes.visible {
+      display: block;
+      animation: slideUp 0.3s ease;
+    }
+
+    @keyframes slideUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="brand">
+      <span class="brand-badge">Capstone 65</span>
+      <span>AI Data Cleaning Assistant with Python</span>
+    </div>
+    <div class="slide-indicator" id="slide-num">Slide 1 / 8</div>
+  </header>
+
+  <div class="progress-bar-container">
+    <div class="progress-bar" id="progress-bar"></div>
+  </div>
+
+  <main>
+    <!-- Slide 1: Title -->
+    <div class="slide active" id="slide-1" data-notes="Welcome everyone. Today we are answering a critical research question in applied AI and data engineering: How reliable is AI-generated data-cleaning code? We benchmarked ChatGPT, Gemini, and a ground-truth pipeline against 1,260 real-world messy records.">
+      <div class="slide-header">
+        <span class="slide-subtitle">Empirical Research & Benchmark</span>
+        <h1 class="slide-title">How Reliable is AI-Generated<br>Data-Cleaning Code?</h1>
+      </div>
+      <p style="color: var(--text-muted); font-size: 1.15rem; max-width: 800px; line-height: 1.6;">
+        Data cleaning accounts for up to 80% of project time. Generative AI offers instantaneous code generation, but can its data-cleaning logic be trusted without human verification?
+      </p>
+      <div class="card-grid">
+        <div class="glass-card">
+          <div class="stat-number" style="color: var(--danger);">1.27%</div>
+          <div class="stat-label">ChatGPT Zero-Shot Row Retention Rate</div>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem;">Global dropna() caused catastrophic silent data loss.</p>
+        </div>
+        <div class="glass-card">
+          <div class="stat-number" style="color: var(--warning);">91.5%</div>
+          <div class="stat-label">Gemini Engineered Reliability Score</div>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem;">High retention, but exhibited subtle imputation bias.</p>
+        </div>
+        <div class="glass-card">
+          <div class="stat-number" style="color: var(--success);">98.5%</div>
+          <div class="stat-label">Reusable Pipeline Score</div>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem;">Deterministic, schema-aware, with 100% audit lineage.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 2: The Benchmark Dataset -->
+    <div class="slide" id="slide-2" data-notes="We constructed a realistic international customer dataset with 1,260 rows and 13 documented dirty patterns. These aren't artificial bugs—they represent what you see on Kaggle and real production databases every day.">
+      <div class="slide-header">
+        <span class="slide-subtitle">Experimental Setup</span>
+        <h2 class="slide-title">The Public Benchmark Dataset</h2>
+      </div>
+      <p style="color: var(--text-muted); font-size: 1.05rem;">
+        Evaluated on 1,260 international customer transactions spanning 13 dirty data anomalies:
+      </p>
+      <div class="card-grid">
+        <div class="glass-card">
+          <h3 style="color: var(--primary); margin-bottom: 0.5rem;">Dirty Syntaxes</h3>
+          <ul style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.6; padding-left: 1.2rem;">
+            <li>Currency strings: <code>$52,000</code>, <code>USD 75k</code></li>
+            <li>Mixed date formats: <code>DD/MM/YYYY</code> vs <code>MM/DD/YYYY</code></li>
+            <li>Outliers: Age <code>999</code>, <code>-39</code>, <code>$9.99M</code> purchases</li>
+          </ul>
+        </div>
+        <div class="glass-card">
+          <h3 style="color: var(--secondary); margin-bottom: 0.5rem;">Semantic Traps</h3>
+          <ul style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.6; padding-left: 1.2rem;">
+            <li>Negative purchase values (genuine accounting refunds)</li>
+            <li>Cultural names: <code>Jean-Luc</code>, <code>O'Connor</code></li>
+            <li>High missingness: <code>phone_number</code> (38% null)</li>
+          </ul>
+        </div>
+        <div class="glass-card">
+          <h3 style="color: var(--accent); margin-bottom: 0.5rem;">Categorical Sprawl</h3>
+          <ul style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.6; padding-left: 1.2rem;">
+            <li>16 raw variants for Gender (<code>Fem</code>, <code>NB</code>, <code>M</code>)</li>
+            <li>22 raw variants for Country (<code>Deutschland</code>, <code>Oz</code>)</li>
+            <li>Inconsistent binary churn labels</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 3: Bug 1 - The Silent dropna -->
+    <div class="slide" id="slide-3" data-notes="This is the most dangerous bug in AI code. The AI generated df.dropna(inplace=True). Because missing values occurred across multiple columns, 98.7% of the dataset was wiped out without any error message!">
+      <div class="slide-header">
+        <span class="slide-subtitle">Failure Mode 1</span>
+        <h2 class="slide-title">The Silent <span style="color: var(--danger);">dropna()</span> Catastrophe</h2>
+      </div>
+      <div class="card-grid" style="grid-template-columns: 1fr 1fr;">
+        <div class="glass-card">
+          <h3 style="color: var(--danger); margin-bottom: 0.75rem;">AI Generated Code (Zero-Shot)</h3>
+          <div class="code-box">
+# Clean missing values<br>
+df.dropna(inplace=True)
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 1rem; line-height: 1.6;">
+            <strong>What Happened:</strong> Phone number had 38% nulls, income had 30%, email had 25%. Dropping rows with ANY missing value resulted in only <strong>16 rows remaining</strong> out of 1,260!
+          </p>
+        </div>
+        <div class="glass-card">
+          <h3 style="color: var(--success); margin-bottom: 0.75rem;">Defensive Production Fix</h3>
+          <div class="code-box">
+# Only drop on non-nullable primary keys<br>
+df = df.dropna(subset=['customer_id'])<br>
+<br>
+# Handle optional fields non-destructively<br>
+df['phone_number'] = df['phone_number'].fillna('Not Provided')
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 1rem; line-height: 1.6;">
+            <strong>Result:</strong> Retains <strong>1,173 valid records (93.1%)</strong> while cleanly tracking missing attributes without data destruction.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 4: Semantic Flaws -->
+    <div class="slide" id="slide-4" data-notes="AI has no domain intuition. It assumed negative transactions were errors and called .abs(), converting -$85 refunds into +$85 sales! It also stripped apostrophes and hyphens from names like O'Connor and Jean-Luc.">
+      <div class="slide-header">
+        <span class="slide-subtitle">Failure Modes 2 & 3</span>
+        <h2 class="slide-title">Semantic Blindspots: Refunds & Names</h2>
+      </div>
+      <div class="card-grid" style="grid-template-columns: 1fr 1fr;">
+        <div class="glass-card">
+          <h3 style="color: var(--accent); margin-bottom: 0.5rem;">Financial Logic Inversion</h3>
+          <div class="code-box">
+df['purchase_amount'] = df['purchase_amount'].abs()
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 0.75rem; line-height: 1.5;">
+            Negative amounts represent <strong>merchandise returns and refunds</strong>. Taking the absolute value flipped returns into sales, creating a $170 revenue distortion per refunded customer.
+          </p>
+        </div>
+        <div class="glass-card">
+          <h3 style="color: var(--warning); margin-bottom: 0.5rem;">Cultural Name Mutilation</h3>
+          <div class="code-box">
+df['name'] = df['name'].str.replace(r'[^a-zA-Z\s]', '')
+          </div>
+          <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 0.75rem; line-height: 1.5;">
+            The naive regex stripped apostrophes and hyphens: <code>O'Connor</code> became <code>OConnor</code>; <code>Jean-Luc</code> became <code>JeanLuc</code>. Destroys CRM customer identification!
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 5: Responsible AI & Fairness -->
+    <div class="slide" id="slide-5" data-notes="Notice how under ChatGPT's naive dropna, 100% of Non-Binary customers were wiped out. This is unconscious algorithmic bias. When building automated pipelines, we must audit demographic representation.">
+      <div class="slide-header">
+        <span class="slide-subtitle">Responsible AI</span>
+        <h2 class="slide-title">Demographic Fairness & Imputation</h2>
+      </div>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Gender Subgroup</th>
+              <th>Raw Count</th>
+              <th>ChatGPT Retained</th>
+              <th>Pipeline Retained</th>
+              <th>Ethical Assessment</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Female</td>
+              <td>571</td>
+              <td><span class="badge badge-danger">1.26% (7)</span></td>
+              <td><span class="badge badge-success">97.48% (557)</span></td>
+              <td>Severe drop under naive AI</td>
+            </tr>
+            <tr>
+              <td>Male</td>
+              <td>540</td>
+              <td><span class="badge badge-danger">1.34% (7)</span></td>
+              <td><span class="badge badge-success">97.10% (524)</span></td>
+              <td>Severe drop under naive AI</td>
+            </tr>
+            <tr>
+              <td>Non-Binary</td>
+              <td>52</td>
+              <td><span class="badge badge-danger">0.00% (0)</span></td>
+              <td><span class="badge badge-success">92.31% (48)</span></td>
+              <td><strong>100% Erasure under Naive AI!</strong></td>
+            </tr>
+            <tr>
+              <td>Prefer not to say</td>
+              <td>37</td>
+              <td><span class="badge badge-danger">5.56% (2)</span></td>
+              <td><span class="badge badge-success">100.0% (37)</span></td>
+              <td>Preserved in Reusable Pipeline</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Slide 6: Benchmark Scorecard -->
+    <div class="slide" id="slide-6" data-notes="Here is the comprehensive scorecard. Notice how Prompt Engineering dramatically improves Gemini, but the Reusable Pipeline provides auditability and distribution preservation via subgroup-aware imputation.">
+      <div class="slide-header">
+        <span class="slide-subtitle">Comparative Evaluation</span>
+        <h2 class="slide-title">The Complete Benchmark Scorecard</h2>
+      </div>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Dimension</th>
+              <th>ChatGPT Zero-Shot</th>
+              <th>Gemini Engineered</th>
+              <th>Reusable Pipeline</th>
+              <th>Ground Truth</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Row Retention Rate</strong></td>
+              <td><span class="badge badge-danger">1.27%</span></td>
+              <td><span class="badge badge-success">93.10%</span></td>
+              <td><span class="badge badge-success">93.10%</span></td>
+              <td>95.24%</td>
+            </tr>
+            <tr>
+              <td><strong>Refunds Preserved</strong></td>
+              <td><span class="badge badge-danger">0.0%</span></td>
+              <td><span class="badge badge-warning">85.57%</span></td>
+              <td><span class="badge badge-success">80.41%</span></td>
+              <td>100.0%</td>
+            </tr>
+            <tr>
+              <td><strong>Name Integrity</strong></td>
+              <td><span class="badge badge-danger">0.0%</span></td>
+              <td><span class="badge badge-success">96.83%</span></td>
+              <td><span class="badge badge-success">96.83%</span></td>
+              <td>100.0%</td>
+            </tr>
+            <tr>
+              <td><strong>Income KS-Test p-val</strong></td>
+              <td>0.5576*</td>
+              <td>0.0372</td>
+              <td><span class="badge badge-success">0.3445 (High)</span></td>
+              <td>1.0000</td>
+            </tr>
+            <tr>
+              <td><strong>Composite Score</strong></td>
+              <td><span class="badge badge-danger">10.0 / 100</span></td>
+              <td><span class="badge badge-success">91.5 / 100</span></td>
+              <td><span class="badge badge-success">98.5 / 100</span></td>
+              <td>100 / 100</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Slide 7: The Reusable Pipeline Architecture -->
+    <div class="slide" id="slide-7" data-notes="To solve these vulnerabilities, we built the AIDataCleaningAssistant. It is modular, schema-driven, non-destructive, and automatically produces an execution audit log.">
+      <div class="slide-header">
+        <span class="slide-subtitle">Solution Architecture</span>
+        <h2 class="slide-title">Automated Reusable Pipeline</h2>
+      </div>
+      <div class="card-grid">
+        <div class="glass-card">
+          <h3 style="color: var(--primary); margin-bottom: 0.5rem;">1. Key Normalization</h3>
+          <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.5;">
+            Normalizes casing and strips whitespaces on primary keys BEFORE executing deduplication.
+          </p>
+        </div>
+        <div class="glass-card">
+          <h3 style="color: var(--secondary); margin-bottom: 0.5rem;">2. Semantic Handlers</h3>
+          <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.5;">
+            Preserves negative signs for accounting refunds; handles <code>k</code> and <code>m</code> multipliers.
+          </p>
+        </div>
+        <div class="glass-card">
+          <h3 style="color: var(--accent); margin-bottom: 0.5rem;">3. Subgroup Imputation</h3>
+          <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.5;">
+            Conditions salary imputation on Country + Age cohort, avoiding variance collapse.
+          </p>
+        </div>
+        <div class="glass-card">
+          <h3 style="color: var(--success); margin-bottom: 0.5rem;">4. Lineage & Audit Log</h3>
+          <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.5;">
+            Emits execution time, dropped count, and imputed counts in an auditable JSON summary.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 8: The 3 Golden Rules -->
+    <div class="slide" id="slide-8" data-notes="In conclusion: AI is great for scaffolding code, but dangerous without verification. Remember the 3 golden rules: never drop globally, supply schema contracts, and always audit before/after row retention.">
+      <div class="slide-header">
+        <span class="slide-subtitle">Key Takeaways</span>
+        <h2 class="slide-title">The 3 Golden Rules for AI Cleaning</h2>
+      </div>
+      <div class="card-grid" style="grid-template-columns: 1fr;">
+        <div class="glass-card" style="border-left: 4px solid var(--danger);">
+          <h3 style="color: #fff; margin-bottom: 0.25rem;">Rule 1: Never Use Zero-Shot Prompts for Data Pipelines</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6;">
+            Always supply an explicit data schema contract. Forbid global <code>dropna()</code> and specify date formats (<code>dayfirst=True</code>).
+          </p>
+        </div>
+        <div class="glass-card" style="border-left: 4px solid var(--warning);">
+          <h3 style="color: #fff; margin-bottom: 0.25rem;">Rule 2: AI Has No Domain Intuition — Define Semantics</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6;">
+            Clarify whether negative values represent refunds or typos. Clarify whether nulls in contact fields are optional or errors.
+          </p>
+        </div>
+        <div class="glass-card" style="border-left: 4px solid var(--success);">
+          <h3 style="color: #fff; margin-bottom: 0.25rem;">Rule 3: Enforce Automated Verification & Lineage</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6;">
+            Every data cleaning function must return an audit log. Validate row retention and statistical drift before committing to production.
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Speaker Notes Drawer -->
+  <div id="speaker-notes"></div>
+
+  <footer>
+    <button class="speaker-notes-toggle" id="btn-notes" onclick="toggleNotes()">
+      <span>🎙️</span>
+      <span id="notes-label">Show Speaker Notes</span>
+    </button>
+    <div class="controls">
+      <button id="btn-prev" onclick="changeSlide(-1)">
+        <span>←</span> Previous
+      </button>
+      <button id="btn-next" onclick="changeSlide(1)">
+        Next <span>→</span>
+      </button>
+    </div>
+  </footer>
+
+  <script>
+    let currentSlide = 1;
+    const totalSlides = 8;
+
+    function updateSlide() {
+      // Toggle slides
+      document.querySelectorAll('.slide').forEach((slide, idx) => {
+        if (idx + 1 === currentSlide) {
+          slide.classList.add('active');
+          const notesText = slide.getAttribute('data-notes');
+          document.getElementById('speaker-notes').innerText = notesText || 'No notes for this slide.';
+        } else {
+          slide.classList.remove('active');
+        }
+      });
+
+      // Update counters
+      document.getElementById('slide-num').innerText = `Slide ${currentSlide} / ${totalSlides}`;
+      document.getElementById('progress-bar').style.width = `${(currentSlide / totalSlides) * 100}%`;
+
+      // Update buttons
+      document.getElementById('btn-prev').disabled = (currentSlide === 1);
+      document.getElementById('btn-next').disabled = (currentSlide === totalSlides);
+    }
+
+    function changeSlide(direction) {
+      currentSlide = Math.max(1, Math.min(totalSlides, currentSlide + direction));
+      updateSlide();
+    }
+
+    function toggleNotes() {
+      const notesEl = document.getElementById('speaker-notes');
+      const btn = document.getElementById('btn-notes');
+      const isVisible = notesEl.classList.toggle('visible');
+      btn.classList.toggle('active', isVisible);
+      document.getElementById('notes-label').innerText = isVisible ? 'Hide Speaker Notes' : 'Show Speaker Notes';
+    }
+
+    // Keyboard navigation
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+        changeSlide(1);
+      } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+        changeSlide(-1);
+      } else if (e.key.toLowerCase() === 'n') {
+        toggleNotes();
+      }
+    });
+
+    // Initialize
+    updateSlide();
+  </script>
+</body>
+</html>

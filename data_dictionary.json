@@ -1,0 +1,29 @@
+{
+    "dataset_name": "International E-Commerce Customer Analytics & Demographics (Messy Benchmark)",
+    "total_raw_rows": 1260,
+    "total_ground_truth_rows": 1200,
+    "fields": {
+        "customer_id": "Unique customer identifier string (CUST-XXXX). Contains whitespace, lowercase, missing IDs.",
+        "full_name": "Customer first and last name. Contains titles, apostrophes (O'Connor), hyphens (Jean-Luc), casing anomalies.",
+        "age": "Customer age in years. Contains strings ('45 yrs'), negative numbers (-39), extreme outliers (195, 999), NaNs.",
+        "gender": "Self-reported gender. Inconsistent categories ('Female', 'F', 'f', 'Male', 'M', 'Non-Binary', 'NB').",
+        "country": "Customer country of residence. Inconsistent naming ('USA', 'U.S.A.', 'US', 'Great Britain', 'UK').",
+        "signup_date": "Account creation timestamp. Mixed date formats (ISO, DD/MM/YYYY, MM-DD-YYYY, text 'yesterday', invalid '2023-02-30').",
+        "annual_income": "Estimated annual salary in USD. Dirty currencies ('$52,000', 'USD 75000', '75k', negative values, strings).",
+        "purchase_amount": "Recent transaction total in USD. Valid negative values (refunds/returns), extreme outliers, text ('Free', 'N/A').",
+        "transaction_count": "Lifetime transaction count. Numeric and string artifacts, negative counts, extreme outliers.",
+        "email": "Customer contact email. Missing '@' symbols, trailing spaces, uppercase, dummy placeholders.",
+        "phone_number": "Contact phone. High missingness (38% MCAR), multiple punctuation styles.",
+        "satisfaction_score": "Customer survey rating (1 to 5). Contains text ('Excellent', '5/5'), out-of-bounds numbers (-1, 10).",
+        "churn": "Binary churn label ('Yes' / 'No'). Stored inconsistently as 1/0, TRUE/FALSE, lowercase strings."
+    },
+    "injected_bugs_to_test": [
+        "Naive dropna() deleting valid rows due to phone_number missingness",
+        "pd.to_datetime European day-first swap flipping month and day",
+        "Regex stripping hyphens/apostrophes in names",
+        "Treating negative purchase amounts as errors rather than legitimate refunds",
+        "Distortion of sub-population distributions via blind mean imputation",
+        "Type-coercion errors when casting '$1,200.50' directly with astype(float)",
+        "Deduplication failing due to leading/trailing whitespace"
+    ]
+}

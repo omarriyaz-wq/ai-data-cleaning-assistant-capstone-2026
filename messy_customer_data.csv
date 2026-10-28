@@ -1,0 +1,1261 @@
+customer_id,full_name,age,gender,country,signup_date,annual_income,purchase_amount,transaction_count,email,phone_number,satisfaction_score,churn
+CUST-1077,Richard Davis,38,Female,Germany,11/06/2022,35978.81,,,richard.davis@gmail.com,,4,Yes
+CUST-2027,Michelle Scott,41,Male,australia,2023-09-28,90629.8,79.46,6,michelle.scott@outlook.com,+17079917133,4,No
+cust-1044,Lisa Allen,54,Male,DE,2023-10-29,"$81,958.99",134.58,6,lisa.allen@gmail.com,,3,No
+CUST-1667,anthony hall,32,Male,Oz,10 Feb 2023,73480.41,$48.35,5,anthony.hall@yahoo.com,+1-937-471-8033,1,No
+CUST-1530,  Betty Robinson   ,39,Male,Germany,2023-07-16,88k,100.16,5,BETTY.ROBINSON@ICLOUD.COM,+16292253284,4,
+CUST-1102,daniel smith,25,Male,United Kingdom,26 Feb 2023,73413.01,N/A,6,daniel.smith@icloud.com,(618) 901-9056,3,Yes
+CUST-1909,Amanda Nelson,40,Female,uk,2022-04-10,49694.18,54.99,11,amanda.nelson@outlook.com,+1-292-584-7108,1,No
+CUST-1491,William Miller,49,,Germany,2021-08-16,64331.14,9999999.0,6,william.miller@outlook.com,,4,No
+CUST-1778,,32,Male,United States,2023-07-01,78618.72,116.06,6,andrew.green@gmail.com,+1-579-523-3421,4/5,No
+CUST-1454,Karen Garcia,30,Female,United Kingdom,,76468.16,29.95,4,karen.garcia@yahoo.com,,1,No
+CUST-1064,Thomas Taylor,-5,Male,United Kingdom,2024-06-07,69565.08,125.91,6,thomas.taylor@icloud.com,,5,No
+CUST-1948,James Sanchez,18,,United Kingdom,2022-12-28,"$51,127.28",72.96,10,,+1-324-436-3570,4,No
+CUST-1351,O'Connor Davis,32,FEMALE,Germany,2022-08-25,"$72,249.19",$143.22,6,oconnor.davis@gmail.com,,3,No
+CUST-1523,William Flores,25, Fem ,Germany,11-03-2021,45357.75,,7,william.flores@yahoo.com,+1-849-528-5789,4,Yes
+CUST-1908,Robert Ramirez,41,Female,uk,2024-06-09,30747.08,43.04,5,ROBERT.RAMIREZ@YAHOO.COM,+1-976-710-9290,Good,Yes
+cust-1673,Lisa Hill,45,Female,Germany,2021-01-16,78783.84,-214.03,3,lisa.hill@outlook.com,,5,no
+CUST-1399,Paul Taylor,57, Mal ,Canada,17/01/2023,50546.99,223.86,1,paul.tayloroutlook.com,(508) 927-6467,5,Yes
+CUST-1826,Nancy Baker,,Female,U.S.A.,2022-08-20,56154.21,$317.95,10,nancy.baker@yahoo.com,,,Yes
+CUST-1362,D'Angelo Lewis,40,Female,Canada,02-22-2022,50052.3,199.98,3,dangelo.lewis@icloud.com,,4,No
+CUST-1794,Daniel Nguyen,18,Male,United States,2023-02-22,,-50.43,7,daniel.nguyen@gmail.com,(527) 749-2489,2,
+CUST-1934,joshua wilson,47,Non-Binary,Germany,11-11-2023,43680.88,9999999.0,7,joshua.wilson@icloud.com,,,No
+CUST-1514,Emily Young,28,Female,Australia,03-15-2021,22975.34,$225.12,7,emily.young@gmail.com,,5,No
+CUST-1632,Barbara Thomas,35,MALE,Germany,2023-07-06,53776.46,9999999.0,7,barbara.thomas@yahoo.com,(752) 987-4059,1,no
+CUST-1844,Steven Harris,,Male,Deutschland,2024-03-13,,80.86,6,STEVEN.HARRIS@GMAIL.COM,,4,No
+CUST-2146,Mary Campbell,38,Female,Canada,2024-04-02,56175.51,50.18,4,mary.campbell@yahoo.com,+1-825-728-6396,5,No
+CUST-1594,jessica young,29,Male,CA,2023-02-30,none,-16.02,6,jessica.young@icloud.com,+13622621976,,
+CUST-1255,Mark Baker,20,Non-Binary,United Kingdom,28 Dec 2022,40056.06,EUR 14.73,6,mark.baker@icloud.com,+14197264728,3,Yes
+CUST-1082,Sandra Baker,50,Male,Germany,2023-12-26,92974.21,15.85,-3,sandra.baker@yahoo.com,+14536716671,2,No
+CUST-1527,Patricia Rivera,39,Female,ca,2023-12-21,"$35,429.74",,6,patricia.rivera@yahoo.com,,4,No
+CUST-1309,BETTY LOPEZ,51,,U.S.A.,01-14-2023,60k,-134.89,,betty.lopez@gmail.com,,2,No
+CUST-1368,William Davis,42,Female,Canada,01-10-2023,45045.82,9999999.0,7,william.davis@yahoo.com,+15016713361,5/5,FALSE
+CUST-1965,Jessica White,27,Non-Binary,GB,2024-03-30,53653.12,,9,jessica.white@yahoo.com,,3,No
+CUST-1694,CHLOË MILLER,32,,US,2022-10-08,,111.62,8,  chloë.miller@gmail.com  ,(965) 244-6942,3,Yes
+CUST-1766,Paul Nelson,48,Male,Canada,04/06/2023,51103.67,,8,paul.nelson@gmail.com,,5,Yes
+CUST-2059,Elizabeth King,60,M,Canada,2021-08-29,79082.75,137.57,4,elizabeth.king@icloud.com,+1-371-444-4496,4,No
+CUST-1858,Jean-Luc Jackson,42,Female,Canada,2021-09-30,,$13.80,8,jeanluc.jackson@outlook.com,+1-243-560-6814,3,Yes
+CUST-1680,Joshua Harris,24,Non-Binary,United States,2023-02-30,"$64,811.13",40.28,5,joshua.harris@yahoo.com,,Average,No
+CUST-2008,Lisa Thompson,29,Female,United Kingdom,2023-04-29,98803.75,170.25,10,lisa.thompson@outlook.com,,4/5,No
+CUST-1813,O'Connor Flores, 18 yrs,Female,United Kingdom,09-23-2021,69238.33,,4,OCONNOR.FLORES@ICLOUD.COM,+1-457-692-9034,4,No
+CUST-1622,Carol Martinez,47,Male,Australia,2022-10-05,49960.05,refunded,2,carol.martinez@gmail.com,(457) 396-5375,3,No
+CUST-1618,Charles Torres,23,Female,United States,2023-07-17,46735.23,174.21,5,charles.torres@yahoo.com,+1-612-974-7893,4,No
+CUST-1193,Joseph Wilson,30,Male,united states,2022-07-20,47k,278.17,5,joseph.wilson@yahoo.com,+1-296-238-8542,3,No
+CUST-1436,Mary King,29,Female,Germany,2023-09-21,"$41,542.83",-109.84,5,mary.king@gmail.com,,1,Yes
+CUST-1266,,44,Male,Canada,06/11/2022,73164.07,50.79,,jennifer.thomas@icloud.com,+19669614865,5,No
+CUST-2048,Carol Ramirez,40,Male,Ger,2023-10-12,100956.43,76.38,5,carol.ramirezicloud.com,(485) 531-4584,4,No
+CUST-1079,Elizabeth Robinson,39,Male,Australia,2023-02-05,"USD 64,469",44.98,3,,(975) 750-4578,,No
+CUST-1429,Sarah Torres,18,Male,ca,2021-07-23,89289.55,Free,5,sarah.torres@yahoo.com,+1-321-494-5486,4/5,No
+CUST-1440,MICHAEL RAMIREZ,35,,Germany,2021-09-18,74919.61,46.9,7,michael.ramirez@yahoo.com,+17329662990,2,No
+CUST-1304,nancy garcia,51,Male,United States,2022-04-08,18000.0,109.92,,,,2/5,No
+CUST-1276,Nancy Johnson,32,Female,US,2023.03.19,"$63,206.50",31.15,1,NANCY.JOHNSON@GMAIL.COM,,2,Yes
+CUST-1582,Mary Clark,45,Male,United States,2023-08-30,63737.3,78.33,6,,,5,Yes
+CUST-1576,  Jennifer Mitchell   ,62,Female,Australia,2023-05-28,109610.27,25.12,5,jennifer.mitchell@gmail.com,,5/5,No
+CUST-1052,Robert Walker,51,Female,canada,2022-07-17,26307.73,81.72,9,robert.walker@outlook.com,,Good,FALSE
+CUST-1997,  Melissa Flores   ,31,Male,United States,2023-02-04,48848.44,$86.84,7,melissa.flores@gmail.com,+1-460-480-6206,1,yes
+CUST-1529,Jennifer Lee,30,Male,Canada,05-25-2024,69911.96,$91.93,5,jennifer.lee@gmail.com,+17824686227,4,Yes
+,,,,,,,,,,,,
+CUST-2196,Sarah Harris,22,non-binary,Canada,12-26-2021,47833.65,24.94,5,sarah.harris@yahoo.com,+1-588-718-5185,5,Yes
+CUST-1353,Amanda Gonzalez,40,Female,Canada,2021-03-24,93509.18,220.98,2,amanda.gonzalez@icloud.com,(961) 539-1517,2,No
+CUST-2125,dorothy gonzalez,39,Male,ca,2023-02-08,62082.71,$67.83,,dorothy.gonzalez@gmail.com,+1-982-896-7633,4,FALSE
+CUST-1849,Carol Hill,28,Male,United States,,45407.49,125.74,7,carol.hill@yahoo.com,,3,Yes
+CUST-1024,Andrew Williams,,,Germany,2023-01-29,75614.39,-231.93,6,andrew.williams@gmail.com,+1-630-701-2729,3,No
+CUST-1211,Mary Wilson,50,Male,Canada,2023-02-30,"$102,633.49",-65.02,5,,+15475849753,5,
+CUST-1382,Susan Anderson,18,Male,Australia,20 Feb 2023,51579.49,298.37,3,susan.anderson@icloud.com,+13275598601,3,Yes
+CUST-1984,Renée Mitchell,43,Male,United States,31/10/2022,43975.96,62.18,5,renée.mitchell@gmail.com,,3,
+CUST-1651,Melissa Baker,38,Female,United States,2023.02.23,67510.23,26.45,3,melissa.baker@yahoo.com,,4,
+CUST-1406,Elizabeth Martin,, Mal ,United States,21/09/2023,"USD 115,125",49.27,5,elizabeth.martin@yahoo.com,+1-317-268-1000,2,Yes
+CUST-1359,Prof. William Jackson,28,Female,Australia,2021.05.05,"$23,534.70",260.86,5,WILLIAM.JACKSON@YAHOO.COM,+1-958-607-9110,4,Yes
+CUST-2128,David Lopez,72,Female,Australia,2023-04-29,59465.86,129.97,-4,david.lopez@outlook.com,,3/5,Yes
+CUST-1059,Linda Young,999, Mal ,United States,2023-11-22,69476.2,$55.91,2,LINDA.YOUNG@YAHOO.COM,+14986391025,4,No
+CUST-1799,Jennifer Scott,24,Female,Canada,2023-03-07,96341.81,EUR 144.36,999,jennifer.scott@gmail.com,+1-223-811-9438,3,No
+CUST-1199,kimberly martin,34,Female,Germany,2021-11-18,56119.73,-244.24,6,kimberly.martin@outlook.com,+18405094869,-1,Yes
+CUST-1580,Jean-Luc Torres,20,Male,United Kingdom,2021-01-16,74210.26,233.15,5,jeanluc.torres@yahoo.com,+1-456-625-2527,4,Yes
+CUST-1559,Paul Scott,34,Female,Germany,2024.04.06,75763.6,45.27,9,paul.scott@gmail.com,,4,No
+CUST-1760,Donna Clark,,Male,Australia,2022-05-21,73519.88,107.37,1,donna.clark@outlook.com,+1-558-876-9150,Poor,No
+CUST-1050,Andrew Sanchez,51,Male,Germany,,98910.16,74.08,9,no_email,(532) 375-8538,,Yes
+CUST-1175,Jessica Flores,42,Female,United States,03 Sep 2021,-70849.77,274.38,9,jessica.flores@icloud.com,+1-828-206-9871,-1,Yes
+CUST-1848,Betty Walker,34,Male,United Kingdom,2021-02-15,64851.45,167.79,7,betty.walker@icloud.com,+19173239978,5,No
+CUST-1378,,44,,U.K.,NULL,57123.35,377.4,2,margaret.moore@outlook.com,+16142835887,5,No
+CUST-1197,D'Angelo Jackson,38,Female,United States,2022-09-17,48811.11,347.9,8,dangelo.jackson@gmail.com,,3,No
+CUST-1232,Melissa Nguyen,29,Female,United States,2021-03-17,"USD 51,341",20.31,6,MELISSA.NGUYEN@ICLOUD.COM,+1-869-219-8720,-1,No
+CUST-2121,Kevin Thomas,33,Male,United Kingdom,2023-09-09,89481.0,133.59,6,KEVIN.THOMAS@ICLOUD.COM,,3,No
+CUST-1412,  Susan Torres   ,45,MALE,Australia,2022-12-23,48978.01,,7,susan.torres@yahoo.com,,4,1
+CUST-1768,Charles Lewis,31,m,Canada,2023-02-30,75951.34,EUR 253.48,,charles.lewis@icloud.com,,-1,No
+CUST-1623,Matthew Jones, 40 yrs,N/A,United States,2023-03-04,,281.88,6,matthew.jones@gmail.com,,5,No
+CUST-1946,Matthew Lopez,40,Male,Australia,2023-02-15,26928.87,-107.98,8,matthew.lopez@outlook.com,(663) 262-4918,5,No
+CUST-1241,Amanda Jones,19,Male,United Kingdom,2021-10-11,29083.72,21.56,-4,amanda.jones@yahoo.com,+17523168839,4,Yes
+CUST-1865,Lisa Sanchez,48,Male,U.S.,2021-06-24,55894.31,224.95,5,lisa.sanchez@outlook.com,+1-451-843-1045,3,No
+CUST-2054,thomas wilson,50,Non-Binary,Canada,2023-03-26,43274.94,138.51,3,THOMAS.WILSON@OUTLOOK.COM,(495) 966-7478,1,no
+CUST-1550,Matthew Williams,50,Non-Binary,United States,2023-08-31,0.00,EUR 129.99,10,matthew.williams@gmail.com,+1-284-451-2540,4/5,Yes
+CUST-1416,Renée Wright,31,Male,United States,2022-05-27,"USD 83,574",$31.85,6,renée.wright@gmail.com,(258) 329-8185,2,No
+,Linda Thomas,47,Female,,2021-10-07,32k,299.07,,linda.thomas@gmail.com,+1-472-385-7304,2,Yes
+CUST-1821,,35,Female,United Kingdom,2021-01-22,70897.11,9999999.0,7,,(899) 411-3356,4,No
+CUST-1988,KENNETH THOMPSON,,Male,U.S.A.,2022.05.10,Confidential,9999999.0,7,kenneth.thompson@gmail.com,+1-264-631-3256,3,Yes
+CUST-2181,Prof. Mary Davis,-38,Female,United Kingdom,2022-02-28,74862.99,499.92,5,mary.davis@yahoo.com,+1-533-613-8510,1,No
+CUST-1972,Jennifer Hill,35,Female,Canada,2024-03-14,"$34,424.84",,6,jennifer.hill@gmail.com,+1-458-593-4972,5,No
+CUST-1733,James Rodriguez,58,Female,Australia,2023.08.09,78707.92,359.85,3,james.rodriguez@outlook.com,,4/5,No
+CUST-1840,Sandra Garcia,33,Female,Australia,2022-04-01,75153.4,142.47,-4,sandra.garcia@gmail.com,+1-911-247-7879,5,
+CUST-1803,Barbara Anderson,30,Female,Germany,2023-04-17,83046.56,-$43.56,999,BARBARA.ANDERSON@YAHOO.COM,+1-734-346-8508,2,No
+CUST-2075,Jennifer Green,32,Male,United Kingdom,2021-04-02,"USD 84,748",$413.18,7,jennifer.green@yahoo.com,+1-470-794-7884,4,No
+CUST-1479,Donald Rodriguez,51,Male,United States,2022-10-27,52908.7,9999999.0,8,donald.rodriguez@icloud.com,+1-355-354-5896,4,No
+CUST-1045,Sandra Allen,39,Male,United States,2021-08-23,86637.09,705.96,999,  sandra.allen@yahoo.com  ,+16406624743,3,Yes
+CUST-1980,Jessica Lee,52,Male,United States,,66365.13,$81.52,5,JESSICA.LEE@ICLOUD.COM,+1-691-676-3495,3,TRUE
+CUST-1278,Sarah Torres,47,Male,United States,2023-05-16,39726.53,EUR 201.62,7,SARAH.TORRES@YAHOO.COM,+1-644-845-7979,2,No
+CUST-1030,Sarah Martinez,67,F,United Kingdom,2022-09-22,105555.1,$154.04,7,sarah.martinez@outlook.com,+1-649-327-8679,4,0
+CUST-1032,Sandra Garcia,43,Female,ca,2021-08-26,101329.72,$144.44,4,sandra.garcia@icloud.com,+1-726-201-9889,4,0
+CUST-1738,Karen Moore,44,M,,2023-02-21,46051.19,112.85,10,karen.moore@yahoo.com,+19408254660,4,Yes
+,,,,,,,,,,,,
+  CUST-1426  ,  Renée Jackson   ,46,Female,United States,2021-06-16,"USD 87,884",$122.84,5,renée.jackson@yahoo.com,+1-789-706-4245,-1,Yes
+CUST-1169,Kimberly Davis,40,Male,Germany,2022-02-25,102886.83,171.62,3,kimberly.davis@outlook.com,,2,No
+CUST-1087,Emily Nguyen,42,Male,Germany,2022-08-28,27k,152.52,6,emily.nguyen@outlook.com,(435) 588-5026,4,No
+CUST-1295,Anthony Harris,28,Female,DE,2022-11-26,61899.59,$205.18,5,anthony.harris@icloud.com,+1-953-484-2450,5,
+CUST-1428,Carol Adams,53,Female,Canada,2023-02-30,71224.82,refunded,4,carol.adams@outlook.com,+1-991-299-4805,3,No
+CUST-1747,Patricia Young,43,Female,USA,2022.04.07,70398.89,cancelled,5,patricia.youngoutlook.com,,,No
+CUST-1156,Jessica Williams,43,Male,Canada,21 Feb 2023,119845.99,364.54,999,  jessica.williams@gmail.com  ,+1-595-462-9851,4,No
+CUST-1221,James Torres,,Male,United Kingdom,2023-10-25,18000.0,76.47,-4,james.torres@outlook.com,,4,No
+CUST-1124,Ms. D'Angelo Lopez,31,Female,Canada,2021-09-18,54354.51,9999999.0,7,,+1-918-786-7415,,Yes
+cust-1219,Michelle Allen,48,Female,United Kingdom,2022-08-26,61007.48,,6,michelle.allengmail.com,+1-200-920-6885,2,No
+CUST-1439,Andrew Anderson,61,Female,Germany,2022-06-01,81589.67,,6,andrew.anderson@outlook.com,+1-354-237-6266,4,No
+,,,,,,,,,,,,
+CUST-1210,Karen Martin,18,Male,ca,2021-01-13,58482.12,139.71,-5,karen.martin@outlook.com,+1-549-605-1477,5,No
+CUST-1234,Ashley Garcia,70,Female,United Kingdom,02/07/2021,-31934.65,48.18,9,ashley.garcia@outlook.com,+1-626-910-8798,4,0
+CUST-2051,Donald Harris,26,Female,,2023-02-30,"$72,599.11",21.58,5,,+1-646-870-1807,5,Yes
+CUST-1716,Jennifer Nelson, 53 yrs,Male,Germany,24 Jun 2022,-92016.66,59.21,3,,,5,Yes
+CUST-1129,  Donald Torres   ,45,,Germany,2022-09-05,56846.48,9999999.0,7,donald.torres@gmail.com,+17147849467,5,No
+,Patricia King,31,Male,Germany,2023-09-26,78035.67,240.95,,patricia.king@gmail.com,,4,No
+CUST-1915,Barbara Young,48,Male,Germany,yesterday,31735.86,240.38,3,barbara.young@outlook.com,,3,Yes
+CUST-1932,,23,Female,United States,2022-02-15,73667.45,59.42,6,,(509) 766-5278,5/5,Yes
+CUST-1071,Jean-Luc Martinez,,Female,Australia,,73844.76,305.11,5,jeanluc.martinez@gmail.com,(239) 340-6456,5,No
+CUST-2002,michelle sanchez,55,Female,Germany,08-24-2021,66246.75,221.99,8,michelle.sanchezicloud.com,+16387102282,3,No
+CUST-1114,Emily Rivera, 38 yrs,Male,Germany,05/04/2022,70353.47,326.34,2,emily.rivera@icloud.com,,Excellent,No
+CUST-1297,,30,Male,Canada,2023-03-10,45848.62,EUR 51.82,-5,barbara.johnson@yahoo.com,+16225315225,3,Yes
+CUST-1109,anthony flores,48,Male,United Kingdom,2021-06-27,,568.24,7,anthony.flores@yahoo.com,+1-970-326-7291,3,No
+,,,,,,,,,,,,
+CUST-1706,Carol Perez,47,NB,Germany,2022-11-16,47k,$41.35,7,carol.perez@icloud.com,,,No
+CUST-1108,D'Angelo Davis,34,Prefer not to say,Germany,2021-09-28,"$46,661.70",202.49,4,test,+1-592-291-2678,2,no
+CUST-2114,Mark Williams,-46,,Germany,2021-01-03,70108.28,171.45,8,mark.williamsoutlook.com,+1-248-595-8425,2,No
+CUST-2000,O'Connor Green,32,Female,Germany,2021-01-19,-92804.83,$26.81,5,  oconnor.green@gmail.com  ,+1-864-918-8846,Excellent,0
+CUST-1655,Nancy Lee,26,Female,United Kingdom,,73295.98,493.98,-3,nancy.lee@outlook.com,+1-233-455-1960,2,No
+CUST-2161,Kevin Brown,33,F,U.S.,2021-07-07,55046.14,-$292.61,10,kevin.brown@gmail.com,+1-252-892-8683,1,No
+CUST-1209,andrew young,27,Male,Germany,2023-10-06,88891.61,259.58,5,ANDREW.YOUNG@YAHOO.COM,,1,No
+CUST-2007,Donna Flores,41,Female,Oz,27/04/2021,unknown,101.4,10,donna.flores@yahoo.com,,Poor,No
+CUST-2138,David Rivera,55,Female,United Kingdom,16 May 2022,"$74,789.30",25.72,1,david.rivera@yahoo.com,+18767651786,3,Yes
+,,,,,,,,,,,,
+CUST-2101,John Mitchell,54, Mal ,,12 Aug 2021,63661.31,-322.01,,john.mitchell@icloud.com,+1-950-298-1820,-1,No
+CUST-2118,joseph adams,40,Male,AU,27 Sep 2022,,56.84,2,joseph.adams@yahoo.com,+1-237-654-9647,2,
+CUST-1606,Prof. Betty Harris,31,Male,UK,2023-04-26,63922.77,17.36,6,betty.harris@outlook.com,,3,No
+CUST-1679,Mr. Michelle Campbell,39,Male,United States,,80k,$170.26,3,michelle.campbell@icloud.com,+1-982-411-4979,Good,No
+CUST-1425,Joseph Robinson,57,Female,United States,2022-05-09,79628.4,65.04,3,joseph.robinson@icloud.com,+1-570-281-6766,4,No
+CUST-1468,Patricia Jackson,,,United States,N/A,90998.75,,999,patricia.jackson@icloud.com,,2,No
+CUST-1507,Paul Wilson,37,Non-Binary,United States,11-13-2021,40625.28,142.36,,paul.wilson@yahoo.com,+1-651-923-3908,,TRUE
+CUST-1478,Christopher Scott,48,Male,Great Britain,2022-03-17,38875.76,$267.78,-10,christopher.scott@icloud.com,(480) 309-2219,3,No
+CUST-1286,Jean-Luc Davis,,Non-Binary,Australia,2024-06-02,68154.55,EUR 123.44,6,jeanluc.davis@gmail.com,,2,No
+CUST-1467,linda hill,53,Male,United Kingdom,2022-05-17,75579.98,22.01,5,linda.hill@gmail.com,+1-207-966-1529,4,No
+cust-1055,Richard Anderson,32,N/A,United Kingdom,06-08-2021,47556.8,39.27,3,N/A,,5,Yes
+CUST-1542,James Moore,-49,Male,CAN,2023-07-01,74188.98,472.55,7,james.mooreyahoo.com,+1-299-254-7030,3,No
+CUST-1740,Melissa Rodriguez,30,Female,United Kingdom,2022-02-04,53729.51,175.58,4,MELISSA.RODRIGUEZ@OUTLOOK.COM,+1-387-471-7661,3,No
+CUST-1057,Amanda King,37,Male,Canada,,60138.67,241.73,999,,,Excellent,No
+CUST-1110,Richard Mitchell,,Female,United States,,71138.47,152.19,5,richard.mitchell@gmail.com,,Good,Yes
+CUST-1672,Patricia Baker,36,Male,Canada,2022-05-20,61881.33,381.34,6,patricia.baker@icloud.com,+1-911-245-6755,-1,No
+CUST-1629,Renée Hall,25,M,Germany,05/04/2023,70633.76,EUR 73.65,5,test,,,Yes
+CUST-1299,Joshua Taylor,47,m,Germany,2022-12-21,60395.1,,8,joshua.taylor@yahoo.com,+1-799-722-5609,1,No
+CUST-2031,Sarah Sanchez,34,Female,Canada,2022-09-20,24618.19,22.34,5,SARAH.SANCHEZ@ICLOUD.COM,,10,No
+CUST-1962,Amanda Adams,42,Female,USA,2022-03-20,unknown,32.45,4,AMANDA.ADAMS@GMAIL.COM,,1,FALSE
+CUST-1671,Betty Green,42,Female,Canada,2023-02-30,71358.49,62.58,3,BETTY.GREEN@YAHOO.COM,,-1,No
+CUST-1260,Christopher Brown,34,Female,USA,2021-09-20,"$61,048.27",48.27,4,CHRISTOPHER.BROWN@OUTLOOK.COM,,4,No
+  CUST-1597  ,jessica lee,54,FEMALE,Canada,2023.01.01,24057.12,351.22,-9,jessica.lee@yahoo.com,+1-745-541-9079,3,TRUE
+CUST-1345,Susan Hall,43,Female,United States,05-01-2022,58228.21,-62.46,2,susan.hall@yahoo.com,,4,No
+CUST-1755,Andrew Hall,29,Male,United States,08-23-2023,45843.99,$17.40,4,andrew.hall@icloud.com,+13579787656,4,No
+CUST-1827,George Flores,42, Mal ,australia,2022-10-28,49561.49,86.63,,george.flores@yahoo.com,+19558194684,2,No
+CUST-1291,Mark Martin,32,Male,united states,2023-07-18,-59023.59,139.95,3,mark.martinyahoo.com,+19637959737,5,FALSE
+CUST-2119,JOSEPH NELSON,18,Male,Canada,02/03/2024,60676.72,$87.87,12,joseph.nelson@outlook.com,+1-583-365-4748,4,No
+CUST-2030,John Taylor,44,Female,Australia,2023-02-30,"USD 72,142",-261.43,7,john.taylor@outlook.com,,5,No
+CUST-2113,O'Connor Wilson,41,Female,United States,yesterday,56394.56,,4,  oconnor.wilson@outlook.com  ,+1-295-402-2142,4,No
+CUST-1520,Elizabeth Adams,57,Female,UK,2021-11-05,78323.34,45.17,999,elizabeth.adams@icloud.com,,4,No
+CUST-1789,Emily Walker,29,f,DE,2023-02-30,98018.55,EUR 84.05,7,EMILY.WALKER@ICLOUD.COM,,3,Yes
+CUST-1503,Prof. George Thompson,29,male,Australia,2022-04-04,"$64,240.52",123.7,5,george.thompson@gmail.com,,4,0
+CUST-1742,Michelle Moore,22,f,Canada,2022-01-07,"USD 46,057",,11,MICHELLE.MOORE@OUTLOOK.COM,,2,No
+CUST-1875,Linda Smith,35,Male,Australia,2021-03-31,28646.93,16.27,6,,,4,
+CUST-2080,Renée Sanchez,44,Male,United States,2023-02-13,"USD 48,687",163.5,5,renée.sanchez@outlook.com,,3,No
+CUST-1977,Jennifer Williams,44,Non Binary,Australia,2022-03-11,"USD 58,519",189.48,7,jennifer.williams@yahoo.com,+1-208-827-8088,4,0
+CUST-1814,Sandra Allen,,Female,United Kingdom,,97019.56,212.21,4,sandra.allen@outlook.com,+13989863211,3,No
+,Jennifer Jones,53,Female,CAN,2021-06-13,80816.97,55.11,1,jennifer.jones@icloud.com,,3,Yes
+CUST-1287,Anthony Smith,32,Female,Germany,12-01-2022,27438.12,173.92,6,anthony.smith@yahoo.com,(287) 472-7101,4,No
+CUST-1981,Mark Miller,30,Male,Germany,2022-11-07,48714.89,336.34,8,MARK.MILLER@YAHOO.COM,+1-785-271-3278,4,1
+CUST-1584,Jessica Walker,34,Female,United Kingdom,2022-06-13,84078.25,$191.56,5,jessica.walkeroutlook.com,+1-887-463-7808,2,0
+CUST-2145,D'Angelo Martin,41,Male,Canada,2023-08-06,80440.11,43.79,11,dangelo.martin@outlook.com,,5,No
+CUST-1919,Melissa Gonzalez,60,Female,United States,04-19-2021,,EUR 117.54,6,melissa.gonzalezgmail.com,+13897148073,5,TRUE
+CUST-1940,Mark Martinez,36,Female,Australia,2024.04.27,"USD 101,360",225.86,4,MARK.MARTINEZ@GMAIL.COM,,4,Yes
+CUST-1808,BRIAN MOORE,40,Male,United States,2021-09-11,90432.15,42.77,3,brian.moore@icloud.com,+1-992-400-9957,4,No
+CUST-1562,Matthew Wilson,46,Male,United States,25/11/2021,56305.27,166.9,7,matthew.wilson@outlook.com,+16973272567,3,No
+CUST-2168,Jennifer Robinson,34,Female,Canada,2024-01-02,119136.56,-105.93,5,jennifer.robinson@yahoo.com,,3,Yes
+CUST-2019,David Scott,57,Male,Australia,2023-02-04,76142.02,111.84,6,david.scotticloud.com,(846) 208-5075,4,1
+CUST-1882,Prof. John Lopez,35,Male,United Kingdom,2022.10.22,20449.12,141.27,,john.lopezyahoo.com,+1-604-671-7161,4/5,FALSE
+CUST-1310,Nancy Wilson,44,,United Kingdom,,47266.51,44.34,5,NANCY.WILSON@YAHOO.COM,+1-739-838-8106,,No
+CUST-1366,Michael Moore,33, Mal ,Canada,2022-06-28,77k,79.15,,michael.moore@gmail.com,,3,No
+CUST-1614,Anthony Gonzalez,18,Female,United Kingdom,03-18-2022,37502.44,357.8,6,anthony.gonzalez@yahoo.com,,3,No
+CUST-1410,CHRISTOPHER ANDERSON,18,Prefer not to say,United Kingdom,2021-08-04,"$49,908.04",Free,7,christopher.anderson@yahoo.com,+1-945-593-7882,5,
+CUST-1011,Andrew King,21, Fem ,Canada,2022-02-23,"$87,934.82",,5,andrew.king@outlook.com,+1-444-471-7484,2,No
+  CUST-1148  ,Nancy Scott,39,Male,Australia,,"USD 61,766",142.79,6,nancy.scott@outlook.com,+1-933-663-2868,2,No
+cust-1615,,29,Female,,,84569.91,EUR 137.10,8,BETTY.RAMIREZ@GMAIL.COM,,4,No
+CUST-2164,John White,53,Male,australia,12/03/2023,49427.71,143.1,7,john.white@gmail.com,+1-481-479-1571,4,No
+CUST-1889,Thomas Johnson,47,Female,United States,2022-01-09,105034.98,N/A,7,thomas.johnson@icloud.com,+1-959-915-3676,Poor,No
+CUST-1329,John Davis,47,Female,Australia,2021.11.29,"$100,142.20",19.68,9,john.davis@icloud.com,+1-461-989-6711,4,No
+CUST-1343,Barbara Sanchez,23,Male,,2023-03-18,71k,57.73,7,barbara.sanchezicloud.com,,4,yes
+CUST-1248,Donna Hill,48,Female,United Kingdom,09-14-2022,-45923.14,65.23,5,DONNA.HILL@OUTLOOK.COM,+1-267-804-7156,2,No
+CUST-2090,karen gonzalez,32,Male,Canada,2022.09.16,24188.27,29.05,4,karen.gonzalezicloud.com,+1-731-707-3699,4/5,Yes
+CUST-1465,Dr. Barbara Sanchez,28, Fem ,Australia,16/11/2022,67148.75,78.33,5,barbara.sanchez@yahoo.com,,4,No
+CUST-1635,Andrew Miller,46,Female,uk,06-18-2022,86074.51,-242.98,,andrew.miller@outlook.com,,4/5,Yes
+,Michelle Lee,18,Male,US,2021-01-27,-81930.43,-179.21,8,michelle.lee@yahoo.com,+1-857-373-2200,4,Yes
+CUST-1328,MATTHEW ROBINSON,60,Female,Canada,2023-02-08,54172.84,81.02,10,matthew.robinson@icloud.com,,4,0
+CUST-1290,Kimberly Wright,29,Female,United States,2023-11-14,50418.74,104.37,5,kimberly.wright@outlook.com,,1,Yes
+CUST-1815,mark baker, 34 yrs,MALE,United States,2023-06-14,48226.81,$29.40,5,,,4,Yes
+CUST-1669,Nancy Lopez,34,Prefer not to say,United States,2022-06-06,87475.71,163.23,4,nancy.lopez@gmail.com,+1-610-540-1359,5,No
+CUST-1573,Nancy Flores,47,Male,Canada,2023-08-19,67459.58,165.5,4,,+1-790-771-9977,5,Yes
+CUST-1949,Joshua Brown,48,Female,United States,,44946.78,245.25,8,joshua.brown@outlook.com,+1-640-301-7173,2,
+CUST-1136,Joshua Sanchez,38,Male,United Kingdom,2021-02-22,109074.96,146.67,6,joshua.sanchez@outlook.com,+1-465-628-7628,3,No
+CUST-1347,Michael Harris,48,Non-Binary,United Kingdom,15/02/2023,"$64,398.70",17.72,6,N/A,+13797396022,0,Yes
+CUST-2079,Anthony Martinez,,Female,Deutschland,2023.08.18,none,$357.90,,anthony.martinez@icloud.com,+1-271-886-2399,1,No
+,,,,,,,,,,,,
+CUST-1375,  Donald Taylor   ,58,Male,Germany,,88553.43,175.09,5,donald.taylor@icloud.com,+1-240-572-5696,3,Yes
+CUST-1421,Karen Torres,40,Male,CAN,01-02-2022,48839.72,128.87,4,karen.torresgmail.com,+1-650-209-8642,,No
+CUST-1383,Anthony Williams,18,Female,United Kingdom,02-06-2023,56753.91,68.99,6,anthony.williams@outlook.com,(543) 374-8045,3,TRUE
+,,,,,,,,,,,,
+CUST-1159,karen baker,26,Male,Canada,2021.01.23,58285.06,76.14,,test,,,No
+CUST-1141,O'Connor Wright,,Male,Australia,2023-02-30,31278.49,83.24,7,oconnor.wright@gmail.com,,3,FALSE
+CUST-1585,O'Connor Moore,38,Non-Binary,,2023-07-14,70307.29,371.47,7,oconnor.moore@icloud.com,+1-723-325-8884,4,no
+CUST-2174,Charles Lewis,37,Male,canada,2021-11-12,"USD 60,159",-41.55,13,charles.lewis@yahoo.com,+18903719853,4,Yes
+CUST-2078,Anthony Smith,45,Male,Germany,2024-04-23,37608.87,31.21,7,ANTHONY.SMITH@YAHOO.COM,+1-865-935-7680,1,No
+CUST-1874,JAMES RODRIGUEZ,54,m,united states,31/12/2023,44127.53,75.34,999,james.rodriguez@yahoo.com,,1/5,Yes
+CUST-2092,John Anderson,,Female,Australia,,58402.7,-269.76,7,john.anderson@outlook.com,+1-844-260-2642,4,No
+CUST-1709,Donald Lopez,37,,,11 Nov 2022,"USD 18,000",133.16,6,donald.lopezoutlook.com,+1-254-873-2572,5/5,FALSE
+CUST-1307,Dorothy Thompson, 30 yrs,Female,Australia,2021-10-26,37312.89,,4,dorothy.thompson@outlook.com,+1-817-551-5768,3,No
+CUST-1066,Sandra Baker,28,,United Kingdom,2024.02.04,56539.78,21.17,9,SANDRA.BAKER@YAHOO.COM,,4,Yes
+CUST-1891,SARAH SANCHEZ,44,Female,CA,2023-11-22,20877.32,9999999.0,999,sarah.sanchez@icloud.com,+1-838-475-7337,2,No
+CUST-1765,Melissa Miller,25, Mal ,Germany,2022.04.30,58175.14,-325.03,10,  melissa.miller@icloud.com  ,,1,No
+CUST-1553,  Donald Williams   ,56,Female,Australia,2023-05-15,33625.31,-44.23,6,DONALD.WILLIAMS@OUTLOOK.COM,+1-686-610-9308,,Yes
+CUST-1495,John Harris,34,Male,Canada,2021-08-20,20835.95,34.42,5,john.harris@icloud.com,+1-799-372-8983,4,No
+CUST-1245,Paul Martin,41,Female,United States,2023-04-09,54184.0,50.78,,paul.martin@yahoo.com,+1-669-527-3556,1,No
+CUST-1781,Susan Thompson,999,Female,Australia,2021.05.04,59823.97,,9,susan.thompson@outlook.com,,2,No
+CUST-1097,BRIAN CLARK,41,Male,Canada,2024-01-05,54467.53,70.15,5,brian.clark@gmail.com,(311) 987-5067,4,No
+CUST-1185,Jean-Luc Martinez,61,Female,Germany,27/05/2021,98951.36,40.55,3,jeanluc.martinez@yahoo.com,+13964567251,5,No
+CUST-2189,Mary Davis,48,Female,Great Britain,NULL,47k,-$312.26,5,mary.davis@yahoo.com,,3/5,
+CUST-1546,Paul Baker,49,Female,United States,,21974.71,52.71,6,paul.baker@yahoo.com,(813) 549-9850,4,Yes
+CUST-1164,Michael Rivera,32,Non-Binary,Canada,unknown,39237.08,86.85,4,michael.rivera@yahoo.com,,,0
+CUST-1480,Lisa Lewis,24,MALE,United Kingdom,2022-01-13,59465.22,183.67,-4,lisa.lewis@yahoo.com,,2,Yes
+CUST-1395,Michelle Allen,46,,germany,01-20-2022,59730.84,-156.74,8,michelle.allen@outlook.com,+17918632672,2,Yes
+CUST-1222,Kevin Jones,45,Male,Australia,02 Apr 2024,"$61,297.22",166.61,3,kevin.jones@gmail.com,+1-551-747-1176,Good,No
+CUST-1431,Sarah Robinson,64,Male,Oz,2021-06-01,none,45.02,5,sarah.robinson@outlook.com,+1-239-643-2645,5,
+CUST-1033,Anthony Garcia,36,Female,United States,2023-08-04,106184.12,26.41,7,anthony.garcia@yahoo.com,+1-710-933-5781,4,No
+CUST-1157,  Kenneth Jones   ,45,Female,uk,2023-05-19,78191.07,62.87,4,kenneth.jones@yahoo.com,+17509198130,0,Yes
+CUST-1377,Betty Perez,51, Fem ,Canada,22/05/2024,101418.96,36.91,4,,,1/5,No
+CUST-1621,Kevin Davis,22,Prefer not to say,Australia,,55404.58,$485.48,2,KEVIN.DAVIS@GMAIL.COM,(762) 350-7655,4,No
+CUST-1244,Patricia Martinez,39,,Ger,,-65509.05,141.51,7,patricia.martinez@yahoo.com,,2,No
+CUST-1515,andrew smith,40,,Canada,2022-05-29,113316.91,$94.56,9,andrew.smith@outlook.com,+1-673-405-1924,,No
+CUST-1967,  George Smith   ,42,Male,United Kingdom,2024-02-12,81886.98,168.16,5,GEORGE.SMITH@YAHOO.COM,+1-695-686-8686,4/5,Yes
+CUST-1200,Carol Flores,41,Male,GB,2023-05-05,70307.24,Free,8,carol.flores@yahoo.com,,3,No
+CUST-1271,Betty Flores,31,Female,Canada,2021.11.02,94068.69,81.77,10,betty.flores@outlook.com,+13747802922,1,
+CUST-1568,Ashley Baker,49,Male,AU,2024-01-14,89864.83,45.37,4,ashley.baker@icloud.com,,4,No
+CUST-1494,Linda Campbell,24,Male,United Kingdom,2022-02-26,88187.69,40.48,4,linda.campbell@outlook.com,+1-978-535-1176,4,No
+CUST-1487,  Mary Perez   ,33,Female,Ger,2021-03-12,78933.19,9999999.0,4,mary.perez@yahoo.com,,3,No
+CUST-1731,Donald Anderson,39,Female,Australia,2022.01.15,104799.47,,3,donald.anderson@icloud.com,+1-891-982-1463,4,
+CUST-2178,Paul Jones,18,female,Australia,2023-05-13,,635.82,6,,,,No
+CUST-1298,Joseph Johnson,,Female,AU,27/07/2021,75384.05,389.83,6,joseph.johnson@yahoo.com,,3,Yes
+CUST-2158,Carol Campbell,37,Female,Germany,2022-06-11,80997.77,$68.36,9,carol.campbell@gmail.com,,5,No
+CUST-1589,Kimberly Hill,49,Male,United States,2023-01-13,85873.89,32.47,5,kimberly.hill@outlook.com,+1-986-541-6215,5,No
+CUST-2042,AMANDA WILLIAMS,18,Female,Australia,2021-02-17,41782.87,213.94,3,amanda.williams@yahoo.com,+1-846-728-7544,1,No
+CUST-1616,Melissa Wilson,18,Female,United Kingdom,2022-03-24,69872.85,14.98,6,melissa.wilson@outlook.com,+1-564-253-8041,10,No
+CUST-1574,Steven Martin,41,,Ger,2021-04-16,54253.53,EUR 109.95,7,steven.martin@outlook.com,+1-463-309-3424,Good,Yes
+CUST-1839,brian lewis,28,Female,Germany,28/03/2023,55692.67,-322.72,3,brian.lewis@outlook.com,(253) 794-6919,,no
+CUST-1911,Patricia Rivera,29,Male,Australia,2022-02-21,"$76,825.38",cancelled,3,patricia.rivera@icloud.com,+1-494-226-3104,4,No
+CUST-1179,Barbara Jackson,32,Female,Australia,2023-09-26,40575.09,$226.41,2,barbara.jackson@icloud.com,+1-280-590-5694,4,Yes
+CUST-1954,Michael Young,47,Male,United Kingdom,2023-10-15,72030.19,,5,michael.young@gmail.com,,2,0
+CUST-1953,Richard Johnson,-29,FEMALE,United Kingdom,2023-07-18,69221.57,20.39,7,richard.johnsonyahoo.com,+17839709812,4,No
+CUST-1644,Elizabeth Flores,35,,Germany,2023.02.23,92141.93,138.91,4,elizabeth.flores@yahoo.com,+1-947-304-7430,,Yes
+CUST-1372,  Donald Williams   ,48,Female,United States,2022-09-25,77166.88,-134.48,7,donald.williams@outlook.com,+16077124192,3,0
+CUST-1850,WILLIAM RODRIGUEZ,33,,DE,05-01-2021,82739.67,162.56,7,william.rodriguez@icloud.com,+1-983-916-2273,4,No
+CUST-1089,Charles Johnson,42,Male,Germany,2022-01-03,86619.2,,6,charles.johnson@gmail.com,+1-736-352-4948,2,No
+CUST-1662,Brian Allen,21,Male,AUS,08-16-2022,55724.93,43.17,3,brian.allen@gmail.com,+1-825-656-1240,1,Yes
+CUST-1332,Linda Lewis,,Male,Great Britain,N/A,81836.08,137.8,,LINDA.LEWIS@YAHOO.COM,+1-977-396-5249,5/5,Yes
+CUST-1926,Michael Sanchez,31,Male,uk,2022.08.30,97642.37,,,MICHAEL.SANCHEZ@YAHOO.COM,+1-830-823-9951,4,No
+,Michael White,41,Female,AUS,2023-11-29,84832.92,,3,michael.white@outlook.com,+1-539-942-3199,-1,
+CUST-1971,Melissa Hall,40,Female,United States,NULL,54168.99,48.58,11,melissa.hall@yahoo.com,(629) 209-1503,4,No
+CUST-1627,Margaret Moore,40,Female,United States,30/04/2022,129199.82,33.84,4,margaret.moore@outlook.com,+1-304-607-8707,4,TRUE
+CUST-2193,Michelle Davis,40,Male,Germany,2021-02-19,65k,178.23,5,michelle.davis@outlook.com,,3,No
+,,,,,,,,,,,,
+CUST-1267,Renée Martinez,40,Female,Canada,2022-09-24,"USD 65,910",-338.88,11,renée.martinez@gmail.com,+1-957-878-1895,4,Yes
+CUST-1060,Daniel Jones,31,Female,United States,2024-04-06,"$41,205.94",29.86,9,daniel.jones@outlook.com,,,1
+CUST-1600,Richard Rodriguez,36,Female,United States,07-10-2023,69141.13,Free,8,richard.rodriguez@yahoo.com,+1-232-320-4345,0,
+CUST-1773,donald allen,49,Female,Australia,2024-03-02,60962.38,579.6,9,,+1-635-902-8837,-1,No
+CUST-1723,  O'Connor Wilson   ,48,,Australia,2021-06-27,-23784.29,288.37,3,oconnor.wilson@yahoo.com,,2,No
+CUST-1987,Brian Perez,28,Male,united states,2022-12-31,66986.82,-257.56,4,brian.perez@outlook.com,,5,No
+CUST-1491,William Miller,49,,Germany,2021-08-16,64331.14,9999999.0,6,william.miller@outlook.com,,4,No
+CUST-2044,Michelle Flores,36,Male,United States,2022-02-26,"$18,000.00",19.95,4,michelle.flores@gmail.com,+1-626-862-3096,5,0
+  CUST-1482  ,Dorothy Perez,31,Female,Australia,2022-11-27,72988.54,62.49,10,dorothy.perez@icloud.com,+1-221-611-5813,1,Yes
+CUST-1333,John Miller,29,Female,United States,,61721.89,142.7,11,john.miller@outlook.com,,4,No
+CUST-1313,Matthew Johnson,195,Female,United Kingdom,unknown,,336.87,5,matthew.johnson@outlook.com,,4,FALSE
+cust-1722,JOHN GREEN,,Male,UK,2023-06-19,40844.25,,7,john.green@gmail.com,,4,No
+CUST-1712,Dorothy Hernandez,40,Prefer not to say,United States,02/05/2023,,57.64,4,dorothy.hernandez@gmail.com,+1-680-505-7195,5,no
+CUST-2067,Thomas Harris,,Male,United Kingdom,2021-02-27,"$83,093.51",$56.80,7,thomas.harris@outlook.com,+1-877-734-4994,2,No
+CUST-1084,Barbara Green,34,Male,Australia,10-13-2023,90505.26,-$130.38,4,barbara.green@icloud.com,(737) 526-7821,3,No
+  CUST-1130  ,Joshua Taylor,23,Female,USA,2021-06-28,90538.19,219.88,4,joshua.taylor@icloud.com,+1-765-533-5525,4,Yes
+CUST-1904,Emily Hill,23,Male,United Kingdom,2022-07-17,57407.71,,7,emily.hill@icloud.com,+1-877-511-8440,5/5,No
+CUST-1539,Donna Williams,44,Female,Australia,10-04-2023,-97927.63,-250.11,3,donna.williams@outlook.com,,10,No
+  CUST-1999  ,Robert Brown,37,,Canada,07-25-2021,84312.17,105.75,8,ROBERT.BROWN@OUTLOOK.COM,+1-584-261-2647,4,FALSE
+CUST-1677,Elizabeth Campbell,27,Female,United Kingdom,N/A,73945.68,389.7,3,elizabeth.campbell@outlook.com,,3,No
+CUST-1261,Andrew Allen,45,Male,Canada,2021-02-11,66k,23.01,3,,+1-524-586-7394,3,0
+CUST-1586,Nancy Hernandez,39,,Australia,2022-02-02,97775.66,61.95,5,nancy.hernandez@outlook.com,+1-230-548-7377,4,No
+CUST-1599,Ashley Wilson,32,M,Canada,2021-07-24,42840.5,,6,,,,No
+CUST-1618,Charles Torres,23,Female,United States,2023-07-17,46735.23,174.21,5,charles.torres@yahoo.com,+1-612-974-7893,4,No
+CUST-1611,Elizabeth Miller,,Female,Australia,21/07/2023,73429.7,$57.95,-7,  elizabeth.miller@gmail.com  ,+1-757-249-4254,3,No
+CUST-1139,Margaret Green,36,f,Germany,2023-09-05,65342.74,EUR 66.94,6,margaret.green@gmail.com,,5/5,Yes
+CUST-1293,Brian Wilson,,Female,United States,18 Nov 2021,"$71,089.46",9999999.0,4,brian.wilson@outlook.com,+1-321-816-7694,2,No
+CUST-2025,Michelle Adams,48,Female,ca,2023-10-29,unknown,470.9,8,michelle.adams@yahoo.com,+1-925-701-8531,3,FALSE
+CUST-1142,Prof. George Flores,48,Female,United States,2021.08.06,"$71,186.21",EUR 51.06,,george.flores@yahoo.com,(996) 469-9571,5,No
+CUST-1852,JENNIFER BAKER,29,,Canada,2022-09-12,83769.64,$103.76,6,jennifer.baker@gmail.com,,4,No
+CUST-1463,Susan Mitchell,39,Prefer not to say,canada,2022-09-15,"USD 57,837",217.42,8,  susan.mitchell@outlook.com  ,,1,No
+CUST-1448,Kevin Sanchez,28,Female,United States,2021-05-14,115484.91,259.01,,kevin.sanchez@yahoo.com,+1-946-473-2375,Poor,No
+CUST-1140,Sandra Campbell,58,Male,Australia,2022.11.23,"$87,215.98",147.27,,sandra.campbell@yahoo.com,+1-550-701-6885,4,No
+CUST-1645,Mary Lee,20,Female,United Kingdom,2024-03-26,none,391.38,4,mary.lee@yahoo.com,+1-958-621-3804,5,No
+CUST-1931,Jennifer Miller,34,Female,Canada,2024-03-30,63925.74,EUR 104.52,6,jennifer.miller@gmail.com,+1-990-225-1779,Excellent,No
+CUST-1225,AMANDA HARRIS,54,Male,United Kingdom,2023-12-23,45944.15,159.89,12,amanda.harris@gmail.com,,4,Yes
+CUST-1486,John Brown,67,Male,United Kingdom,2022-08-24,"$73,296.03",,3,john.brown@icloud.com,+1-361-629-3824,2,0
+CUST-1275,Ashley Williams,39,Female,Australia,2023-09-21,Confidential,85.73,9,ashley.williams@gmail.com,,3,No
+CUST-1324,Michael Hill,43,Female,Germany,2021-09-30,Confidential,52.09,4,michael.hill@outlook.com,+1-882-693-2106,3/5,No
+  CUST-1334  ,William Johnson,42,Male,Australia,2022-07-27,83047.57,519.67,4,,(577) 662-8785,4,No
+CUST-1462,Sandra Nguyen,44,Female,Australia,2022-11-05,,$122.13,5,sandra.nguyen@icloud.com,+1-771-212-6618,3,No
+  CUST-2169  ,Robert Thomas,50,,United States,2024-06-04,"$88,205.74",145.28,7,robert.thomas@yahoo.com,,3,TRUE
+CUST-1630,Carol Nelson,41,Female,canada,2024.01.10,55180.95,365.67,7,carol.nelson@gmail.com,+1-903-471-7634,0,No
+CUST-2188,Andrew Nguyen,35,Female,UK,2021-05-24,Confidential,457.54,9,andrew.nguyen@yahoo.com,+15286014389,2/5,Yes
+  CUST-1763  ,George Nguyen,66,Male,Australia,07/08/2021,106084.16,EUR 160.49,3,GEORGE.NGUYEN@OUTLOOK.COM,+19957989744,1,0
+CUST-1678,Steven Lee,51,m,Canada,07-04-2022,64207.54,-241.4,8,steven.lee@icloud.com,+1-460-512-7019,3,No
+CUST-1970,MATTHEW BAKER,36,Male,United Kingdom,2023.07.29,"$94,923.70",EUR 339.74,7,matthew.baker@yahoo.com,,4,No
+CUST-1830,Robert Williams,43,Female,Canada,2022-11-10,71329.35,47.06,7,robert.williams@gmail.com,+1-316-833-4706,5,No
+cust-1544,Donald Gonzalez,28,Male,United States,2022-07-11,77174.56,49.57,7,  donald.gonzalez@yahoo.com  ,,5,Yes
+CUST-2116,joseph hernandez,25, Fem ,Germany,2022-12-20,,265.51,6,,,3,1
+CUST-2175,Kevin Perez,41,Female,United Kingdom,2023-12-20,"$59,046.21",,3,kevin.perez@icloud.com,,2,No
+  CUST-1819  ,,33,Female,Canada,2022-07-28,26959.82,38.27,6,charles.jackson@icloud.com,(679) 344-1600,3,
+CUST-1534,Matthew Gonzalez,,Male,Canada,2021-10-21,54959.5,181.26,6,matthew.gonzalez@gmail.com,+1-685-452-4659,4,FALSE
+CUST-2112,Jessica Nelson,54,Male,United States,2023-02-24,58578.67,54.8,1,jessica.nelson@outlook.com,+1-665-294-9214,4,Yes
+CUST-1322,Jessica Gonzalez,27,,Germany,02-27-2021,96564.17,91.27,2,,(396) 896-2035,3,TRUE
+,,,,,,,,,,,,
+CUST-2041,Sarah Young,27,,U.S.,2021-01-08,,,5,sarah.youngyahoo.com,+1-877-849-6762,Good,Yes
+CUST-1933,Donald Miller,52,Male,usa,10-12-2023,75823.86,127.01,3,donald.miller@yahoo.com,+1-922-300-6069,5,1
+CUST-1364,Renée Miller,40,Male,Canada,24/06/2021,"$58,364.05",97.73,,renée.miller@icloud.com,+19777768279,5/5,
+CUST-1040,Jean-Luc Anderson,30,Male,Germany,2024-02-16,64806.02,123.64,4,jeanluc.anderson@icloud.com,+1-214-470-9791,2,No
+CUST-1031,Jean-Luc Baker,45,male,Australia,2023-02-30,"USD 84,047",N/A,5,jeanluc.baker@yahoo.com,+1-681-731-8245,5,No
+CUST-1243,Anthony Lewis,37,Male,United States,2022-08-21,49389.41,9999999.0,8,test,,3,No
+CUST-1843,Margaret Jones, 39 yrs,,Canada,2021-07-24,,21.83,11,test,,4,No
+CUST-1137,Barbara Jackson,25,Female,United Kingdom,2022-06-14,"USD 100,885",$159.47,5,barbara.jackson@yahoo.com,+1-896-543-2463,3,
+CUST-1311,Prof. Renée Martinez,70,Female,United States,2022-07-28,40536.73,150.6,2,renée.martinez@icloud.com,+1-414-944-2333,4,Yes
+CUST-2050,Michelle Sanchez,37,,AUS,2023-05-25,61k,251.47,4,michelle.sanchez@gmail.com,,3,No
+CUST-1810,James Thomas,36,Male,United States,01/11/2023,39089.25,$82.79,6,james.thomas@gmail.com,+1-407-367-2023,5,No
+CUST-1356,STEVEN RAMIREZ,50,Male,Canada,14 Aug 2021,54737.1,395.72,4,steven.ramirez@outlook.com,,-1,1
+cust-2111,Emily Martinez,48,Female,Australia,16/03/2023,78k,171.14,8,emily.martinez@gmail.com,+1-450-672-4845,4,No
+,,,,,,,,,,,,
+CUST-1443,Kevin Gonzalez,46,Female,United Kingdom,2021-07-30,51045.71,347.95,8,,,2,
+CUST-1004,Chloë Lee,56,Female,United States,2022-03-09,60032.92,43.18,4,chloë.lee@outlook.com,(417) 871-9179,Average,1
+CUST-1112,Ms. George Thomas,57,Female,United States,06-09-2023,"USD 63,553",172.97,7,george.thomas@gmail.com,+1-516-882-3877,2/5,No
+CUST-1661,Kimberly Young,36,m,United States,2022-02-11,79429.63,106.75,3,kimberly.young@icloud.com,+1-901-323-7792,3,
+  CUST-2086  ,CHARLES MITCHELL,999,Male,United Kingdom,02-18-2022,"USD 43,489",-339.14,6,charles.mitchell@icloud.com,,3,No
+CUST-1705,Kevin Torres,30,Male,UK,25/03/2022,108436.73,EUR 428.40,5,kevin.torres@outlook.com,+1-538-297-2142,1,1
+CUST-1910,Jennifer Green,33,Male,Australia,2021-08-24,75457.37,EUR 181.09,5,jennifer.green@icloud.com,,5,Yes
+CUST-2038,Chloë Martin,37,Female,Germany,2023.06.23,52783.99,182.93,8,  chloë.martin@gmail.com  ,+1-248-831-7672,3,No
+CUST-1535,,30,MALE,uk,2023-12-09,65958.88,EUR 515.45,7,george.brown@outlook.com,+1-454-585-7930,4,yes
+CUST-1315,Nancy Garcia,31,Female,United Kingdom,2023-05-29,60940.44,,4,nancy.garcia@icloud.com,+1-414-649-8372,5,No
+CUST-2061,andrew adams,18,Female,United States,2023-09-29,83286.64,19.53,13,andrew.adams@yahoo.com,,4,No
+CUST-1320,Steven Williams,28,Female,usa,2023-08-04,98424.25,Free,8,no_email,(399) 606-1618,1,0
+CUST-1717,Kimberly Young,37,Female,Canada,2022-07-01,,48.14,3,kimberly.young@icloud.com,+1-997-945-7396,5,No
+CUST-1430,Mary White,32,f,Australia,2023-05-24,"USD 39,175",166.88,-6,mary.white@yahoo.com,+1-664-502-2795,4,Yes
+CUST-1006,Kenneth Martin,36,male,Australia,2024-06-01,73565.68,$164.08,10,kenneth.martin@outlook.com,,5,1
+CUST-1101,Jennifer Baker,18,Female,United States,2022-05-04,38437.29,171.37,7,jennifer.bakeryahoo.com,,4,0
+CUST-1701,Nancy Williams,43,Female,USA,06 Oct 2023,43163.28,,7,nancy.williams@icloud.com,,4,FALSE
+CUST-1561,Renée Miller,59,Male,Germany,2022-02-24,55947.63,,7,renée.miller@gmail.com,+1-210-314-6531,,No
+CUST-1598,Melissa Wilson,999,Female,United States,2021-03-16,71715.35,$210.01,5,melissa.wilson@icloud.com,+1-323-487-8370,5,0
+CUST-1880,  Melissa Garcia   ,61,Male,Australia,2024-03-24,62496.12,112.79,7,melissa.garcia@icloud.com,,4,No
+CUST-1187,joshua martinez,25,Female,United States,05-25-2022,unknown,23.76,7,N/A,,0,Yes
+CUST-2166,Kevin Wilson,36,Female,Germany,11/02/2022,49228.77,35.41,8,kevin.wilson@gmail.com,(977) 240-3559,2,Yes
+CUST-2122,Joseph Lee,48,Female,United Kingdom,2023-02-30,-55461.59,933.13,7,joseph.lee@gmail.com,,1,No
+CUST-1381,Lisa Lopez,195,Male,UK,2024-01-17,66538.44,89.75,6,lisa.lopez@outlook.com,+1-875-905-8167,4,No
+CUST-1228,Prof. Matthew Harris,,Female,United States,2022-06-13,"USD 47,271",170.27,6,MATTHEW.HARRIS@OUTLOOK.COM,,4,Yes
+CUST-1452,Barbara Thompson,40,Female,Germany,2024-01-25,101327.2,$66.17,6,,+1-649-831-8478,4,FALSE
+CUST-1579,Emily Campbell,46,Male,United Kingdom,2023-08-28,65426.39,119.41,9,emily.campbell@outlook.com,+1-360-600-4137,3,No
+CUST-2199,  Melissa Walker   ,40,Male,United States,01 Feb 2021,64345.14,165.28,8,melissa.walkeryahoo.com,,4,No
+CUST-1896,Ms. James Torres,30,Female,United Kingdom,19/03/2024,Confidential,59.79,7,james.torres@gmail.com,,1,No
+CUST-1067,KENNETH MARTIN, 41 yrs,Male,United States,2023-10-27,66966.67,39.99,6,kenneth.martin@yahoo.com,+1-375-874-6531,5,No
+CUST-1068,Donald Thomas,35,Male,Germany,2022-09-02,"USD 57,981",247.91,9,donald.thomas@gmail.com,+13616507809,4,No
+CUST-1391,Betty Williams,46,male,Australia,22/03/2021,,204.45,2,betty.williams@gmail.com,+1-271-681-2558,5,No
+CUST-1212,Karen Lopez,39,Female,United States,2022-02-18,"USD 90,561",21.21,7,karen.lopez@icloud.com,,5/5,No
+CUST-1013,John Smith,,female,United Kingdom,06-21-2022,"USD 32,803",250.54,3,john.smith@icloud.com,+1-764-922-8007,4,
+CUST-1853,STEVEN MITCHELL,33,Male,United Kingdom,2021.04.22,"USD 36,376",273.68,7,steven.mitchell@gmail.com,+1-677-942-9827,2,FALSE
+CUST-1711,AMANDA GONZALEZ,25,Female,United Kingdom,2023-10-28,91332.04,25.93,4,amanda.gonzalez@outlook.com,,3,No
+CUST-1300,Jean-Luc Rivera,31,f,United Kingdom,2022-10-21,102826.31,93.81,6,jeanluc.rivera@icloud.com,+1-813-536-1260,Excellent,0
+CUST-1504,Joshua Young,,Female,United Kingdom,2023-02-30,"$75,556.19",60.12,5,joshua.young@icloud.com,,3,No
+,Patricia Jones,18,Male,United States,11-19-2022,66966.7,111.39,4,PATRICIA.JONES@GMAIL.COM,+1-620-811-8099,5,No
+CUST-2200,Brian Hall,42,Non-Binary,Germany,2021-09-25,,89.55,5,brian.hall@yahoo.com,+1-712-207-1196,2,Yes
+CUST-2135,Mark Rodriguez,51,Female,Canada,2021-03-20,63103.22,47.69,,mark.rodriguez@yahoo.com,,4,No
+CUST-1683,Donald Miller,52,Female,Germany,2021-10-09,27k,,3,  donald.miller@yahoo.com  ,+1-237-291-9854,4,No
+CUST-2195,O'Connor Moore,,Female,United States,2023-01-28,57215.1,$124.21,7,no_email,+1-923-519-4509,4,Yes
+CUST-1423,D'Angelo Baker,39,female,DE,2022-08-03,41666.69,51.5,7,dangelo.baker@outlook.com,,5,Yes
+CUST-1582,Mary Clark,45,Male,United States,2023-08-30,63737.3,78.33,6,,,5,Yes
+CUST-2084,jean-luc lopez,48,m,Australia,2021-01-14,"$59,339.16",56.95,7,jeanluc.lopez@gmail.com,+1-531-280-1677,Poor,No
+CUST-2177,William Hernandez,50,Male,Germany,2021-02-16,47936.66,214.16,2,WILLIAM.HERNANDEZ@YAHOO.COM,,3,No
+CUST-1414,Andrew Flores,,Male,United States,NULL,68796.1,404.87,8,ANDREW.FLORES@ICLOUD.COM,,5,No
+CUST-2062,Ashley Thomas,39,Female,Canada,12-16-2023,-68446.49,$18.01,7,ASHLEY.THOMAS@GMAIL.COM,+17002598445,2,no
+CUST-2089,Sandra Thomas,34,Male,United Kingdom,2023.03.01,68888.77,28.03,11,sandra.thomas@gmail.com,+1-729-758-4895,4,
+CUST-1274,Margaret Jackson,,Male,Canada,2024-06-09,"$98,245.41",9999999.0,5,MARGARET.JACKSON@OUTLOOK.COM,,5,No
+CUST-1905,Jessica Mitchell,48,Female,United Kingdom,2022-03-23,41711.5,85.74,3,jessica.mitchell@outlook.com,,4/5,Yes
+CUST-1363,CAROL HILL,999,F,United Kingdom,2021-05-28,"$37,681.27",61.21,999,carol.hillicloud.com,+1-860-612-2642,4/5,No
+CUST-1238,Emily Anderson,62,Female,Australia,2023-09-29,60k,191.58,5,emily.anderson@yahoo.com,,3,No
+CUST-2154,Donald Hernandez,,Male,Germany,2022-01-09,"USD 73,098",22.28,7,donald.hernandez@yahoo.com,,4,0
+CUST-1498,George Robinson,20,Male,,2023-01-05,47865.59,62.84,10,george.robinson@outlook.com,+1-560-454-5532,3,No
+CUST-1003,Joseph Miller,32,Female,Germany,18 Jan 2023,44670.18,116.15,5,joseph.miller@outlook.com,+1-414-886-5374,4/5,No
+CUST-1007,Jean-Luc Wright,26,Male,United Kingdom,,30167.53,56.32,6,JEANLUC.WRIGHT@YAHOO.COM,,5,Yes
+CUST-1775,Dorothy Jackson,30,Female,Australia,2023-11-25,"USD 57,316",56.67,,dorothy.jackson@icloud.com,,Poor,Yes
+CUST-1312,  Betty Green   ,42,Male,AUS,2021-03-16,103689.65,265.2,10,betty.green@yahoo.com,+16624407486,3,No
+CUST-2081,Thomas Taylor,30,m,Australia,2022-11-20,62861.52,83.85,10,,+19985485020,2,Yes
+CUST-1424,John Nelson,25,Male,Germany,2021-06-10,103943.69,,3,john.nelson@yahoo.com,,4,No
+CUST-1591,Amanda Rodriguez,32,Female,Australia,,68320.04,265.48,,amanda.rodriguez@gmail.com,+18977355477,4,No
+CUST-2040,George King,48,Male,United Kingdom,2022-05-28,79505.5,43.67,7,george.king@gmail.com,+1-614-748-3316,3/5,
+CUST-2028,Thomas Martinez,37,Female,,2023-05-13,"$87,141.04",$136.46,1,thomas.martinez@gmail.com,,3/5,No
+CUST-1216,Mary Jones,20,Male,Canada,2023-09-08,81721.23,44.47,2,mary.jones@yahoo.com,(489) 986-6711,4,No
+CUST-1721,Steven Robinson,,Female,Germany,04-10-2021,18000.0,166.12,3,no_email,,4,No
+CUST-1028,barbara brown,66,Female,Germany,2021-08-22,23920.17,59.27,2,barbara.brown@icloud.com,,2,Yes
+CUST-1912,d'angelo lopez,24,Female,United Kingdom,02 May 2023,39663.02,95.33,,dangelo.lopez@icloud.com,,5,No
+CUST-1554,Emily Williams,48,Female,United Kingdom,2023-02-30,,1039.46,7,emily.williams@icloud.com,+12115801982,4,no
+CUST-1900,Linda Lewis,28,Male,Australia,2021-02-25,67782.1,240.88,7,linda.lewis@yahoo.com,+1-433-682-1927,1,Yes
+CUST-2074,Kenneth Green,34,Male,ca,2022-03-04,109552.0,71.61,5,kenneth.green@icloud.com,+1-772-465-2889,4,No
+CUST-1537,Ashley Jones,53,Male,United Kingdom,2021-11-07,59004.02,305.52,4,ashley.jones@yahoo.com,+1-930-440-2505,4,TRUE
+  CUST-1536  ,William Lee,43,,United States,2021-04-18,46424.87,17.69,8,WILLIAM.LEE@ICLOUD.COM,(577) 345-6165,5,No
+CUST-1812,Prof. Kimberly Perez,29,m,United States,2021-09-04,"$69,473.91",,,kimberly.perez@outlook.com,+14285459685,2,No
+,Emily Nelson,18,FEMALE,germany,2021-03-25,58243.8,615.43,999,no_email,+1-295-873-6460,3/5,
+CUST-1355,Jessica Nelson,,MALE,uk,29/08/2023,"$87,844.31",148.46,5,jessica.nelson@gmail.com,,4,No
+CUST-2103,Carol Nelson,41,Non Binary,Canada,2023-07-06,49639.15,69.4,3,carol.nelson@yahoo.com,+1-669-415-6762,3,FALSE
+CUST-2073,Donna Smith,46,Male,Canada,05-19-2024,58420.48,175.14,5,  donna.smith@icloud.com  ,+17042838961,4,No
+CUST-1257,Sarah Rivera,,Male,Australia,2022-07-14,"$78,019.91",29.93,2,sarah.rivera@icloud.com,,,No
+CUST-1292,Margaret Rodriguez,53,Male,Germany,2021-06-09,87300.87,refunded,6,margaret.rodriguez@icloud.com,+1-802-772-9502,4,Yes
+CUST-1026,Dorothy Rivera,39,Male,United States,2021-07-10,39854.65,,13,dorothy.rivera@icloud.com,+1-908-449-6016,4,No
+CUST-1337,Margaret Anderson,34,Female,US,2023-02-30,52236.84,73.46,4,margaret.anderson@gmail.com,+1-548-958-4082,4,No
+CUST-1708,Jennifer Campbell,38,Male,Canada,2024-03-11,51937.25,122.08,-10,jennifer.campbell@icloud.com,+1-371-920-2543,,No
+CUST-1048,George Lee,38,Male,Australia,05-06-2024,58791.13,244.91,9,george.lee@gmail.com,+1-359-361-1815,4/5,No
+CUST-1319,Andrew Miller,31,Female,United States,2022-05-06,42822.78,$50.70,,andrew.miller@yahoo.com,,3,Yes
+CUST-1107,Sandra Smith,-5,Prefer not to say,Ger,2022-02-19,"$72,548.97",71.84,,,+1-865-509-3604,5/5,Yes
+CUST-1888,  Kevin Wilson   ,,Female,Germany,2023-06-13,60092.46,$169.84,3,  kevin.wilson@yahoo.com  ,+1-334-963-4644,5,No
+CUST-1056,Mark Flores,39,Female,Germany,04-25-2022,-18000.0,176.14,3,MARK.FLORES@OUTLOOK.COM,(680) 398-7026,4,No
+CUST-1786,D'Angelo Moore,23,Male,United States,2022-02-20,unknown,12.03,9,dangelo.moore@yahoo.com,,5,No
+CUST-1214,Michelle Scott,27,M,United Kingdom,2024-01-17,"USD 65,664",$79.95,8,N/A,+1-477-344-5641,4,No
+CUST-1121,  Sarah Lopez   ,26,Female,Australia,2022-03-25,58815.79,-286.58,5,sarah.lopez@outlook.com,+1-259-683-9674,3,No
+CUST-1895,Margaret Green,33,Female,Australia,2023-09-02,72457.86,96.66,5,margaret.green@icloud.com,(338) 479-6515,5,No
+CUST-2055,Carol Hall,35,Female,United States,NULL,,132.48,8,carol.hall@yahoo.com,+1-547-410-2643,3/5,0
+CUST-1913,Sarah Flores,43,Male,United States,29/05/2021,83k,70.54,8,sarah.floresyahoo.com,,4,
+CUST-1073,O'Connor Flores,41,Male,United States,2021-10-10,83382.44,83.71,6,oconnor.flores@outlook.com,,3,Yes
+CUST-1411,thomas young,43,F,Canada,2022-04-07,67883.43,$34.99,6,thomas.young@yahoo.com,+1-644-741-4150,2,No
+CUST-1990,Joseph King,46,Female,CAN,2022-12-15,0.00,13.66,9,joseph.king@gmail.com,+14658478067,5,TRUE
+CUST-1937,Jennifer Robinson,-5,Female,Ger,30 Sep 2021,79582.5,188.05,3,  jennifer.robinson@outlook.com  ,,3,Yes
+CUST-1592,Michelle Davis,22,Male,Canada,2024-05-24,none,29.31,5,michelle.davis@gmail.com,,4,No
+CUST-1433,Joshua Thompson,18,Male,Canada,07-17-2021,67630.25,12.91,4,joshua.thompson@outlook.com,+1-629-657-6331,3/5,No
+,patricia king,31,Male,Germany,2023-09-26,78035.67,240.95,,patricia.king@gmail.com,,4,No
+CUST-1995,David Nelson,44,Prefer not to say,Germany,yesterday,70659.23,,7,  david.nelson@gmail.com  ,+15282167684,2,FALSE
+  CUST-1870  ,Melissa Campbell,,Female,AUS,2023-02-01,66241.23,544.52,8,melissa.campbell@icloud.com,+1-900-485-1344,4,No
+cust-2014,Paul Miller,28,Male,Canada,2022-08-18,89983.65,234.76,5,paul.miller@outlook.com,,2,Yes
+CUST-1619,Lisa Nguyen,51,Female,Oz,2022-05-24,76037.07,$157.99,7,LISA.NGUYEN@GMAIL.COM,+1-501-221-9199,,No
+CUST-1772,BARBARA RAMIREZ,37,Male,Australia,30/08/2023,-41197.88,139.69,2,barbara.ramirez@yahoo.com,+1-770-269-6777,4,No
+CUST-1631,Chloë Williams,29,NB,United Kingdom,2024-01-16,18000.0,19.06,7,chloë.williams@outlook.com,+1-719-498-3129,3,No
+CUST-1326,CAROL HALL,38,Male,AU,2023-02-21,62041.07,refunded,4,none@none,,1,No
+CUST-1567,Mary Allen,47,Male,United States,2023-03-18,89k,145.45,5,mary.allen@gmail.com,,3,No
+,Linda Thomas,47,Female,,2021-10-07,32k,299.07,,linda.thomas@gmail.com,+1-472-385-7304,2,Yes
+CUST-1317,Matthew Jackson,55,Female,Canada,2023.12.10,74122.26,-34.25,7,matthew.jackson@gmail.com,,3,Yes
+CUST-1681,Mark Walker, 61 yrs,Male,Australia,2021-05-18,87507.24,125.89,6,mark.walker@outlook.com,+1-376-485-5163,-1,No
+CUST-1922,Renée Smith,46,Female,Australia,2023-11-15,,29.21,10,renée.smith@yahoo.com,,4,No
+CUST-1466,Lisa Johnson,45,M,Germany,2024.02.05,62048.81,33.31,7,lisa.johnson@yahoo.com,+1-365-668-7046,4,No
+CUST-1583,James Ramirez,56,Female,United States,2022-07-15,55772.44,69.9,5,none@none,,4,No
+CUST-1756,AMANDA SMITH,47,Female,Canada,2022-02-07,74866.68,$53.58,2,amanda.smith@outlook.com,+1-398-757-7488,2,No
+,Mark Campbell,30,Male,United States,2024-01-14,66219.05,44.78,11,  mark.campbell@outlook.com  ,,5,No
+CUST-1555,Emily Green,32,Male,United States,2021.10.27,,$26.77,6,emily.green@yahoo.com,+1-978-269-8826,4/5,Yes
+CUST-1603,Paul Garcia,41,Female,Canada,30/01/2024,55942.13,64.26,8,paul.garcia@yahoo.com,,5,No
+CUST-1061,Karen Allen,34,Female,Australia,,50295.16,75.16,6,karen.allen@yahoo.com,(492) 565-1783,5,No
+CUST-1434,Susan Clark,28,Female,Canada,2022-06-20,63639.52,refunded,5,  susan.clark@icloud.com  ,+1-600-652-7966,3,TRUE
+CUST-1797,Ashley Baker,18,Male,United Kingdom,2021-01-30,44723.63,166.96,6,ashley.baker@outlook.com,+1-201-413-4568,1,FALSE
+CUST-1093,Elizabeth Mitchell,38,F,Canada,07/08/2021,103957.61,175.25,8,elizabeth.mitchell@outlook.com,+16555685419,Poor,No
+CUST-2037,lisa torres,-5,Female,,17/04/2021,35853.39,126.23,6,LISA.TORRES@GMAIL.COM,,3,
+CUST-1483,Andrew Martinez,45,Female,,2023-02-30,41907.58,148.71,7,,,10,FALSE
+CUST-1352,Betty Thompson,30,Female,Germany,2023-10-05,,170.38,4,betty.thompson@yahoo.com,,1,1
+CUST-1195,  Renée Sanchez   ,,Female,Canada,2021-06-19,-66622.94,112.59,5,,,2,No
+CUST-1281,BRIAN BAKER,48,NB,Germany,2022-09-12,63367.36,,9,brian.baker@yahoo.com,+12143952833,5/5,no
+CUST-1804,  James Young   ,32,Male,Germany,28 Oct 2022,42488.43,$87.89,3,james.young@outlook.com,,5,No
+CUST-1552,Mr. Barbara Harris,37,Female,United Kingdom,2022-04-03,59769.83,352.59,4,barbara.harris@icloud.com,+1-434-930-8285,5,TRUE
+CUST-1360,George King,22,F,United Kingdom,2022.08.30,108720.07,37.15,10,george.king@gmail.com,+1-375-429-1747,4,FALSE
+CUST-2140,James Rivera,26,Male,Germany,2021-08-30,68701.07,,5,james.rivera@icloud.com,+1-269-516-3150,2,Yes
+CUST-1966,Mr. David Robinson,34,Female,Germany,05-31-2023,0.00,12.98,3,DAVID.ROBINSON@YAHOO.COM,+1-461-524-2140,4,TRUE
+CUST-1927,Michael Moore,31,Male,,2023-09-15,76129.21,18.29,9,michael.moore@gmail.com,+1-769-343-7334,4,No
+CUST-1845,Christopher Walker,-28,Male,CA,2021-12-24,83598.61,96.76,4,christopher.walker@outlook.com,+14405281262,5,No
+CUST-1668,Brian Allen,33,Female,U.S.A.,N/A,89177.63,120.95,8,  brian.allen@outlook.com  ,,5,Yes
+CUST-1549,Nancy Harris,33,Female,Canada,2023-05-28,88635.33,161.32,5,nancy.harris@icloud.com,+1-850-829-1686,4,Yes
+CUST-2035,Kimberly Wright,23,Female,United Kingdom,2021-09-01,61092.25,152.72,8,kimberly.wright@outlook.com,+1-551-837-1948,5,No
+CUST-1183,Margaret Jackson,52,m,United States,2024-01-28,50716.16,184.19,6,margaret.jackson@icloud.com,(774) 647-7467,3,
+  CUST-1707  ,Mr. Sandra Johnson,-5,Male,GB,2021-01-03,36960.58,118.78,10,sandra.johnson@gmail.com,,3,Yes
+CUST-1524,patricia adams,38, Fem ,CAN,2022-06-23,62640.18,$67.94,9,patricia.adams@icloud.com,,4,Yes
+CUST-1111,John Brown,34,Non-Binary,,2023-11-04,68842.06,134.18,7,john.brown@icloud.com,+1-633-918-7590,Poor,No
+CUST-1371,Robert Hall,40,female,ca,04-10-2023,-87399.46,48.84,13,  robert.hall@yahoo.com  ,+1-255-580-7950,2/5,No
+CUST-1459,Jennifer Wright,26,female,United Kingdom,10-08-2023,47623.36,49.24,3,jennifer.wright@outlook.com,+1-553-669-4999,Excellent,Yes
+CUST-1240,Kenneth Jones,48,Female,Canada,2023-12-24,81594.41,-$157.68,6,kenneth.jones@outlook.com,,4,No
+  CUST-1902  ,  Jean-Luc Rivera   ,44,Male,GB,04-10-2023,108391.58,271.59,7,jeanluc.rivera@yahoo.com,+1-717-469-9384,3,No
+CUST-1702,Sarah Thompson,24,Female,United States,03-16-2022,64417.36,548.04,4,sarah.thompson@outlook.com,+1-265-273-9892,3,0
+CUST-1652,James Nelson,,Female,ca,,"$36,516.49",237.11,5,james.nelson@outlook.com,+1-380-302-2476,3,Yes
+CUST-1205,Matthew Campbell,,Male,australia,2024-06-07,82105.69,156.16,4,matthew.campbell@icloud.com,+1-763-589-1719,4/5,Yes
+CUST-2047,Nancy Harris,60,Male,United Kingdom,04-29-2024,none,32.21,6,nancy.harris@outlook.com,(992) 879-9762,4,Yes
+CUST-2058,George Green,41, Mal ,United States,2023-03-17,40245.65,162.01,9,george.green@outlook.com,(678) 419-6145,2,Yes
+CUST-1262,Paul Wilson,54,Female,United States,yesterday,77269.2,132.88,6,paul.wilson@icloud.com,(431) 839-2506,4,No
+CUST-1824,Elizabeth Walker,,Female,United States,10 Aug 2023,91088.24,89.33,3,ELIZABETH.WALKER@ICLOUD.COM,,10,No
+CUST-1714,Thomas Martin,21,,,2023-06-03,106048.58,94.86,6,  thomas.martin@yahoo.com  ,+1-901-513-4089,4,No
+CUST-1472,Melissa Gonzalez,44, Fem ,United States,2023.03.28,60303.61,,8,melissa.gonzalez@outlook.com,,4,no
+CUST-1340,Emily Sanchez,24,Female,Canada,04-03-2024,18000.0,192.74,10,  emily.sanchez@gmail.com  ,+1-926-511-8496,4,No
+CUST-1637,Donna Thomas,,Female,United States,2021-06-26,74325.57,25.01,5,donna.thomas@yahoo.com,,3,No
+CUST-1807,Karen Martinez,,Female,Canada,2022-07-11,64237.36,207.76,5,karen.martinez@outlook.com,+1-254-514-7869,5/5,Yes
+CUST-2149,Kevin Rivera,-49,Female,United States,2022-08-07,76364.25,274.23,11,kevin.rivera@yahoo.com,+14688081878,2,Yes
+cust-1184,Robert Lopez,44,female,united states,22/07/2023,0.00,198.27,9,robert.lopez@outlook.com,+19178379060,2,No
+CUST-1138,  Linda Baker   ,42,,CAN,2023-04-27,-74282.26,-301.17,11,linda.bakeryahoo.com,+1-405-550-7704,5,TRUE
+CUST-1696,Jennifer Wilson,31,Male,United States,2021-03-14,63350.46,121.9,8,jennifer.wilson@gmail.com,,3,No
+CUST-1081,Robert Walker,22,Female,Germany,N/A,47888.03,156.6,,robert.walker@icloud.com,+1-583-591-8348,5,Yes
+CUST-2012,Joshua Thomas,41,Female,DE,2024-05-09,77916.15,,1,joshua.thomas@outlook.com,,4,0
+CUST-1528,Joshua Clark,46,MALE,Canada,2022-03-23,77799.14,216.4,-7,joshua.clark@outlook.com,+1-953-446-9692,1/5,Yes
+CUST-2010,Joshua Thompson,43,Male,ca,2023-11-23,73670.84,31.85,,joshua.thompson@yahoo.com,,5,Yes
+CUST-1166,Thomas Lopez,27,Male,Germany,05-12-2024,64319.34,123.16,5,thomas.lopez@gmail.com,,5,No
+CUST-1249,Mr. Emily Mitchell,37,Female,United States,2021-01-06,85789.38,349.02,7,emily.mitchell@outlook.com,,2,No
+CUST-1308,Brian Hall,22,Prefer not to say,Australia,2022-11-10,52574.97,,9,brian.hall@outlook.com,+1-830-506-7859,3,No
+CUST-1846,Mark Adams,59,Non-Binary,Canada,2023-05-02,98995.23,87.96,4,mark.adams@icloud.com,+1-678-334-7352,,No
+CUST-1533,Nancy Hall,44,Female,United Kingdom,10-22-2022,88582.46,157.92,5,nancy.hall@yahoo.com,+1-925-807-4883,5,0
+CUST-1335,Daniel Ramirez,36,Male,Deutschland,2021-07-25,48575.28,22.32,4,no_email,,5,1
+CUST-1098,andrew anderson,49,female,Germany,2023-08-07,71226.71,145.95,999,andrew.anderson@yahoo.com,+15532258909,Poor,0
+CUST-1543,Donald Lopez,46,FEMALE,United States,2022-04-26,74897.81,59.19,5,DONALD.LOPEZ@OUTLOOK.COM,+1-476-223-8859,1,No
+CUST-1674,D'Angelo Martin,30,Female,CAN,2023-10-01,50446.09,52.37,6,dangelo.martin@outlook.com,+1-750-229-8382,4/5,No
+CUST-1893,  Thomas Lee   ,38,Female,United Kingdom,2022-06-10,44156.56,$175.95,8,thomas.lee@outlook.com,+1-270-988-9393,4,No
+CUST-1839,Brian Lewis,28,Female,Germany,28/03/2023,55692.67,-322.72,3,brian.lewis@outlook.com,(253) 794-6919,,no
+CUST-1761,SUSAN MARTIN,51,Male,Oz,03-04-2024,41319.61,230.66,5,susan.martin@yahoo.com,+1-551-533-4662,4,No
+CUST-1625,Matthew Brown,195,Prefer not to say,Australia,2024-05-17,56k,-275.54,4,  matthew.brown@gmail.com  ,(606) 736-9741,Average,1
+CUST-2139,Carol Gonzalez,50,Male,US,2021-08-07,"$69,948.92",,9,carol.gonzalez@outlook.com,+1-994-362-6318,3,No
+CUST-1303,Renée Moore,,Female,United States,2023-12-28,"$92,382.95",73.8,11,renée.moore@icloud.com,(202) 637-1849,5,No
+CUST-2032,Joshua Nguyen,40,female,Australia,2024-06-21,69289.01,-255.64,6,JOSHUA.NGUYEN@YAHOO.COM,,Good,No
+CUST-1389,Kimberly Thompson,,Female,U.S.A.,2022-01-04,50106.11,214.96,5,  kimberly.thompson@icloud.com  ,,1,No
+CUST-1236,David Johnson,,Male,United States,2021-05-26,-134030.47,132.55,-9,david.johnson@icloud.com,,3,
+CUST-1901,Robert Green,31,Male,,2023-10-14,40575.85,$244.26,9,ROBERT.GREEN@YAHOO.COM,+1-807-737-2268,5,Yes
+CUST-1873,Carol Baker,46,Male,United Kingdom,2021-06-13,"USD 56,472",104.9,6,carol.baker@gmail.com,+1-496-599-2203,5,No
+CUST-1306,Renée Nelson,50,,Deutschland,NULL,85206.0,113.29,2,renée.nelson@icloud.com,,3,Yes
+CUST-1917,Sandra King,33,m,AU,2022-10-11,18000.0,90.13,999,,,Very Poor,0
+CUST-2133,Donald Baker,35,Male,AUS,2022-02-20,,47.0,7,donald.baker@icloud.com,(435) 933-7992,5,Yes
+CUST-1250,Ms. D'Angelo Davis,50,Female,Australia,05/02/2021,,485.59,-7,none@none,+1-795-259-3394,3,yes
+CUST-1257,Sarah Rivera,,Male,Australia,2022-07-14,"$78,019.91",29.93,2,sarah.rivera@icloud.com,,,No
+CUST-1072,Donald Johnson,33,Female,U.S.,04/05/2023,73300.61,EUR 48.46,7,donald.johnson@gmail.com,,5,Yes
+CUST-1095,Chloë Perez,44,Female,Germany,2024-05-02,69569.13,39.88,8,chloë.perez@outlook.com,+1-817-911-4290,,No
+CUST-2096,Melissa Nelson,195,Male,United Kingdom,2022.12.12,64456.36,38.05,8,,,3,No
+CUST-1034,Steven Moore,56,Male,Canada,2022.09.04,33411.03,109.92,5,steven.moore@icloud.com,+13526579824,4,No
+CUST-1851,PAUL HERNANDEZ,44,Male,Australia,11-12-2021,49222.0,refunded,4,paul.hernandez@outlook.com,+1-987-408-4823,4,No
+CUST-1449,Jennifer Davis,50,Male,United Kingdom,2021-06-26,-60100.14,18.77,,JENNIFER.DAVIS@GMAIL.COM,+1-985-373-1171,,no
+CUST-1446,James Nguyen,53,Female,usa,01-26-2023,82059.32,245.94,9,  james.nguyen@gmail.com  ,,4,No
+CUST-1916,Emily Sanchez,35,Male,United Kingdom,29/12/2023,47967.52,109.42,3,emily.sanchezyahoo.com,,4,No
+CUST-2147,Chloë Scott,45,FEMALE,Germany,,52409.68,87.32,3,chloë.scott@yahoo.com,,4,Yes
+CUST-1753,JAMES MILLER,18,Male,United States,2023-12-24,61789.38,373.19,3,james.miller@gmail.com,,4,Yes
+CUST-1078,Jean-Luc Moore,26,Non-Binary,Canada,2024-04-07,76366.72,EUR 466.44,5,jeanluc.moore@gmail.com,+1-467-869-6890,4,FALSE
+CUST-1085,Mr. Nancy Adams,18,Female,Germany,2023-01-30,"$103,823.11",324.46,7,  nancy.adams@yahoo.com  ,+1-252-474-7179,4,No
+CUST-1595,William Johnson,38,Male,germany,2023-02-27,50536.9,30.43,6,william.johnson@yahoo.com,+1-312-474-7075,4,
+CUST-1083,Jessica Mitchell,40,Female,Germany,2022-04-25,62132.41,39.53,5,jessica.mitchell@gmail.com,+1-343-715-5739,3,Yes
+CUST-1458,D'Angelo Flores,46,Male,germany,10/06/2023,52835.74,-109.37,2,dangelo.flores@gmail.com,,1,No
+CUST-1941,Amanda Perez,25,Female,United States,2024-06-09,85k,175.05,5,amanda.perez@yahoo.com,,5,No
+CUST-1437,elizabeth miller,39,Male,Germany,2022-02-02,0.00,45.71,3,elizabeth.miller@outlook.com,(531) 635-9394,4,0
+CUST-2120,Daniel Wilson,27,Male,United States,2024-06-10,85375.84,,2,daniel.wilson@icloud.com,,3,No
+CUST-1993,Carol Rivera,28, Mal ,Germany,2022-04-12,61485.53,147.13,-2,carol.rivera@gmail.com,+1-377-978-4527,3,No
+CUST-1405,Chloë King,,Female,United States,2021-06-23,50871.72,-293.01,3,chloë.king@gmail.com,,5,No
+CUST-2098,Donna Moore,30,m,United States,2022-07-14,61865.34,26.56,-9,  donna.moore@outlook.com  ,,1,No
+CUST-1666,Donna Ramirez,18,Female,Germany,2021-04-01,59083.84,215.52,6,donna.ramirez@yahoo.com,,4/5,Yes
+CUST-1713,Jennifer Gonzalez,41,Male,Germany,2023-09-25,"USD 55,759",-33.72,6,jennifer.gonzalez@icloud.com,,5,Yes
+CUST-1105,William Hall,34,Male,United Kingdom,27/10/2021,77843.61,31.42,9,william.hall@yahoo.com,+1-979-892-7434,4,0
+,Sarah King,33,Female,Canada,2023-09-08,Confidential,60.51,5,SARAH.KING@ICLOUD.COM,+19368856725,3,Yes
+CUST-1746,Jessica Young,29,Female,United Kingdom,2023-07-14,62922.8,443.48,6,jessica.young@gmail.com,+1-390-302-3129,2,Yes
+CUST-1063,David Johnson,18,Female,Australia,,80062.13,-37.52,,david.johnson@outlook.com,(570) 592-1530,4,No
+CUST-1282,Elizabeth Mitchell,44,Male,Germany,2023-08-24,101838.83,-165.59,7,elizabeth.mitchell@yahoo.com,+1-406-501-7418,1,No
+CUST-1728,O'Connor Davis,39,Male,Canada,,"$31,022.46",-236.1,7,OCONNOR.DAVIS@YAHOO.COM,,3,No
+CUST-1239,John Ramirez,50,Male,Ger,2021-07-20,76287.88,9999999.0,4,test,+1-285-771-1203,4,0
+CUST-1224,Nancy Garcia,18,non-binary,Australia,11-12-2021,51k,105.17,3,nancy.garcia@icloud.com,+1-988-592-4898,4,No
+CUST-1146,Margaret Nelson,44,,Germany,2023-02-30,36479.73,86.11,9,margaret.nelson@icloud.com,,1,1
+CUST-2176,Jean-Luc Green,41,male,,2022-05-13,73545.34,68.01,-8,jeanluc.greenicloud.com,+13773973114,5,Yes
+CUST-1374,Susan Flores,57,Male,United Kingdom,03-07-2024,,$71.41,7,susan.flores@icloud.com,,4,No
+CUST-1119,Betty White,35,Male,united states,2024-04-07,56127.63,616.41,5,betty.white@gmail.com,,5,no
+cust-1894,Mark Johnson,37,Non-Binary,Germany,2022.02.02,63559.27,-223.44,6,MARK.JOHNSON@OUTLOOK.COM,,4,No
+CUST-1251,Christopher Lee,43,Male,Canada,07-10-2022,62k,,5,christopher.lee@outlook.com,+1-298-747-6761,5,No
+CUST-1186,,,Male,United States,01-31-2024,,EUR 114.20,8,CHRISTOPHER.HERNANDEZ@OUTLOOK.COM,,2,Yes
+,Renée Robinson,43,Female,AU,2023-09-24,Confidential,212.25,5,renée.robinson@outlook.com,,Very Poor,No
+CUST-1450,Christopher Clark,44,Female,United Kingdom,2022-07-13,"$65,867.84",76.49,7,christopher.clark@yahoo.com,,3,No
+CUST-1975,Patricia Brown,40,Male,AU,N/A,27254.42,$65.91,2,PATRICIA.BROWN@YAHOO.COM,,4,No
+CUST-1390,Kevin Jones,,,Germany,,84683.92,169.99,8,kevin.jones@outlook.com,+1-402-401-1813,5,No
+CUST-1084,Barbara Green,34,Male,Australia,10-13-2023,90505.26,-$130.38,4,barbara.green@icloud.com,(737) 526-7821,3,No
+CUST-2004,Robert Robinson,29,Female,United States,2022-09-03,54113.77,42.48,5,robert.robinson@gmail.com,+15833905841,4,No
+CUST-1558,Sarah Jackson,45,Male,United Kingdom,2022-10-04,18000.0,793.09,,sarah.jackson@outlook.com,,3,No
+CUST-1461,O'Connor Lopez,26,Female,United States,2024-05-23,"USD 41,713",,4,,+1-894-491-5467,1,No
+CUST-2160,LINDA WALKER,49,f,Australia,2023-03-31,33328.94,128.92,6,linda.walker@gmail.com,,4,No
+,Carol Lewis,38,Female,Germany,2023-01-05,77154.78,,7,carol.lewis@yahoo.com,(694) 699-2850,5,No
+CUST-1502,Matthew Mitchell,51,Female,Canada,06-24-2022,92981.63,17.48,11,matthew.mitchell@outlook.com,,3,Yes
+CUST-2171,Christopher Anderson,18,Female,United States,2021-09-26,"$87,049.96",49.06,9,christopher.anderson@icloud.com,+18505064953,3,No
+CUST-1540,Mark Hill,52,Non-Binary,Australia,2023-04-11,71524.69,14.47,-5,mark.hill@gmail.com,+1-242-596-2748,4,Yes
+CUST-1178,Christopher Young,48,Female,Australia,08 Mar 2024,"$44,612.31",9999999.0,7,christopher.young@yahoo.com,,4,No
+CUST-1990,Joseph King,46,Female,CAN,2022-12-15,0.00,13.66,9,joseph.king@gmail.com,+14658478067,5,TRUE
+CUST-1771,Kimberly Campbell,39,Male,CA,08-18-2021,Confidential,166.94,-4,,+1-321-564-5919,4,Yes
+CUST-1862,Kimberly Mitchell,38,Female,Australia,2021-06-23,46213.48,113.04,6,kimberly.mitchell@yahoo.com,+1-612-210-1480,1,0
+,,,,,,,,,,,,
+CUST-1008,James Jones,45,Male,United States,2022-04-14,84530.47,EUR -25.52,4,james.jones@outlook.com,+12727264899,3,0
+CUST-1788,Mary Brown,44,MALE,Germany,2023-02-30,59960.22,66.19,,mary.brown@outlook.com,+1-302-778-4524,2/5,No
+CUST-1939,Kimberly Gonzalez,,Female,Australia,2024-04-25,45732.07,38.04,9,kimberly.gonzalez@gmail.com,+1-201-479-2511,,Yes
+CUST-1358,Donald Gonzalez,27,Male,United Kingdom,03-31-2021,103441.99,84.08,7,donald.gonzalez@icloud.com,+1-763-928-5137,,Yes
+CUST-1330,Sandra Baker,30,Female,,2024-05-18,54323.27,153.46,7,sandra.baker@yahoo.com,+1-212-319-2512,4,Yes
+CUST-1779,Christopher Gonzalez,,Female,Germany,02-10-2021,55214.25,71.55,6,christopher.gonzalez@gmail.com,+1-324-789-4950,4,No
+CUST-1924,Brian White,37,Female,Germany,2022-07-09,53446.51,69.59,4,brian.whiteicloud.com,,4,No
+CUST-1259,Emily Nelson,50,Male,Canada,2021-12-03,35268.19,524.0,6,emily.nelson@yahoo.com,+1-519-932-7374,4,No
+CUST-1969,Donald Miller,46,Female,Australia,09 Jun 2023,"$94,610.57",48.98,1,donald.miller@icloud.com,+1-612-988-8458,3,No
+CUST-1994,carol martinez,52,Male,U.K.,2021-08-08,,104.64,7,carol.martinez@yahoo.com,,3/5,No
+CUST-1859,,,Female,Australia,2023-07-15,50222.14,77.48,3,paul.martinez@yahoo.com,,5,No
+CUST-1809,Chloë Clark,43,Male,Germany,2023-04-10,-56003.28,31.92,,chloë.clark@gmail.com,,5,No
+CUST-1923,  Betty Garcia   ,43,Female,United Kingdom,2023-02-25,107179.7,78.74,7,betty.garcia@icloud.com,,3,Yes
+CUST-1526,Jessica Garcia,41,Male,United States,28/01/2021,"USD 86,017",151.85,4,no_email,,4,Yes
+CUST-1906,Steven Wright,18,,United States,2022-09-30,90959.75,-312.4,10,steven.wright@gmail.com,+1-867-918-2677,4,Yes
+CUST-1724,Daniel Nelson,45,Male,United Kingdom,2021-10-31,unknown,,5,daniel.nelson@icloud.com,(432) 916-4114,5,No
+CUST-1833,Brian Anderson,39,f,Canada,2022-04-21,35607.94,276.13,4,BRIAN.ANDERSON@YAHOO.COM,+1-633-480-8757,,No
+CUST-2198,kimberly anderson,57,Male,US,2024-04-04,70428.07,268.63,3,kimberly.anderson@icloud.com,+1-221-799-4173,3,
+CUST-1441,Carol Moore,22,Male,,N/A,56k,537.47,10,carol.moore@yahoo.com,,4,Yes
+,Michelle Ramirez,28,Male,Australia,2021.09.23,43787.6,385.65,6,michelle.ramirez@outlook.com,+1-942-582-3099,3,Yes
+CUST-1227,Kenneth Davis,35,Male,United States,26 Jun 2021,82152.53,35.49,4,kenneth.davis@yahoo.com,,Excellent,No
+CUST-1229,Mary Young,33,Female,United States,2021-03-19,64682.05,110.58,3,mary.young@outlook.com,+1-355-916-6403,5,No
+CUST-2093,Mr. Kenneth Jones,47,Male,United Kingdom,2023-02-30,31008.76,236.81,6,kenneth.jones@yahoo.com,+1-537-825-9642,Excellent,No
+CUST-1213,Kimberly Davis,46,Female,United States,05-02-2024,,90.8,10,  kimberly.davis@outlook.com  ,,4,0
+,Mark Davis,69,Male,Australia,2023-09-29,40643.7,21.52,7,mark.davis@icloud.com,,4,No
+CUST-1149,Richard Gonzalez,,Female,Germany,2022-03-18,101060.57,90.26,7,richard.gonzalez@yahoo.com,+1-933-546-2765,4,No
+CUST-1650,Jennifer Martin,52,FEMALE,CA,11-14-2023,44924.83,302.84,9,jennifer.martin@yahoo.com,+1-205-790-7808,5/5,No
+CUST-1782,Carol Flores,18,Female,United Kingdom,2023.11.07,62k,EUR 33.42,6,carol.flores@icloud.com,+1-697-386-8486,1,0
+CUST-1692,Amanda Torres,53,Female,United States,2021-05-10,110540.58,105.28,8,amanda.torres@yahoo.com,,3/5,No
+CUST-1134,Joseph Adams,40,Female,United Kingdom,2022-07-06,74955.77,295.41,5,joseph.adams@gmail.com,+19999851145,4,No
+CUST-1886,SARAH JOHNSON,27,Male,Deutschland,2023-08-28,44477.01,282.74,1,sarah.johnson@outlook.com,+1-718-371-8012,4,No
+CUST-1409,Sarah Nelson,,Female,Germany,NULL,"$43,466.09",$499.79,4,,+1-585-683-3955,4,Yes
+CUST-1869,Betty Brown,27,Male,Germany,2021-01-06,98k,EUR -18.79,7,betty.brown@yahoo.com,+1-212-934-6103,3,no
+CUST-1508,Richard Hill,43,Female,Australia,2022-11-22,70798.12,91.4,11,richard.hill@icloud.com,+1-658-319-2072,Average,No
+CUST-1979,Sandra Sanchez,999,Female,United Kingdom,01-12-2022,107411.89,124.86,6,sandra.sanchez@icloud.com,+1-654-727-9435,1,No
+CUST-1505,Kimberly Clark,37,Male,United Kingdom,,98181.44,48.13,6,kimberly.clark@yahoo.com,,4,No
+CUST-1744,Sarah Rivera,,male,Great Britain,2021-04-06,76759.96,137.85,10,sarah.rivera@outlook.com,+16692691268,2,No
+CUST-1348,Amanda Martinez,38,Male,United Kingdom,2023-02-15,,90.69,6,amanda.martinez@outlook.com,+1-254-942-7064,4,No
+CUST-1387,  Mary King   ,49,,GB,2022-03-19,105251.64,293.49,7,test,+1-422-230-6366,-1,No
+  CUST-1001  ,,44,f,Canada,2022-05-17,61958.19,196.34,3,kenneth.davis@gmail.com,+1-892-958-9935,,No
+CUST-1361,Dr. Amanda Scott,19,Female,United Kingdom,2023-04-17,"USD 43,879",13.52,5,amanda.scott@outlook.com,+1-532-258-1170,5,No
+CUST-2191,Betty Sanchez,56,Male,United Kingdom,2021-10-08,"$73,170.82",75.95,8,none@none,,1,0
+CUST-1476,Donald Miller,,Male,Australia,2022-03-07,107679.74,205.5,6,donald.miller@yahoo.com,+15313604144,4,Yes
+,,,,,,,,,,,,
+CUST-2099,Daniel Johnson,33,FEMALE,United Kingdom,2022.09.28,88576.97,26.78,,daniel.johnson@outlook.com,,2,No
+CUST-1835,Joshua Rodriguez,45,Female,Canada,2021-09-26,77166.04,97.5,7,joshua.rodriguez@gmail.com,+17137584870,4,No
+CUST-1173,Steven Jackson,56,Female,United States,18/11/2023,"USD 104,584",$205.01,6,steven.jackson@outlook.com,+1-910-653-7178,4,Yes
+cust-1451,chloë baker,41,,U.K.,2023-02-30,"USD 52,641",138.67,8,chloë.bakeroutlook.com,+12927254452,3,No
+CUST-1126,John Jackson,35,Female,canada,08-03-2021,-28291.15,,7,john.jackson@icloud.com,+1-364-949-2228,4,Yes
+CUST-1847,Brian Hernandez,41,Male,United States,23/01/2021,46542.69,,6,brian.hernandez@outlook.com,+15422418445,4,
+CUST-1531,Ashley Sanchez, 31 yrs,Female,AUS,2022-07-23,56104.04,,8,ashley.sanchez@icloud.com,+1-821-941-9177,3,Yes
+CUST-1091,Kevin Williams,55,Female,Canada,,45556.89,61.36,6,KEVIN.WILLIAMS@YAHOO.COM,+1-970-929-7525,5,FALSE
+CUST-1212,Karen Lopez,39,Female,United States,2022-02-18,"USD 90,561",21.21,7,karen.lopez@icloud.com,,5/5,No
+CUST-1182,Joshua Robinson,, Mal ,Australia,2023-06-10,86041.69,240.86,4,joshua.robinson@outlook.com,+1-555-693-9841,3,0
+CUST-1725,,47,M,Deutschland,2021-04-04,68666.43,265.9,3,jennifer.brown@icloud.com,+1-821-709-2979,4,Yes
+CUST-1415,Paul Hill,45,Male,United States,02-06-2024,47102.33,$17.76,8,paul.hill@icloud.com,,3,No
+CUST-1252,Paul Rivera,33,Male,United States,unknown,"$96,954.29",253.78,8,paul.rivera@gmail.com,,4,FALSE
+CUST-1070,michael ramirez,43,Female,Canada,2023-01-20,55863.67,EUR 147.49,7,michael.ramirez@outlook.com,+1-246-610-1838,4,No
+CUST-1132,O'Connor Lee,35,,Germany,2024-05-23,"USD 110,688",272.26,6,OCONNOR.LEE@YAHOO.COM,,4,Yes
+CUST-1301,D'ANGELO NELSON,39,Female,United States,2022.12.24,"$22,767.19",20.09,7,dangelo.nelson@icloud.com,,2,Yes
+cust-1737,Sarah Miller,27,Female,,2021-01-17,52944.09,337.07,8,sarah.miller@icloud.com,+1-332-262-3839,0,0
+CUST-1327,Richard Moore,,Male,Germany,2021-06-13,94236.53,EUR 213.15,7,richard.moore@outlook.com,(607) 586-3748,4,no
+CUST-1578,Brian Walker,42,M,ca,2023-11-09,87510.42,31.03,5,brian.walker@icloud.com,,4,No
+CUST-1876,Betty Williams,47,female,Australia,2023-06-01,,-304.12,8,betty.williams@icloud.com,,4/5,No
+CUST-1500,Brian Adams,,Male,Australia,01-08-2024,62835.35,73.35,4,brian.adams@gmail.com,+1-403-295-2483,4,Yes
+cust-1732,  Joshua Garcia   ,-47,Male,Germany,2022-11-05,18000.0,34.44,2,joshua.garcia@gmail.com,+1-724-888-6486,2,No
+CUST-2023,Ms. Joseph Young,32,F,United States,N/A,51960.54,163.57,9,joseph.young@outlook.com,,1,Yes
+CUST-1496,George Campbell,34,Female,canada,2023-11-07,66092.76,16.91,8,george.campbell@outlook.com,,2,Yes
+CUST-2173,Mary Hernandez,42,Male,Australia,2023-12-06,66401.45,28.52,7,mary.hernandez@yahoo.com,+1-277-375-9573,4,No
+CUST-1339,Chloë Perez,,FEMALE,United Kingdom,2022-04-06,124246.74,33.78,5,chloë.perez@gmail.com,,4,
+CUST-1422,Patricia Anderson,64,female,United States,13/01/2022,Confidential,$18.53,5,patricia.anderson@icloud.com,,4,No
+CUST-1165,Dorothy Moore,34,,United Kingdom,19/11/2021,"$64,665.75",54.12,4,dorothy.moore@gmail.com,,5,0
+CUST-1029,Andrew Flores,33,Female,U.S.A.,2022-03-02,88956.91,31.02,5,andrew.flores@outlook.com,+18762833573,3,No
+CUST-1517,Charles Baker,62,Male,Germany,2022-05-02,70964.35,56.73,2,charles.baker@outlook.com,+15538518454,4,1
+CUST-1194,George Torres,43, Fem ,usa,11-16-2022,104853.11,23.94,8,george.torres@icloud.com,+1-626-323-4714,Good,Yes
+CUST-1837,David Lee,28,Male,Germany,2021-10-04,18648.44,119.86,5,david.lee@yahoo.com,+1-218-957-9321,,No
+CUST-1863,Charles Campbell,42,Male,United States,2023-02-30,40200.2,138.06,4,charles.campbell@gmail.com,+1-409-728-9121,3,1
+CUST-1170,Karen Torres,22,Female,Germany,2021-10-10,"$43,624.49",72.25,4,karen.torres@gmail.com,+1-965-435-8317,4,Yes
+CUST-1784,MICHAEL TAYLOR,32,Male,Canada,2023-07-18,62216.58,238.14,9,MICHAEL.TAYLOR@YAHOO.COM,,5,No
+CUST-1653,Renée Jones,,,United States,2022-03-16,63506.83,49.61,10,renée.jonesoutlook.com,+1-331-997-9135,5,1
+CUST-1174,Daniel King,18,Male,Canada,2022-05-24,22146.56,144.88,6,daniel.king@icloud.com,+1-889-966-6603,1,
+CUST-1519,Lisa Robinson,42,Male,Ger,02-07-2023,66009.17,50.72,5,lisa.robinson@yahoo.com,,2,No
+CUST-2024,,25,Male,United Kingdom,26/11/2023,29786.23,112.24,,steven.jones@yahoo.com,,5,Yes
+CUST-2106,  Brian Scott   ,47,male,Australia,26 Nov 2021,64380.3,60.68,5,brian.scott@gmail.com,+1-580-489-9970,4,No
+CUST-1492,O'Connor Martinez,55,Male,Australia,12-12-2023,29076.69,-193.61,5,oconnor.martinez@yahoo.com,+1-910-743-3732,3,No
+CUST-1074,Karen Jackson,60,Male,Germany,2022-10-12,77986.04,370.05,9,karen.jackson@outlook.com,,3,Yes
+CUST-2054,THOMAS WILSON,50,Non-Binary,Canada,2023-03-26,43274.94,138.51,3,THOMAS.WILSON@OUTLOOK.COM,(495) 966-7478,1,no
+CUST-1588,  Michelle Williams   ,18,Male,CA,2022-05-19,121078.21,149.35,4,michelle.williams@icloud.com,,Very Poor,FALSE
+CUST-1658,Linda Rivera,18,Female,United States,2024-03-03,71852.8,81.85,6,linda.riveraoutlook.com,+1-744-740-6821,3,No
+CUST-1235,Jessica Gonzalez,37,Female,australia,2021.07.15,,566.77,7,jessica.gonzalez@yahoo.com,,3/5,No
+CUST-1215,Amanda Nelson,33,Male,United States,2023-08-12,18000.0,18.54,5,amanda.nelson@gmail.com,+1-915-679-2593,4,No
+CUST-1163,,40,male,Australia,2021-10-15,65067.01,247.46,7,chloë.flores@yahoo.com,+1-779-779-3395,4/5,No
+CUST-1133,Jessica Williams,47,Female,Canada,unknown,66142.81,17.62,5,jessica.williams@icloud.com,,4,No
+CUST-1860,D'Angelo Young,50,Non-Binary,GB,2021-10-04,52279.16,175.83,7,dangelo.young@outlook.com,+1-390-819-9592,,No
+CUST-1950,Charles Thompson,65,Male,United Kingdom,2021.10.07,"$66,261.73",517.12,4,charles.thompson@gmail.com,,4,Yes
+CUST-2034,daniel garcia,28,male,Germany,04-28-2023,51253.64,13.57,7,daniel.garcia@icloud.com,,3,Yes
+CUST-1186,,,Male,United States,01-31-2024,,EUR 114.20,8,CHRISTOPHER.HERNANDEZ@OUTLOOK.COM,,2,Yes
+,Brian White,21,Female,Germany,29/04/2022,Confidential,$246.58,9,brian.white@gmail.com,+1-902-576-9920,5,No
+CUST-1693,Dorothy King,39,female,Canada,2023-07-16,40342.13,$28.73,,dorothy.king@yahoo.com,,,No
+CUST-1109,Anthony Flores,48,Male,United Kingdom,2021-06-27,,568.24,7,anthony.flores@yahoo.com,+1-970-326-7291,3,No
+CUST-1947,  William Hill   ,56,Female,United Kingdom,2024-06-18,71453.74,199.95,9,N/A,+13613018952,3,No
+CUST-1569,Richard Johnson,23,Female,United Kingdom,2023-07-11,37559.56,13.0,-6,richard.johnson@yahoo.com,+1-864-509-7493,3,No
+CUST-1715,Kevin Rodriguez,28,Male,Canada,2024-02-11,78807.45,176.0,5,kevin.rodriguezoutlook.com,,4,Yes
+CUST-2066,Brian Wright,40, Mal ,,2021-06-24,18809.42,118.4,4,brian.wright@icloud.com,+1-392-723-1299,4,No
+CUST-1095,chloë perez,44,Female,Germany,2024-05-02,69569.13,39.88,8,chloë.perez@outlook.com,+1-817-911-4290,,No
+CUST-1484,Matthew Johnson,37,Female,UK,2023-02-19,Confidential,-161.91,8,matthew.johnson@yahoo.com,,4,0
+CUST-1469,Jessica Taylor,33,Female,Germany,2022-11-09,77k,100.63,6,jessica.taylor@outlook.com,,4,No
+CUST-1025,Jessica Garcia,33,Female,Germany,15 May 2022,"$82,095.10",80.08,999,jessica.garcia@icloud.com,(544) 229-9098,5,No
+CUST-2150,Elizabeth Williams,49,f,usa,2023-08-22,46738.45,$25.97,7,ELIZABETH.WILLIAMS@YAHOO.COM,+1-628-516-5349,0,yes
+CUST-2129,Joshua Rivera,27,Male,canada,2024-02-25,79816.4,63.3,8,joshua.rivera@gmail.com,+1-541-524-6697,4,No
+CUST-1920,  Robert Taylor   ,,female,Australia,2024-03-05,"USD 56,126",87.87,5,robert.taylor@gmail.com,+1-611-634-5093,Average,Yes
+CUST-2064,Lisa Scott,22,Male,Ger,21/02/2021,"USD 27,467",9999999.0,2,lisa.scott@outlook.com,,3,no
+CUST-1367,Anthony Hill,-5,Male,Canada,2021-10-11,53695.55,85.34,6,ANTHONY.HILL@YAHOO.COM,+1-592-628-9144,4/5,No
+CUST-1936,Robert Rivera,27,Female,Oz,NULL,-41701.18,79.63,10,robert.rivera@outlook.com,+1-733-738-6880,,No
+CUST-2107,John Nelson,47,male,Australia,2022.03.04,57354.45,$169.88,7,john.nelson@icloud.com,,3,No
+CUST-1384,Chloë Rodriguez,33, Mal ,Australia,14/03/2023,49718.79,74.72,,chloë.rodriguez@outlook.com,+1-766-362-6282,3,No
+CUST-1718,Lisa Torres,43,Male,CAN,03-16-2023,44965.81,9999999.0,6,lisa.torres@icloud.com,+12656414418,5,No
+CUST-1455,Christopher Jackson,18,Male,Germany,2024-05-07,68926.49,77.76,,none@none,,Average,No
+CUST-1265,Kevin Scott,36,f,United States,2023-09-23,95202.67,9999999.0,3,kevin.scott@gmail.com,+1-285-521-5882,5,Yes
+CUST-1842,Margaret Martin,44,Female,United Kingdom,2021-07-23,67228.83,136.64,7,margaret.martin@outlook.com,,4,No
+CUST-1233,Joseph Jones,63,Male,germany,2022-11-22,44773.54,$105.97,999,joseph.jones@icloud.com,+1-532-323-9943,2,1
+CUST-1445,DAVID GREEN,65,Male,United Kingdom,2023-06-15,none,112.03,6,david.green@icloud.com,,4,No
+CUST-1396,Lisa Miller,43,Female,,16/05/2023,"$68,257.97",61.1,-1,  lisa.miller@yahoo.com  ,,4,No
+cust-1885,John Sanchez,38,Female,Canada,2023-09-07,"USD 63,882",-283.89,12,john.sanchez@gmail.com,,1/5,No
+CUST-1177,Brian White,48,,Germany,2022-07-27,73385.48,$153.60,3,brian.whiteyahoo.com,+1-789-902-4744,5,No
+CUST-1019,Jean-Luc Lewis,34,Male,Australia,2023-05-24,77234.68,,8,jeanluc.lewis@icloud.com,,,Yes
+CUST-2104,Thomas Thompson,44,Non-Binary,Australia,2024-01-29,56924.36,20.45,,thomas.thompson@icloud.com,,4/5,No
+CUST-2159,Andrew White,33,MALE,United Kingdom,13/08/2023,65924.29,214.28,4,andrew.white@yahoo.com,,2,No
+CUST-1907,Mark Lewis,28,Male,Australia,20 Apr 2021,18000.0,15.2,5,mark.lewis@yahoo.com,+1-437-854-5957,5,No
+CUST-1757,Kevin Torres,37,Male,United States,2021-05-03,44803.58,48.58,9,kevin.torres@icloud.com,+13676688145,5,Yes
+CUST-1596,Ashley King,43,Female,United States,11-02-2022,55211.15,183.97,4,ashley.king@icloud.com,,4,
+CUST-1062,Jennifer Ramirez,33,male,United Kingdom,2024-01-23,51228.16,36.52,-4,jennifer.ramirez@gmail.com,+12815355843,3,No
+cust-1273,Mr. Kevin Hill,41,Male,United States,01-11-2021,60832.9,58.47,,  kevin.hill@icloud.com  ,,10,Yes
+CUST-2183,Ms. Elizabeth Brown,44,Non-Binary,Australia,23 Oct 2023,44k,66.73,6,elizabeth.brown@gmail.com,,2,No
+CUST-1279,Carol Martin,56,Male,Australia,2023-05-26,27157.74,$163.45,5,carol.martin@gmail.com,+1-764-278-1738,4,0
+CUST-1938,Anthony Clark,,Male,United States,07-11-2022,none,,5,anthony.clark@gmail.com,(697) 338-9786,2,No
+CUST-1695,Christopher Hall,46,Female,United Kingdom,2024-03-08,58072.74,512.84,4,christopher.hallicloud.com,+18077684495,5,No
+CUST-1369,Mr. Donna Jones,22,Male,Australia,2021-11-20,49392.3,-137.36,5,donna.jones@gmail.com,,4,1
+CUST-1989,Joseph Young,30,,Canada,21 Jan 2022,90039.31,-256.72,6,test,,4/5,No
+CUST-1736,Linda Sanchez,27, Mal ,AUS,2024-04-21,76413.45,133.53,6,linda.sanchez@yahoo.com,(922) 464-5518,4,No
+CUST-1912,D'ANGELO LOPEZ,24,Female,United Kingdom,02 May 2023,39663.02,95.33,,dangelo.lopez@icloud.com,,5,No
+,  O'Connor Campbell   ,31,,Germany,2022-02-08,57813.75,101.62,5,oconnor.campbell@yahoo.com,,3,No
+CUST-2141,Joshua Hill,,Prefer not to say,United States,2021-08-08,"USD 61,264",151.07,11,joshua.hill@icloud.com,+1-806-761-4661,1,No
+CUST-1856,James Ramirez,41,Male,US,13 May 2024,0.00,161.88,4,james.ramirez@icloud.com,+1-312-375-8737,3,No
+CUST-1548,STEVEN MILLER,55,Male,United States,2022-09-20,"$57,208.07",33.34,,steven.miller@icloud.com,+1-510-414-9879,4/5,Yes
+CUST-2085,Ashley Flores,37,Female,United States,2021-04-24,,34.74,3,ashley.flores@outlook.com,,5,No
+CUST-1689,Sandra Harris,48,Female,Australia,30/04/2022,52689.98,114.27,8,sandra.harris@gmail.com,+1-335-641-6873,4,Yes
+CUST-1739,Carol Walker,51,Non-Binary,Australia,01/06/2023,unknown,$20.12,3,carol.walker@gmail.com,,5,No
+CUST-2003,Mark Wright,64,,U.S.,02 Feb 2023,78140.67,122.36,6,,,4,Yes
+CUST-1457,Dorothy Nelson,36,Female,United States,2022-09-13,98092.71,641.37,9,dorothy.nelson@gmail.com,+1-818-661-9225,3,
+CUST-1394,Brian Jones,41,Female,Germany,2021-05-04,85634.14,128.19,,brian.jonesyahoo.com,+1-679-594-4078,4,No
+CUST-1676,Michael Garcia,44,Female,AU,2022-05-30,,9999999.0,9,michael.garcia@icloud.com,+1-261-206-9795,1,No
+CUST-2016,ROBERT NELSON,30,Male,United States,,68054.83,323.73,4,none@none,+1-592-527-5377,2,No
+CUST-1729,Kenneth Nelson,40,Female,United States,2023-05-27,65558.48,37.55,6,KENNETH.NELSON@OUTLOOK.COM,+1-273-279-6606,3,0
+CUST-1420,Andrew Campbell,195,Male,Australia,2022-06-17,"$52,666.63",112.36,5,andrew.campbell@icloud.com,+1-678-963-4903,2,0
+CUST-1376,Melissa Thomas,18,Male,Australia,2021-01-17,92749.0,EUR 36.45,5,  melissa.thomas@gmail.com  ,+1-497-584-3592,4,Yes
+CUST-1413,David Jackson,40,Female,AU,05-10-2022,47582.39,346.06,4,david.jackson@outlook.com,+1-608-833-1928,4,1
+CUST-1075,Brian Moore,,Female,Oz,2024-04-16,89072.21,137.26,4,BRIAN.MOORE@GMAIL.COM,+1-885-743-4697,4,No
+CUST-2179,Brian Hernandez,40,Female,Australia,2022-11-08,78529.15,71.13,9,BRIAN.HERNANDEZ@ICLOUD.COM,+19066481475,1,Yes
+CUST-1963,  Betty King   ,38,Male,Ger,2022-08-01,"USD 35,032",260.22,9,betty.king@icloud.com,(661) 762-5296,1,TRUE
+CUST-1501,Christopher Anderson,59,Female,USA,2022-05-19,87000.48,,3,christopher.anderson@outlook.com,+12267064677,5,Yes
+CUST-1991,Sandra Gonzalez,18,,Canada,2023-03-01,50k,63.98,7,sandra.gonzalez@yahoo.com,(288) 883-6201,5,No
+CUST-1617,James King,53,N/A,United Kingdom,2022-12-03,69015.84,818.42,6,james.king@icloud.com,+1-883-763-9660,2,No
+CUST-1115,  Lisa Gonzalez   ,23, Fem ,Canada,2022-05-12,96762.82,291.68,9,lisa.gonzalez@icloud.com,+1-991-994-4201,4,FALSE
+CUST-1418,elizabeth williams,45,Non-Binary,Germany,2023-07-19,36921.3,$130.68,5,N/A,(710) 234-5428,3,0
+CUST-1602,  Linda Hall   ,51,Female,United States,04-16-2022,69358.9,91.22,8,linda.hall@gmail.com,,5,No
+CUST-1605,Paul Martinez, 41 yrs,Male,AU,11/01/2024,,122.47,4,paul.martinez@icloud.com,,2,Yes
+CUST-1090,Jennifer Sanchez,45,Female,Australia,2023-09-02,49033.64,-18.17,4,jennifer.sanchez@yahoo.com,+1-284-711-8109,4,No
+CUST-1918,Joseph Ramirez,20,Male,DE,2021-12-16,82338.68,36.46,5,joseph.ramirez@gmail.com,,4,no
+CUST-1333,john miller,29,Female,United States,,61721.89,142.7,11,john.miller@outlook.com,,4,No
+CUST-1754,  Betty Jackson   ,61,Non-Binary,germany,29/09/2022,46k,193.83,1,betty.jackson@gmail.com,,3,No
+CUST-1499,Nancy Thompson,52,Male,United Kingdom,2022-10-11,47897.83,82.07,5,nancy.thompson@gmail.com,,3,No
+CUST-1978,George Miller,30,Female,Germany,2023-05-25,113616.82,17.64,1,george.miller@gmail.com,+17217078843,3,Yes
+CUST-1985,Nancy Campbell,31,Female,Germany,2023-05-29,49452.45,115.13,4,nancy.campbell@icloud.com,+1-562-726-4254,4,Yes
+  CUST-1983  ,Barbara Hernandez,34,f,United Kingdom,2023-04-16,98042.97,149.93,9,barbara.hernandez@gmail.com,+1-849-774-1256,3,Yes
+CUST-1012,David Lewis,29,Male,ca,2024-06-06,53961.35,383.69,10,david.lewis@gmail.com,,5,No
+  CUST-1397  ,Prof. Betty Sanchez,28,Female,Canada,10-12-2023,49331.14,cancelled,4,betty.sanchezyahoo.com,,4,No
+CUST-2094,JOSHUA JOHNSON,31,Male,UK,2023-06-03,94230.22,51.18,11,joshua.johnson@yahoo.com,(959) 508-8618,4,No
+CUST-1556,lisa sanchez,24,Female,United Kingdom,2021-09-18,58435.06,611.4,3,lisa.sanchez@icloud.com,,3,No
+CUST-1043,Emily Wilson,,Male,United Kingdom,2022-11-04,"$64,899.62",100.53,,emily.wilson@gmail.com,,Good,Yes
+CUST-1168,Anthony White,195,Male,Australia,2023-05-29,"USD 85,270",153.95,6,anthony.white@icloud.com,,4,1
+,Joseph Lewis,35,Male,Canada,2024.02.04,"USD 33,113",18.94,13,joseph.lewis@yahoo.com,,4,No
+CUST-1577,John Flores,-32,Female,United Kingdom,2021-12-15,71489.37,EUR 148.62,7,john.flores@icloud.com,,4,No
+CUST-1268,THOMAS MARTIN,55,Female,United Kingdom,2022-09-02,90856.23,36.86,4,thomas.martin@yahoo.com,+1-649-846-6196,5,Yes
+CUST-1899,Donna Wilson,31,Male,United States,2023-01-31,74062.97,52.73,6,,+16797539202,,Yes
+CUST-1427,Margaret Thompson,39,Female,Australia,2022-05-10,,47.62,,no_email,,5/5,No
+CUST-1691,Donald Perez,39,Male,United States,2023-02-30,32471.97,9999999.0,8,donald.perezoutlook.com,+1-938-948-7003,3,No
+CUST-1545,  Lisa Nelson   ,24,Male,Australia,2024-01-13,79861.22,EUR 35.87,8,lisa.nelsonoutlook.com,+1-616-378-7582,3,Yes
+CUST-2180,Susan Brown,52,Female,United States,2022.04.07,39849.7,45.99,2,susan.brown@yahoo.com,+1-789-723-1474,Good,No
+CUST-1675,Nancy Hill,54,Male,United Kingdom,2021-04-20,48518.22,-327.19,8,nancy.hill@icloud.com,,,No
+CUST-1690,lisa perez,37,Male,United States,08-02-2023,"USD 89,821",54.61,6,lisa.perezoutlook.com,,,No
+CUST-2109,Charles Williams,,Female,Germany,2023-07-14,74251.81,28.41,7,charles.williams@gmail.com,+13885682291,4,No
+CUST-1591,Amanda Rodriguez,32,Female,Australia,,68320.04,265.48,,amanda.rodriguez@gmail.com,+18977355477,4,No
+CUST-1160,  Patricia Scott   ,45, Fem ,australia,2021-05-30,66187.75,91.31,5,patricia.scott@gmail.com,,4,0
+CUST-1986,Karen King,,Female,United Kingdom,2021-03-02,75261.78,16.04,8,karen.king@icloud.com,+1-684-573-9593,4,Yes
+CUST-1258,Christopher Martinez,40,Female,Australia,17/07/2021,99078.44,71.9,1,christopher.martinez@icloud.com,,4,0
+,Jennifer Sanchez,65,Female,,2023-04-29,19632.08,N/A,8,jennifer.sanchez@yahoo.com,+1-628-879-2132,3,Yes
+CUST-1336,Christopher Harris,35,Male,United Kingdom,12/06/2022,59687.06,518.07,7,christopher.harris@gmail.com,+1-881-339-9757,4,No
+cust-1964,Andrew Walker,18,Male,Germany,,,101.18,-7,andrew.walker@yahoo.com,,3,No
+CUST-1016,James King,43,Male,Australia,2022-02-08,-64837.64,50.8,8,james.king@gmail.com,,4,No
+CUST-2005,Mary Wilson,46,,Australia,2022-04-19,79113.92,-108.23,,mary.wilson@yahoo.com,(698) 899-4732,3/5,No
+CUST-1325,Charles Gonzalez,48,Female,United Kingdom,19/03/2021,78474.31,285.29,4,charles.gonzalez@icloud.com,+1-956-536-3199,3,No
+CUST-1769,Joshua Brown,34,Female,United Kingdom,2023-03-19,18000.0,75.25,6,joshua.brown@yahoo.com,,3,
+CUST-1608,Robert Sanchez,32,Female,uk,05-15-2021,65481.05,129.91,8,ROBERT.SANCHEZ@ICLOUD.COM,+18338945835,4,No
+CUST-2108,Joseph Johnson,51,Male,Canada,08-06-2021,71495.21,79.28,7,joseph.johnson@icloud.com,,0,FALSE
+CUST-1890,STEVEN KING,49,Female,,2022-02-24,68723.4,410.6,2,steven.king@icloud.com,+1-259-537-9956,5,No
+CUST-1817,Donald Campbell,46,female,australia,2023-03-06,105k,285.93,5,donald.campbell@icloud.com,+1-930-450-4786,10,Yes
+CUST-1223,David Torres,47,F,Canada,2021-02-25,70130.75,144.75,5,none@none,(329) 717-2259,5,No
+CUST-1180,Betty Moore,21,Male,,,"USD 40,661",34.57,10,BETTY.MOORE@ICLOUD.COM,+1-623-371-4012,5,No
+CUST-1356,STEVEN RAMIREZ,50,Male,Canada,14 Aug 2021,54737.1,395.72,4,steven.ramirez@outlook.com,,-1,1
+CUST-1100,Jean-Luc Rivera,33,Male,United States,2024-03-28,58800.74,73.31,3,jeanluc.rivera@yahoo.com,+1-574-533-4228,4,No
+CUST-1758,Kenneth Davis,47,Male,Australia,2023.04.05,none,EUR 25.98,4,kenneth.davis@icloud.com,+1-307-453-8111,4,
+CUST-1522,Kevin Martinez,58,Male,,2021-03-22,49193.43,46.33,6,kevin.martinez@icloud.com,+1-684-588-8813,2,0
+CUST-1762,Mary Scott,21,,Australia,2023-07-26,87495.28,518.42,3,mary.scott@icloud.com,(461) 772-6766,4,
+CUST-1023,Susan Robinson,38,Male,Canada,10/12/2021,72505.34,323.65,,susan.robinson@gmail.com,+1-996-367-6096,2,FALSE
+CUST-1357,  Emily Rodriguez   ,42, Fem ,Canada,2024-04-21,39750.79,,12,  emily.rodriguez@outlook.com  ,+1-443-865-5521,3,No
+CUST-1734,christopher hall,40,Female,Great Britain,19/03/2021,42199.97,169.41,4,christopher.hall@icloud.com,,4,Yes
+,,,,,,,,,,,,
+CUST-2167,Renée Scott,22,Male,Australia,2021-10-16,34322.84,308.16,4,renée.scott@outlook.com,+1-681-899-5184,,No
+  CUST-1612  ,christopher harris,31,f,Australia,2023-04-14,"$23,062.01",284.24,6,christopher.harris@gmail.com,(210) 389-4419,5,Yes
+CUST-2071,Nancy Thomas,58,Female,United Kingdom,2023-03-27,69066.47,9999999.0,4,nancy.thomas@outlook.com,,2,No
+CUST-1341,Margaret Baker,59,Male,USA,2021-07-16,63355.63,106.98,8,margaret.baker@icloud.com,+1-383-253-2922,5,No
+CUST-1432,Jennifer King,46,Male,United Kingdom,2021-01-07,104130.41,234.72,6,jennifer.king@icloud.com,+1-771-825-4416,4,No
+cust-1868,O'Connor Thompson,34,Female,GB,2021-12-07,60473.13,90.6,9,oconnor.thompson@outlook.com,,3,TRUE
+CUST-1218,Kevin Brown,35,Female,United Kingdom,2024-04-04,47487.43,111.13,7,kevin.brown@gmail.com,+1-975-350-3444,4,No
+CUST-1204,Mr. Elizabeth Robinson,24,male,Germany,2021-07-05,91128.95,174.32,,  elizabeth.robinson@gmail.com  ,+13849979952,2,No
+CUST-2009,  Dorothy Smith   ,47, Mal ,Germany,2023-02-30,139758.8,116.3,8,dorothy.smith@yahoo.com,+1-317-598-4634,5,No
+CUST-1436,mary king,29,Female,Germany,2023-09-21,"$41,542.83",-109.84,5,mary.king@gmail.com,,1,Yes
+CUST-1094,Jessica Torres,-38,Male,Germany,2021-12-14,78654.79,,,jessica.torres@outlook.com,+1-474-704-3390,1,No
+CUST-1887,Mark Moore,28, Fem ,Germany,2024-04-15,"$50,849.97",48.93,3,mark.moore@yahoo.com,,4,Yes
+CUST-1069,Michael Brown,39,Female,Deutschland,2024-06-14,"$101,881.62",48.99,8,michael.brown@yahoo.com,+1-535-791-6123,2,0
+CUST-1998,Christopher Allen,30,Female,Germany,2021.04.07,82357.34,87.55,5,christopher.allen@gmail.com,+1-478-208-4370,3,No
+CUST-1285,Steven Williams,43,Male,Canada,2023-06-01,82816.87,235.02,,STEVEN.WILLIAMS@YAHOO.COM,+1-323-775-4671,4,Yes
+CUST-1697,Sarah Wright,18,Female,Germany,2023-07-07,70879.1,18.75,10,sarah.wrightyahoo.com,,5,No
+CUST-1086,Joshua Rivera,18,Female,United Kingdom,2024-02-05,102322.04,,8,JOSHUA.RIVERA@OUTLOOK.COM,+1-589-677-9743,4,0
+CUST-1435,,,Non-Binary,United States,2023.02.16,88635.0,321.86,8,,+1-561-985-2039,4,0
+CUST-1925,,25,Male,United Kingdom,2022.09.02,68366.75,32.13,7,matthew.young@icloud.com,,5,No
+CUST-1154,BARBARA LOPEZ,41,Male,United States,2023-02-12,58199.44,-108.5,4,barbara.lopez@outlook.com,,1,No
+CUST-1076,Melissa Campbell,26,Male,United States,2021-12-25,28593.15,119.92,7,melissa.campbell@yahoo.com,+1-237-606-9116,-1,Yes
+CUST-2095,Christopher Taylor,20,Male,United States,2022-08-05,none,43.13,6,christopher.taylor@yahoo.com,+1-327-610-9072,4,No
+CUST-1790,Dorothy Hernandez,31,Female,United Kingdom,2023-02-30,"$105,245.25",-127.3,,dorothy.hernandez@yahoo.com,+1-600-624-3220,1/5,No
+CUST-1581,James Miller,37,,Australia,2022-02-18,"$37,191.86",63.36,4,james.miller@outlook.com,+1-896-874-9273,3,No
+CUST-1447,Amanda Mitchell,39,Female,United Kingdom,2021-06-19,61694.65,102.34,7,amanda.mitchell@gmail.com,+1-257-654-2021,3,1
+CUST-1704,Andrew Jackson,39,Female,Canada,2023-02-30,"USD 76,366",-146.53,4,andrew.jackson@icloud.com,,3,No
+CUST-1189,O'Connor Flores,28,F,USA,2024-01-09,"USD 46,809",343.4,5,oconnor.flores@yahoo.com,(736) 899-9151,4,No
+CUST-1272,Susan Jackson,39,MALE,Great Britain,2023-05-07,,EUR 46.94,-1,susan.jackson@yahoo.com,,3,No
+CUST-1237,MICHELLE ROBINSON,,Female,Canada,10-07-2021,60501.99,325.01,6,michelle.robinson@yahoo.com,+1-847-567-5418,3,no
+CUST-1488,  William Lee   ,38,Male,Canada,10 Jun 2024,52259.27,272.1,3,william.lee@gmail.com,,2,No
+CUST-1953,Richard Johnson,-29,FEMALE,United Kingdom,2023-07-18,69221.57,20.39,7,richard.johnsonyahoo.com,+17839709812,4,No
+CUST-1560,Matthew Scott,24,Prefer not to say,united states,05-17-2021,115026.7,114.18,-2,matthew.scott@outlook.com,,4,No
+CUST-1118,Prof. John Wilson,36,Male,Canada,31/10/2021,"USD 49,860",103.53,,JOHN.WILSON@YAHOO.COM,+1-564-605-9412,1,
+CUST-1638,John Johnson,29,Non Binary,Canada,2021-11-03,56180.77,61.17,8,JOHN.JOHNSON@GMAIL.COM,,1,No
+CUST-2132,Lisa Scott,,Female,United Kingdom,2022-02-25,73955.99,91.12,3,lisa.scott@gmail.com,+1-756-243-6922,3,0
+CUST-1802,David Anderson,45,Female,Germany,2021-02-05,65244.09,-$44.21,6,david.anderson@gmail.com,,4/5,No
+CUST-1751,Brian Nguyen, 57 yrs,Female,Germany,16 May 2022,47881.91,162.8,6,  brian.nguyen@yahoo.com  ,,-1,No
+CUST-1513,Mark Rodriguez,69,Male,United Kingdom,2021-05-25,,48.09,,  mark.rodriguez@gmail.com  ,+1-362-700-2089,2,No
+CUST-1634,John Johnson,28,Male,U.K.,2022-07-27,79132.2,76.97,7,john.johnson@yahoo.com,,5,No
+CUST-2142,Sandra Williams,31,Male,United States,2022-12-15,72282.86,9999999.0,5,sandra.williams@yahoo.com,(385) 319-4360,3,
+  CUST-2068  ,George Torres,40,Female,Germany,09-17-2023,"USD 84,467",9999999.0,6,george.torres@yahoo.com,(994) 676-7180,2,No
+CUST-1951,Michael Garcia,,Male,DE,2023-05-27,80144.51,35.57,5,,+1-548-259-6645,2,No
+CUST-1127,Jessica Miller,41,f,Australia,2024-01-31,88036.16,EUR 92.83,9,jessica.miller@yahoo.com,+1-255-569-1062,3,No
+CUST-1791,Susan Flores,33,FEMALE,United Kingdom,03-12-2021,"$51,900.69",397.12,6,susan.flores@yahoo.com,+1-364-295-2788,3,Yes
+CUST-1830,Robert Williams,43,Female,Canada,2022-11-10,71329.35,47.06,7,robert.williams@gmail.com,+1-316-833-4706,5,No
+CUST-1117,Prof. Betty Hall,30,male,Canada,2022.10.14,64685.64,134.11,,betty.hallyahoo.com,+1-276-407-3230,4,No
+CUST-1474,Ashley Martin,20,Male,Australia,2023-05-31,60681.83,202.71,11,ashley.martin@gmail.com,,4,No
+CUST-1741,Christopher Rivera,46,Male,uk,2024-03-11,"$81,023.59",,7,christopher.rivera@icloud.com,+1-971-796-1821,,Yes
+,Kenneth Martin,58,Non Binary,United Kingdom,2023-06-05,52069.76,236.46,11,kenneth.martin@yahoo.com,,3,Yes
+CUST-1058,Nancy Martinez,58,Female,Canada,2023-08-26,"USD 59,521",17.23,6,NANCY.MARTINEZ@YAHOO.COM,+19779228685,3,No
+CUST-1604,mary williams,32,Male,usa,2021-02-19,90098.99,116.0,7,mary.williams@gmail.com,,4,yes
+CUST-1787,Dr. Michelle Davis,44,NB,Canada,2022.01.31,"USD 62,837",$120.40,6,michelle.davis@icloud.com,,2,No
+CUST-1831,Charles Thomas,,Female,United Kingdom,27 Apr 2024,61k,200.76,8,charles.thomas@gmail.com,+1-750-227-6682,4,Yes
+CUST-1120,Michelle Flores,41,Male,Canada,19/10/2023,20081.83,24.88,2,michelle.flores@icloud.com,,3,No
+CUST-1657,kevin white, 52 yrs,Female,United Kingdom,2024-04-28,32517.8,-256.13,6,kevin.white@outlook.com,(921) 262-8593,,No
+CUST-2006,Joseph Moore,,,canada,NULL,70513.9,95.25,8,joseph.moore@yahoo.com,,4,No
+CUST-1670,Donald Mitchell,18,Male,United States,23/11/2023,"$100,188.36",205.34,5,donald.mitchell@outlook.com,+1-808-751-9955,4,No
+CUST-1106,O'Connor Campbell,,Female,Germany,2023-01-04,104480.27,$23.83,5,oconnor.campbell@icloud.com,,4,no
+CUST-1636,Kimberly Taylor,,Non-Binary,Australia,2022-10-27,83432.27,EUR -122.35,7,kimberly.taylor@icloud.com,,5,No
+CUST-1370,Jean-Luc Lopez,,Male,United States,2023-03-23,"USD 56,295",,3,,,5,No
+CUST-1269,Steven Jones,46,Female,Australia,2024-01-27,"USD 60,435",48.35,6,steven.jones@icloud.com,+1-911-228-1853,-1,No
+,margaret lopez,23,NB,ca,,18000.0,EUR 139.93,5,margaret.lopez@yahoo.com,(457) 672-8113,1,No
+CUST-1820,Dr. Ashley Lee,40,,United Kingdom,2023-12-22,63136.37,-77.21,,ashley.lee@icloud.com,+1-503-274-5943,4,No
+CUST-1823,Richard Baker,-48,Male,ca,2023.04.23,68940.51,59.54,8,,,,No
+CUST-1942,Ashley Scott,57,Male,United States,2022-04-11,63948.42,$47.08,6,ashley.scott@gmail.com,+1-883-349-2594,3,No
+CUST-1047,EMILY FLORES,43,Male,Australia,02-23-2021,106275.76,$63.85,11,,+12293845477,4,No
+CUST-1350,Melissa Smith,-18,Male,Australia,2022-12-08,102943.33,267.85,2,  melissa.smith@gmail.com  ,+1-821-659-3761,4,Yes
+CUST-2172,ROBERT MILLER,38,female,United States,2022-03-06,34052.17,227.05,4,robert.miller@gmail.com,+1-703-757-4047,4,No
+CUST-1877,Amanda Scott,18,MALE,Canada,19/12/2022,73703.17,52.91,2,amanda.scott@outlook.com,,3,FALSE
+CUST-1774,Matthew Green,46,Male,Canada,2022-12-01,42536.61,EUR -211.83,999,matthew.green@gmail.com,+1-906-237-2837,1,No
+CUST-1196,Andrew Garcia,33,Female,Germany,2023-05-18,unknown,Free,,ANDREW.GARCIA@YAHOO.COM,+1-528-552-1396,4,No
+CUST-1103,Sarah Wright,31,Male,Canada,2024-01-16,52779.5,223.71,7,sarah.wright@gmail.com,+1-978-936-8231,4,Yes
+CUST-1005,Linda Martinez,31,Male,Germany,05-06-2024,"$58,582.74",-142.84,4,linda.martinez@icloud.com,+1-741-457-1188,4,FALSE
+CUST-1620,Sandra Clark,67,Non-Binary,United States,06-25-2023,57650.06,13.41,7,sandra.clark@yahoo.com,+1-516-775-4737,4,No
+CUST-1572,JOHN WILLIAMS,-67,Female,United Kingdom,2022-02-03,"$91,053.65",157.05,2,john.williams@yahoo.com,(627) 355-7994,Good,No
+CUST-1053,Nancy Rivera,38,Female,U.K.,2021-03-22,82520.92,53.82,6,nancy.rivera@icloud.com,+1-649-736-9564,,FALSE
+CUST-1264,Jean-Luc Martin,28,Male,Ger,2022-10-15,110969.85,32.19,6,jeanluc.martingmail.com,,3,No
+CUST-2148,Paul Wilson,45,Female,United Kingdom,2021-11-01,none,373.92,7,paul.wilson@outlook.com,,5,No
+CUST-1444,Chloë Flores,27, Fem ,United Kingdom,2023-09-01,64229.83,52.0,11,chloë.flores@outlook.com,,4,
+CUST-2049,Amanda Robinson,,Non-Binary,United States,12 May 2021,0.00,26.79,6,amanda.robinson@outlook.com,+1-739-595-3563,3,No
+CUST-1783,Michael Flores,64,Prefer not to say,Germany,10-25-2022,34520.99,$534.62,,michael.flores@yahoo.com,+15427485908,3,No
+CUST-1838,James Miller,195,Male,Canada,11 Apr 2023,,126.57,6,james.miller@outlook.com,+1-657-376-7736,2,Yes
+CUST-1945,Christopher Smith,,male,United Kingdom,2022-05-08,32408.17,EUR 14.83,2,christopher.smith@outlook.com,,4,Yes
+CUST-1692,Amanda Torres,53,Female,United States,2021-05-10,110540.58,105.28,8,amanda.torres@yahoo.com,,3/5,No
+cust-1305,Renée Thomas,45,NB,AU,06-22-2024,"$44,788.90",$48.52,2,renée.thomas@gmail.com,+1-840-657-3045,2,No
+CUST-1342,Sarah Green,42, Mal ,,2021-01-24,37387.63,133.22,6,  sarah.green@gmail.com  ,,3,No
+,Elizabeth Jones,35,Female,United Kingdom,2022-07-25,"USD 78,216",127.8,4,elizabeth.jones@outlook.com,+18914979009,-1,No
+  CUST-1314  ,Jean-Luc Rivera,41,Male,Canada,2021.01.18,52685.67,,7,jeanluc.rivera@outlook.com,+1-554-613-7647,5,Yes
+CUST-1150,Steven Lopez,25,Male,United Kingdom,09-20-2021,49351.43,73.39,2,steven.lopez@outlook.com,+1-716-593-7859,5,Yes
+CUST-1125,Jennifer Rivera,27,Male,Canada,NULL,"USD 81,573",-85.24,6,jennifer.rivera@gmail.com,+1-558-462-2770,,0
+CUST-2117,Sarah Lewis,48,Female,Australia,31/03/2023,"$59,974.50",50.23,4,SARAH.LEWIS@OUTLOOK.COM,,4,No
+CUST-1575,Patricia Ramirez,39,Female,Germany,2021.11.12,,22.6,8,patricia.ramirez@gmail.com,+1-541-579-2937,3,FALSE
+CUST-1698,Mark Moore,19,male,Germany,2023-02-30,"$56,861.97",41.57,1,MARK.MOORE@OUTLOOK.COM,+1-560-281-6967,0,FALSE
+CUST-1665,Kevin Garcia,62,Male,Australia,2023-10-21,90079.45,17.65,6,,,4,FALSE
+CUST-1051,Daniel Campbell,46,Non-Binary,United Kingdom,2022-04-29,95109.89,182.47,2,daniel.campbell@outlook.com,+1-402-377-3504,4,no
+cust-2011,Christopher Scott,23,Male,United States,05 Jun 2022,48539.37,178.09,4,christopher.scott@icloud.com,,4,No
+CUST-1727,Barbara Lopez,55,Male,CA,2023-04-10,104416.76,EUR -76.32,4,barbara.lopez@outlook.com,,5,No
+CUST-1800,Elizabeth Torres,46,Non-Binary,Canada,2021-11-04,120888.6,201.78,3,elizabeth.torres@yahoo.com,+18514661197,1,No
+CUST-1834,Paul Moore,52, Fem ,United Kingdom,08 Jul 2022,91370.14,-$70.68,3,paul.moore@gmail.com,+1-264-562-4772,5,No
+CUST-1354,Matthew Rodriguez,40,Female,United States,13/02/2021,70549.29,390.86,9,test,+1-712-213-4874,1,Yes
+CUST-1997,  melissa flores   ,31,Male,United States,2023-02-04,48848.44,$86.84,7,melissa.flores@gmail.com,+1-460-480-6206,1,yes
+cust-1143,Robert Campbell,18,Male,Canada,19/04/2022,62836.53,$58.94,7,robert.campbell@outlook.com,,2,No
+CUST-1471,Dorothy Hernandez,32,Male,Germany,NULL,59191.17,350.4,2,dorothy.hernandez@icloud.com,+1-214-884-2060,3,No
+CUST-1883,brian smith,18, Fem ,AU,2023-02-30,,221.84,8,BRIAN.SMITH@YAHOO.COM,+1-728-485-5806,2,Yes
+,Melissa Martinez,-28,Female,Germany,2021-04-21,102059.55,$387.42,5,melissa.martinezoutlook.com,,3,No
+CUST-1400,Margaret White,28,Female,United States,2022-02-01,94819.74,53.11,5,margaret.white@icloud.com,,5/5,No
+CUST-2001,Donald Smith,52,F,Germany,2022-05-10,"USD 55,396",75.85,8,donald.smith@outlook.com,+1-228-869-9734,5,No
+CUST-2020,Donna Nguyen,48,Female,United Kingdom,2024-02-02,,$91.70,11,donna.nguyen@icloud.com,+1-417-481-5666,4,No
+CUST-1321,Jean-Luc Smith,46,Male,United Kingdom,,44136.34,$46.55,7,jeanluc.smith@yahoo.com,+1-931-235-9721,3,No
+CUST-1020,Elizabeth Rivera,54,Female,Germany,2023-04-15,45922.78,330.37,7,elizabeth.rivera@icloud.com,+1-625-263-4388,5,No
+CUST-1685,kenneth hill,-36,Male,Australia,12 Sep 2023,81910.26,41.72,7,kenneth.hill@gmail.com,+1-211-760-2369,5,No
+CUST-1036,Christopher Green,42,Male,Germany,14/01/2024,51300.61,-37.92,3,christopher.greenoutlook.com,(432) 964-2480,3,No
+CUST-1825,James Wilson,56,Male,UK,2022-01-19,58610.01,-75.36,6,  james.wilson@icloud.com  ,+1-782-762-1227,2,Yes
+CUST-1903,MICHAEL MARTINEZ,49,Male,Australia,2023-12-08,57472.78,$43.53,7,,+1-723-985-3192,5,no
+CUST-1506,Jennifer Lopez, 37 yrs,Female,UK,2023-02-30,86464.92,185.14,4,JENNIFER.LOPEZ@GMAIL.COM,,4,No
+CUST-1828,David Robinson,42,Male,Australia,2022-09-15,81269.99,311.02,8,david.robinson@yahoo.com,+1-802-700-5338,,No
+CUST-2126,William Johnson,38,,United States,2023-12-14,40651.87,27.78,8,william.johnson@icloud.com,,3,No
+CUST-1408,Sandra Davis,34,Male,United States,NULL,61577.55,refunded,8,sandra.davis@icloud.com,,4,No
+CUST-1921,Michelle Williams,23,m,U.S.,2022-03-02,36343.3,,3,michelle.williams@outlook.com,+1-414-428-2655,2,No
+CUST-1818,Nancy Lee,23,male,United States,,98795.45,$451.92,9,nancy.lee@gmail.com,,5,0
+CUST-1867,Mark Jackson,62,Male,United States,2022-07-09,80113.05,137.48,4,mark.jackson@gmail.com,+1-654-967-9757,3,No
+CUST-1538,Thomas Anderson,45,Female,Australia,2021-02-19,"$79,965.06",-297.37,5,thomas.anderson@yahoo.com,+1-690-243-1691,3,0
+CUST-1759,Melissa Hill,65,Male,usa,2023-12-19,44343.01,176.81,6,melissa.hill@gmail.com,+16156939077,3,FALSE
+CUST-2123,Dorothy Lee,28,Female,United States,04-18-2022,55904.13,49.13,3,DOROTHY.LEE@YAHOO.COM,,4,Yes
+CUST-2194,KAREN CLARK,33,Female,Canada,11-26-2023,53111.82,100.51,,karen.clark@icloud.com,,3,FALSE
+CUST-1039,Richard Flores,42,,U.K.,2021-07-18,62136.85,433.11,9,richard.flores@gmail.com,+1-516-651-1546,4,0
+  CUST-1176  ,,43,Female,Canada,18 Mar 2023,50670.15,,8,donald.wright@yahoo.com,,4,
+,George Walker,30,Male,United Kingdom,03 Feb 2024,"$55,995.79",151.03,3,george.walker@gmail.com,,3,
+CUST-1811,  Jean-Luc Hall   ,23,Male,United States,2024-04-22,66285.89,164.24,6,jeanluc.hall@icloud.com,,5,Yes
+CUST-2140,James Rivera,26,Male,Germany,2021-08-30,68701.07,,5,james.rivera@icloud.com,+1-269-516-3150,2,Yes
+CUST-2156,  Brian Mitchell   ,21,Male,usa,2021-12-09,93494.56,272.47,6,brian.mitchell@gmail.com,,4,No
+CUST-2046,Joseph Martin,,Female,Australia,2022-05-06,,400.9,5,joseph.martin@gmail.com,(953) 618-8769,3,No
+CUST-1785,Sarah Flores,,Male,Canada,2022-10-18,"$44,667.18",50.82,4,sarah.flores@outlook.com,+1-314-923-4885,5,Yes
+CUST-1347,Michael Harris,48,Non-Binary,United Kingdom,15/02/2023,"$64,398.70",17.72,6,N/A,+13797396022,0,Yes
+CUST-1490,Betty Lewis,58,Prefer not to say,Germany,2022-06-23,82646.83,59.01,7,BETTY.LEWIS@GMAIL.COM,,5,No
+CUST-1155,Barbara King,26,Female,Australia,2021-11-23,45425.59,74.51,,barbara.king@icloud.com,,5,No
+CUST-1639,Emily Thompson,34,Female,United Kingdom,11-09-2022,45886.92,242.82,2,emily.thompson@icloud.com,,5,No
+CUST-1663,Paul Garcia,47,Female,Australia,2024-03-16,51514.37,278.99,5,paul.garcia@icloud.com,+1-350-314-2368,5,TRUE
+CUST-1854,DOROTHY TAYLOR,51,,Australia,18/10/2021,35704.4,,7,dorothy.taylor@gmail.com,(536) 201-4272,5,Yes
+CUST-1943,Donna Torres,36,Female,usa,21/01/2024,"$72,331.07",152.74,7,,+1-789-954-1010,5,No
+cust-1288,Mark Martinez,,Male,Australia,2021-05-23,35826.95,206.61,5,mark.martinez@outlook.com,+1-611-990-3692,3,No
+CUST-1626,David Baker,,Female,australia,2021-12-01,39113.22,cancelled,8,david.baker@icloud.com,,2/5,No
+CUST-2184,thomas robinson,45,Female,Australia,26 Jan 2024,40986.36,refunded,6,thomas.robinson@gmail.com,,4,No
+CUST-1686,Renée Scott,51,Male,U.K.,yesterday,67049.48,85.87,5,renée.scott@outlook.com,,1/5,No
+CUST-2069,Michael Allen,49,F,Australia,2022-04-01,76892.97,-311.83,9,michael.allen@yahoo.com,,4,0
+,Donna Johnson,55,Male,Canada,2022-07-28,26274.22,,7,donna.johnson@yahoo.com,+1-707-317-7564,5,FALSE
+CUST-1570,Dr. Patricia Thompson,,Female,Germany,07/06/2023,unknown,-$113.47,10,patricia.thompson@icloud.com,+12416902110,3,No
+CUST-1241,amanda jones,19,Male,United Kingdom,2021-10-11,29083.72,21.56,-4,amanda.jones@yahoo.com,+17523168839,4,Yes
+CUST-1735,Carol Wilson,44,Female,United Kingdom,2021-06-10,81582.18,327.21,3,carol.wilson@outlook.com,+1-737-835-6495,4,No
+CUST-1793,Jean-Luc Garcia,24,f,United States,09/04/2024,82800.48,31.02,3,JEANLUC.GARCIA@ICLOUD.COM,+1-685-384-7157,10,No
+CUST-1018,JOHN THOMAS,20,Prefer not to say,AU,2021-05-30,66508.39,9999999.0,,john.thomas@yahoo.com,(935) 913-7291,4,No
+CUST-1128,  Matthew Lopez   ,55,female,Germany,2023-01-27,82094.35,,-7,matthew.lopez@gmail.com,(469) 650-8619,3,Yes
+CUST-1323,Susan Miller,35,f,United Kingdom,2021-01-31,75813.93,126.09,5,susan.miller@outlook.com,+1-212-598-4485,4,No
+CUST-1256,mark anderson,45,Male,canada,27/05/2023,64083.02,114.47,7,mark.anderson@gmail.com,,2,Yes
+cust-2036,MICHELLE LOPEZ,33,Female,United Kingdom,2021-07-18,-55651.61,9999999.0,7,michelle.lopez@outlook.com,,,No
+CUST-1928,Kenneth Hernandez,43,Female,,2022-12-07,,191.38,-3,kenneth.hernandez@yahoo.com,,4,Yes
+CUST-1642,Ms. Joseph Ramirez,52,Female,Deutschland,2022-08-23,"USD 53,466",60.88,10,joseph.ramirez@yahoo.com,+1-964-206-3125,3,0
+CUST-1191,Michael Campbell,41,Female,Germany,2022-01-24,"USD 66,921",126.99,6,michael.campbell@yahoo.com,+1-783-840-3931,4,No
+CUST-1116,Kimberly Thomas,53,Female,United States,,75810.9,$103.96,4,kimberly.thomasgmail.com,,3,Yes
+CUST-2146,Mary Campbell,38,Female,Canada,2024-04-02,56175.51,50.18,4,mary.campbell@yahoo.com,+1-825-728-6396,5,No
+CUST-1992,David Smith,33,Male,United States,19/05/2023,88380.93,90.8,5,david.smith@gmail.com,(817) 641-4940,1,TRUE
+CUST-1607,KIMBERLY LOPEZ,18,Female,United States,07-03-2022,57738.02,51.8,7,kimberly.lopez@gmail.com,,2,No
+CUST-1181,MICHAEL TAYLOR,52,Male,United States,2023-03-10,52394.05,25.66,6,michael.taylor@yahoo.com,+1-955-490-8260,4,no
+CUST-1302,Mr. Amanda Anderson,45,Female,Germany,2023-01-14,"$42,145.08",9999999.0,-6,amanda.anderson@yahoo.com,+1-207-400-7489,2,No
+CUST-1497,Carol Rivera,41,Male,Germany,2023-03-18,"$74,182.69",75.23,9,carol.rivera@gmail.com,,5,No
+CUST-1349,Karen Clark,31,Male,United States,2021-06-12,"USD 40,580",-95.41,6,karen.clark@gmail.com,(369) 789-1940,0,No
+CUST-2088,Richard Walker,38,Male,australia,2021-11-27,58959.28,31.79,,richard.walker@gmail.com,,,Yes
+CUST-1037,DAVID LOPEZ,31,Female,Germany,06-23-2024,83691.25,29.61,11,david.lopez@icloud.com,+17973464804,4,No
+CUST-1745,barbara taylor,,Female,Canada,2024-01-15,54519.25,212.99,4,barbara.taylor@icloud.com,,4,No
+CUST-2137,michael perez,45,Male,United States,2023-10-01,60878.73,37.2,6,  michael.perez@yahoo.com  ,+1-794-622-3784,,No
+CUST-2043,Nancy Williams,35,Male,United States,2022-06-11,53870.14,77.22,10,nancy.williams@outlook.com,,3,No
+CUST-1518,Anthony Rivera,20,Male,United Kingdom,04-04-2023,38136.3,65.1,6,anthony.rivera@outlook.com,+1-413-615-7899,5,No
+CUST-1373,David Martinez,38,Male,United States,N/A,91817.36,113.04,3,david.martinez@yahoo.com,+1-420-897-3307,4,No
+CUST-1046,William Scott,37,Female,,2024-02-25,Confidential,147.51,5,  william.scott@gmail.com  ,,5,No
+,Elizabeth Martin,37,FEMALE,Canada,08/10/2022,101625.64,,10,elizabeth.martin@icloud.com,,1,Yes
+CUST-1158,Michelle Jones,39,Male,Australia,04/04/2021,69k,,7,michelle.jones@gmail.com,+1-566-714-2738,3,No
+CUST-2100,Melissa Clark,41,Female,usa,2024-01-04,66005.9,$99.41,9,,+1-443-523-3153,1/5,Yes
+CUST-1172,Jennifer Moore,46,Male,Canada,2023.03.21,93845.5,79.36,6,JENNIFER.MOORE@YAHOO.COM,,5,No
+CUST-1017,James Martin,33,Female,Germany,2024-04-02,85309.58,EUR 40.90,3,,,4,no
+CUST-1512,Betty Williams,35,Female,Australia,20 May 2022,65544.8,53.71,8,betty.williams@outlook.com,+1-632-896-6074,3,Yes
+CUST-1049,Joshua Brown,39,Female,Canada,2022-03-09,"$66,033.57",217.14,7,JOSHUA.BROWN@OUTLOOK.COM,+1-496-535-2965,1,Yes
+CUST-1192,Daniel Lee,25,Male,Canada,,77475.22,128.64,5,daniel.lee@icloud.com,+1-943-531-4943,4,No
+CUST-1547,,38,Non-Binary,United Kingdom,11-17-2022,75759.85,419.89,4,emily.nelson@outlook.com,,5/5,No
+CUST-1516,PATRICIA DAVIS,18,MALE,Germany,11-27-2023,Confidential,294.5,-8,patricia.davis@yahoo.com,+1-941-529-7068,1,Yes
+cust-1659,Margaret Sanchez,36,Female,United Kingdom,yesterday,89608.1,41.99,-5,margaret.sanchez@gmail.com,+1-737-446-3264,10,0
+CUST-2033,Prof. Paul Harris,60,Female,CAN,20/09/2023,92466.3,120.13,7,paul.harris@yahoo.com,+1-418-765-2479,3,
+CUST-1829,Kevin Rivera,46,male,Australia,2021-12-18,55698.43,refunded,4,none@none,,5,Yes
+CUST-2056,Christopher Martin,57,,CAN,2022-03-07,90222.72,64.16,5,christopher.martin@outlook.com,,4,FALSE
+CUST-1481,Steven Lee,46,MALE,Germany,2022-08-02,23712.19,285.21,7,steven.lee@gmail.com,+19522772509,5,Yes
+CUST-1960,Paul Wilson,23,f,United Kingdom,2023-05-17,86296.55,52.93,7,paul.wilson@icloud.com,+1-223-721-3726,5,0
+CUST-2186,Joshua Garcia,22,,United States,2022-02-22,"USD 45,477",269.34,3,joshua.garciayahoo.com,+1-468-714-7011,,No
+CUST-1284,Mr. Matthew Clark,41,MALE,Canada,2023-08-26,Confidential,82.71,4,matthew.clark@yahoo.com,+1-836-412-5627,,No
+CUST-2082,William White,25,F,United States,10/09/2023,75384.25,111.93,999,william.white@icloud.com,+1-763-742-8317,4,No
+CUST-1798,Thomas Davis,23,Female,United States,2021-02-17,104305.13,287.11,5,thomas.davis@gmail.com,(593) 781-3494,5,No
+CUST-1414,Andrew Flores,,Male,United States,NULL,68796.1,404.87,8,ANDREW.FLORES@ICLOUD.COM,,5,No
+  CUST-1226  ,o'connor baker,,Male,,04 Feb 2022,-26532.3,$76.95,999,oconnor.baker@yahoo.com,+1-520-760-1173,4,Yes
+  CUST-1027  ,Richard Wilson,41,Male,Canada,2024-04-22,"USD 68,876",69.75,3,richard.wilson@outlook.com,+1-302-398-5853,3,No
+CUST-1283,D'Angelo Young,20,Female,U.S.,2023.12.18,unknown,-208.1,8,dangelo.young@gmail.com,+14748637834,5,No
+,michelle lee,18,Male,US,2021-01-27,-81930.43,-179.21,8,michelle.lee@yahoo.com,+1-857-373-2200,4,Yes
+CUST-1438,Ashley Campbell,55,Female,Canada,2024-01-25,"USD 91,016",N/A,4,  ashley.campbell@icloud.com  ,+14297911407,3,No
+CUST-1154,BARBARA LOPEZ,41,Male,United States,2023-02-12,58199.44,-108.5,4,barbara.lopez@outlook.com,,1,No
+CUST-1365,Joseph Ramirez,23,female,ca,2022-08-11,34263.4,241.38,4,joseph.ramirez@icloud.com,,4,Yes
+CUST-1230,Daniel Perez,25,MALE,Germany,24 Apr 2021,57040.15,EUR 15.31,8,daniel.perez@gmail.com,+1-574-747-6571,2,
+CUST-1038,RICHARD HARRIS,30,Male,United States,2022-05-01,90562.62,385.82,9,richard.harris@outlook.com,,1,
+CUST-1750,Daniel Torres,29,,Germany,14/06/2021,73480.34,89.56,7,,,5,No
+CUST-1470,Elizabeth Hill,25,Female,Germany,2022-06-11,90235.35,20.03,4,elizabeth.hill@gmail.com,(416) 797-5963,2,No
+CUST-2097,Barbara Martinez,-51,f,Germany,2023-02-30,62210.36,-205.97,999,barbara.martinez@outlook.com,,2,0
+,,,,,,,,,,,,
+CUST-1688,Andrew Torres,30,Male,United Kingdom,2023-03-07,84026.14,391.67,8,andrew.torres@gmail.com,,3,0
+CUST-1640,Margaret White,,Male,Canada,10/06/2024,86298.26,52.87,7,margaret.white@yahoo.com,,5,TRUE
+  CUST-2091  ,sarah wright,29,Male,Canada,09-14-2021,76316.3,128.8,5,sarah.wright@icloud.com,+1-251-841-1500,10,No
+CUST-2053,  Betty Hall   ,25,Male,CAN,2024-03-20,77678.59,-215.77,5,betty.hall@yahoo.com,,,
+CUST-2143,Carol Young,18,Female,United States,2021.08.28,64774.73,61.1,4,carol.young@icloud.com,,4,No
+CUST-1801,Michael Brown,34,Male,CA,2021-02-02,82755.02,136.07,3,michael.brown@gmail.com,,5,No
+CUST-1161,Jessica Anderson,57,,Germany,2022-07-21,91812.76,9999999.0,3,jessica.anderson@yahoo.com,+1-895-950-6432,Excellent,0
+CUST-1957,William Torres,46,Female,Germany,31 Jan 2023,59054.11,26.28,5,william.torres@yahoo.com,,-1,No
+CUST-1822,Joshua Brown,25,Female,usa,2022-06-24,43739.66,513.73,2,joshua.brown@icloud.com,+18058954829,2,0
+CUST-2070,  Andrew Campbell   ,-50,Male,Germany,01/02/2021,36504.31,155.66,3,andrew.campbell@yahoo.com,,4,FALSE
+CUST-1878,paul ramirez,42,female,United States,2022-08-30,"$75,466.54",,8,paul.ramirez@yahoo.com,+19756317653,1,No
+CUST-1914,O'Connor Thompson,,Female,Canada,2023-03-21,18000.0,175.92,8,oconnor.thompson@icloud.com,,5,no
+CUST-1153,Brian Jackson,54,Male,United States,2023-02-21,38280.04,234.17,9,none@none,,,No
+cust-2152,Karen Wilson,34,Female,United Kingdom,,81282.76,402.62,,karen.wilson@yahoo.com,+1-790-940-2011,3,
+cust-1510,CAROL HALL,36,Female,United States,2022-01-21,39190.56,112.0,3,carol.hall@outlook.com,+1-801-965-9893,2,No
+CUST-2157,Brian Taylor,27, Fem ,Australia,2024-01-04,38392.42,cancelled,10,brian.taylor@icloud.com,+1-203-913-5466,0,No
+CUST-1104,Ms. Donna Hall,48,Female,Australia,2023-05-27,88067.68,EUR 35.40,6,donna.hall@yahoo.com,+1-411-411-1972,4,No
+CUST-1587,Emily Robinson,47,Female,CA,2022-02-12,61883.73,EUR 154.02,,emily.robinson@gmail.com,+1-663-392-1060,4,No
+CUST-2115,Donald Hill,47,f,United States,07-21-2023,unknown,EUR 101.63,7,donald.hill@gmail.com,,3/5,No
+CUST-1054,Kevin Martinez,25,Male,Canada,14/03/2023,75728.81,71.38,5,kevin.martinez@gmail.com,+1-517-772-7171,4,No
+CUST-1152,,45,Female,United States,2022-02-14,66672.12,38.98,5,mary.harris@yahoo.com,+14938995105,2,No
+CUST-1404,Daniel Robinson,33,Female,Germany,05-12-2023,26761.54,146.4,4,daniel.robinson@icloud.com,+12287721432,5,0
+CUST-1208,Charles Walker,42,Female,Canada,2022-11-06,,58.0,6,charles.walker@yahoo.com,+1-912-414-1953,2,FALSE
+CUST-2192,Jean-Luc Sanchez,19,female,Australia,2023-10-03,74k,445.81,7,jeanluc.sanchez@yahoo.com,,3,FALSE
+CUST-1009,Dorothy Adams,42, Fem ,DE,11-26-2022,86461.99,,6,DOROTHY.ADAMS@GMAIL.COM,,4,No
+CUST-2015,robert perez,18,female,Canada,01-17-2021,78637.77,93.8,11,robert.perez@outlook.com,(305) 516-9109,3,No
+CUST-1453,  Margaret Moore   ,22,Non-Binary,Germany,2023-02-30,56010.01,-186.59,1,no_email,+1-811-914-9586,2,yes
+  CUST-1254  ,,32,Non-Binary,Canada,2022-12-23,61418.56,EUR 28.55,3,melissa.moore@yahoo.com,+1-717-783-2119,2,No
+CUST-1897,Mary Robinson,46,Female,ca,2021-11-11,62411.32,9999999.0,7,mary.robinson@icloud.com,(880) 670-8719,3,No
+CUST-2102,Paul Campbell,35,,Australia,2022-12-25,"$66,521.30",83.4,6,paul.campbellgmail.com,,4,No
+CUST-1881,Jessica Mitchell,30,,Germany,2021-07-01,74121.76,60.2,7,jessica.mitchellyahoo.com,+1-206-857-2642,4,No
+CUST-2190,Ashley Adams,35,Male,United States,10/07/2021,72845.85,512.79,2,ashley.adams@gmail.com,,5,Yes
+  CUST-1624  ,Kenneth King,44,Female,Oz,2023-06-27,81036.71,565.12,4,  kenneth.king@yahoo.com  ,+1-251-947-7035,3,No
+  CUST-1346  ,Sarah Green,-42,M,United Kingdom,2023-02-02,73254.77,EUR 150.19,4,sarah.green@yahoo.com,,5,No
+CUST-1185,Jean-Luc Martinez,61,Female,Germany,27/05/2021,98951.36,40.55,3,jeanluc.martinez@yahoo.com,+13964567251,5,No
+CUST-1263,Michelle Allen,36,Female,Australia,2022-01-05,75259.88,100.88,-4,,+17907114489,4,Yes
+CUST-1151,emily green,31,Female,United Kingdom,2022-08-19,80430.21,120.72,11,emily.green@yahoo.com,+1-927-865-3913,4,No
+CUST-1473,Joshua Moore,36,Male,United States,2023-02-30,78105.45,,,  joshua.moore@gmail.com  ,,1,
+CUST-1641,D'Angelo Davis,21,Male,Canada,2021-05-22,37219.06,121.78,7,dangelo.davis@outlook.com,,4,No
+,,,,,,,,,,,,
+cust-2187,Michelle Garcia,41, Mal ,United Kingdom,2023-10-27,72155.71,21.25,8,michelle.garcia@yahoo.com,,4,FALSE
+CUST-1551,Robert Allen,40,Female,Canada,03-03-2024,67k,79.57,10,robert.allen@gmail.com,,4,No
+CUST-1929,amanda jackson,30,,United States,2024-06-24,"USD 96,544",68.13,4,amanda.jackson@gmail.com,+1-621-898-4673,3/5,No
+CUST-1489,Donna King,59,M,Canada,2021.09.27,105565.77,$68.57,3,donna.king@outlook.com,,4,Yes
+  CUST-2136  ,Amanda Sanchez,33,F,Germany,2023-05-24,,50.52,10,amanda.sanchez@icloud.com,,1,No
+CUST-1147,MARK TORRES,-5,Female,Germany,2023-07-05,112193.28,135.67,4,mark.torres@icloud.com,+1-963-869-1291,2,No
+CUST-1403,Karen Hill,43,Female,Australia,06-12-2023,44365.64,31.23,999,karen.hill@outlook.com,+1-792-342-4268,3,No
+CUST-1955,Elizabeth Young,33,Female,Canada,10 Oct 2022,71244.58,cancelled,3,elizabeth.young@yahoo.com,,4,FALSE
+CUST-2182,andrew perez,40,Male,Canada,24 Jan 2023,"$65,527.56",,6,test,,2,No
+CUST-1660,Melissa Adams,47,,United Kingdom,2024-01-19,"$63,828.66",387.8,5,melissa.adams@gmail.com,(932) 776-5416,4,No
+CUST-1464,Barbara Hernandez,24,Male,Germany,2024-02-01,68508.18,176.53,6,barbara.hernandez@yahoo.com,+1-628-813-5569,3,No
+CUST-1187,JOSHUA MARTINEZ,25,Female,United States,05-25-2022,unknown,23.76,7,N/A,,0,Yes
+CUST-1609,Mr. David Thompson,18,Non-Binary,canada,2022-08-19,28132.58,134.17,8,david.thompson@gmail.com,+1-391-612-4753,4/5,
+CUST-1144,Michelle Moore,37,Male,United States,02-03-2023,61497.07,$172.01,5,michelle.mooreyahoo.com,+13166107557,5,No
+CUST-1752,Dr. John Williams,29,Female,Australia,2022-04-05,39762.49,68.95,5,john.williams@yahoo.com,(265) 857-2371,2,No
+CUST-1982,Joshua Lopez,18,Female,AU,2022-01-06,61986.23,114.43,4,no_email,+17747036727,4,Yes
+CUST-1198,Sarah Brown,18,Female,United States,17/05/2021,69414.34,232.41,9,N/A,+1-878-875-6901,5,0
+CUST-1884,Joshua Flores,31,Female,Australia,2022-03-29,99214.37,73.42,6,joshua.flores@gmail.com,+19336025658,5,No
+CUST-1280,Ms. Anthony Rivera,46, Fem ,Oz,2023-07-21,31932.23,61.25,9,anthony.rivera@icloud.com,,5,Yes
+CUST-1294,Barbara Mitchell,35,Male,United States,2024-01-27,29281.78,454.42,6,barbara.mitchell@gmail.com,,4,Yes
+CUST-2144,George Adams, 59 yrs,Non-Binary,Australia,2024-06-13,49816.9,209.67,3,george.adams@gmail.com,+1-759-991-5230,4,Yes
+CUST-1401,  Nancy Flores   ,40,Female,Germany,2023-02-30,,78.92,4,NANCY.FLORES@OUTLOOK.COM,,4,0
+CUST-1123,Mary Martinez,40,Male,United Kingdom,2021-08-16,85903.2,249.99,5,mary.martinez@outlook.com,+1-274-582-7481,4,No
+CUST-1203,Betty Williams,36,Male,Deutschland,2022-10-03,56929.86,33.44,10,test,+1-733-311-8399,4/5,Yes
+CUST-1836,Richard Wilson,28,Male,United Kingdom,21/04/2024,62216.28,189.52,4,richard.wilson@icloud.com,(562) 297-6864,,Yes
+CUST-1247,Christopher Hill,31,Male,United States,2023-01-10,65338.34,57.25,3,christopher.hill@icloud.com,+1-578-595-7108,1,No
+CUST-2197,Anthony Ramirez,31,Female,United Kingdom,2021-01-15,61561.92,47.91,5,anthony.ramirez@gmail.com,+1-815-623-3255,2,Yes
+CUST-2110,barbara wilson,,Male,Germany,2023-12-16,68838.74,184.41,8,barbara.wilsonoutlook.com,,4,No
+CUST-1385,joseph martin,57,Female,U.K.,2023-02-14,46091.0,42.1,7,joseph.martin@gmail.com,,Good,No
+CUST-1855,Robert Robinson,71,f,United Kingdom,2023-12-19,67137.43,365.95,5,robert.robinson@icloud.com,+1-763-378-5849,Excellent,Yes
+CUST-1220,Anthony Martinez,33,Female,United Kingdom,2021-10-03,68229.45,-232.21,4,anthony.martinez@yahoo.com,+19386988155,5,No
+CUST-1642,Ms. Joseph Ramirez,52,Female,Deutschland,2022-08-23,"USD 53,466",60.88,10,joseph.ramirez@yahoo.com,+1-964-206-3125,3,0
+CUST-1002,Sarah Martinez,42,Female,Canada,2021-07-29,87231.34,184.38,4,SARAH.MARTINEZ@GMAIL.COM,,5,0
+CUST-1113,Sarah King,52,Female,Australia,07/06/2021,93831.96,56.69,7,sarah.king@outlook.com,,3,No
+CUST-1699,Jennifer Miller,33,Female,Australia,2023-03-06,38274.27,104.86,4,jennifer.miller@gmail.com,+1-345-536-5832,4,No
+CUST-2129,joshua rivera,27,Male,canada,2024-02-25,79816.4,63.3,8,joshua.rivera@gmail.com,+1-541-524-6697,4,No
+CUST-1952,  Carol Lewis   ,22,Female,Germany,2023-05-26,57963.82,350.36,4,carol.lewis@yahoo.com,,4,No
+CUST-2134,Susan Green,50,female,United States,2021-11-18,85622.08,9999999.0,6,,,4,0
+CUST-1442,James Martin,22,m,United Kingdom,2021-07-12,72732.56,110.29,6,james.martin@outlook.com,+12962628679,4,No
+CUST-1664,jean-luc davis,34,Female,Canada,2023-02-30,40222.76,350.42,4,no_email,,3,Yes
+CUST-2151,Elizabeth Wright,30,Male,United States,01-17-2023,55426.87,12.53,5,elizabeth.wright@outlook.com,(629) 770-6778,3,No
+CUST-1318,Richard Allen,40,Male,germany,,62406.77,206.07,10,N/A,+16562657541,4,
+CUST-1649,Mr. D'Angelo Williams,18,Female,Canada,11/09/2022,52650.56,198.87,5,dangelo.williams@icloud.com,+1-860-283-6254,2,No
+CUST-1710,Sarah Young,39,Prefer not to say,uk,2021.09.27,"USD 46,941",84.17,5,sarah.young@gmail.com,,4,No
+CUST-1973,LISA MARTINEZ,31,Male,United Kingdom,2022-09-28,"$101,015.81",210.23,5,lisa.martinez@outlook.com,+1-470-806-3727,5,No
+CUST-1628,Richard Taylor,48,Male,Germany,12-18-2021,86419.69,75.86,5,,+1-952-703-8175,3,0
+CUST-1633,William Lee,47,Male,United Kingdom,2023-10-09,66345.44,63.61,4,william.lee@gmail.com,+1-858-744-6214,4,No
+CUST-2160,LINDA WALKER,49,f,Australia,2023-03-31,33328.94,128.92,6,linda.walker@gmail.com,,4,No
+CUST-2162,Michelle Hill,23,Male,Germany,2022-11-15,58365.24,cancelled,999,michelle.hill@icloud.com,,4,No
+CUST-1796,D'ANGELO GONZALEZ,,Female,United Kingdom,2022-02-09,,,7,DANGELO.GONZALEZ@YAHOO.COM,,,No
+CUST-1646,Christopher Scott,52,Male,Canada,2023-05-06,69626.67,102.77,7,N/A,+1-954-961-9078,3,Yes
+CUST-2013,Susan Wilson,32,,DE,2022-01-29,"$56,451.50",144.6,4,susan.wilson@icloud.com,+12296893229,2,0
+CUST-1557,Nancy Martin,41,Male,Australia,11-01-2022,43340.25,381.84,8,nancy.martin@icloud.com,+1-723-699-7325,Good,Yes
+CUST-1682,Jean-Luc Campbell,53,Male,United Kingdom,05-05-2024,98887.13,63.92,-4,jeanluc.campbell@icloud.com,,5,FALSE
+CUST-1578,Brian Walker,42,M,ca,2023-11-09,87510.42,31.03,5,brian.walker@icloud.com,,4,No
+CUST-2110,barbara wilson,,Male,Germany,2023-12-16,68838.74,184.41,8,barbara.wilsonoutlook.com,,4,No
+CUST-1525,Renée Ramirez,52,Female,Canada,2021-09-29,"$100,290.01",9999999.0,6,,,Average,No
+CUST-2060,Chloë Hall,52,FEMALE,CA,2021-09-12,93021.52,$145.50,9,chloë.hall@outlook.com,+17855481683,4/5,No
+CUST-1541,Steven Johnson,47,Female,United Kingdom,2022-01-06,95769.0,133.7,-5,  steven.johnson@yahoo.com  ,,4/5,0
+CUST-1749,Carol Harris,28,Male,Canada,2021-05-27,88382.78,,5,carol.harris@outlook.com,+13948988343,4,no
+CUST-2165,Melissa Nguyen,34,Female,United States,2021-07-05,52656.04,90.59,5,MELISSA.NGUYEN@GMAIL.COM,,5,TRUE
+CUST-1485,Chloë Clark,18,female,United States,2022-12-28,"$57,953.45",366.54,3,CHLOË.CLARK@OUTLOOK.COM,(266) 644-5926,,No
+CUST-1096,Barbara Baker,39,Male,United States,2023-08-04,65654.64,$65.81,4,barbara.baker@yahoo.com,+16484982133,5,Yes
+CUST-2021,Margaret Nguyen,40,FEMALE,Canada,NULL,64646.81,$101.49,6,margaret.nguyen@gmail.com,(226) 976-4520,4,No
+CUST-1564,Susan Wilson,-36,Female,Ger,2022-07-16,78785.5,437.89,999,susan.wilson@outlook.com,,5,No
+CUST-1743,George Hall,66,Female,DE,2023-07-24,78k,,6,george.hall@gmail.com,+1-648-637-3326,,0
+CUST-1864,michelle rivera,45,Male,United States,11-29-2023,43388.87,143.63,6,michelle.rivera@outlook.com,+1-437-231-8937,5,No
+CUST-1892,Anthony Moore,49,Female,Australia,2023-03-28,60032.25,79.82,7,anthony.moore@outlook.com,,Excellent,No
+CUST-2039,Michael Martinez,22,Female,Australia,2024-05-09,58276.09,45.7,1,MICHAEL.MARTINEZ@YAHOO.COM,+1-256-626-6026,4,Yes
+CUST-1207,Joshua Martin,52,Female,United States,2021-04-11,"USD 62,352",122.75,4,joshua.martin@yahoo.com,,4,No
+CUST-1393,Donna Robinson,36,Female,Canada,31/10/2021,57922.46,15.95,7,donna.robinson@icloud.com,,4,No
+CUST-1795,Matthew Brown,35,M,Australia,2023-12-13,81574.9,EUR 124.20,5,MATTHEW.BROWN@ICLOUD.COM,+1-465-224-9375,4,No
+CUST-1871,Mary Allen,-5,Male,United States,2023-06-04,124904.87,$133.30,3,mary.allen@icloud.com,,1,FALSE
+cust-1398,BARBARA TAYLOR,46,Male,United Kingdom,2021-01-20,107706.78,70.75,999,barbara.taylor@icloud.com,,5,No
+CUST-1767,THOMAS RODRIGUEZ,,Male,U.S.A.,2023-02-30,72929.72,refunded,,THOMAS.RODRIGUEZ@OUTLOOK.COM,,5,No
+CUST-1919,Melissa Gonzalez,60,Female,United States,04-19-2021,,EUR 117.54,6,melissa.gonzalezgmail.com,+13897148073,5,TRUE
+CUST-2029,Betty Thompson,48,Male,United Kingdom,2022-05-11,"USD 42,621",26.63,4,betty.thompson@outlook.com,+1-551-450-9607,5,1
+CUST-1643,Melissa Smith,48,Male,australia,17 May 2022,43429.67,255.01,5,melissa.smithicloud.com,,3,0
+CUST-1613,joshua davis,,Non-Binary,Germany,07 Jan 2021,21315.41,,4,joshua.davis@yahoo.com,+1-601-576-6665,2,No
+CUST-1961,, 33 yrs,Female,United States,21/08/2021,"USD 42,613",201.57,9,lisa.clark@yahoo.com,+1-467-836-7055,4,No
+CUST-1726,BETTY WALKER,,Female,Germany,06-22-2022,83608.47,50.28,6,betty.walkeryahoo.com,+1-421-907-3502,2,No
+CUST-1684,  Ashley Johnson   , 21 yrs,f,United Kingdom,2024-03-06,"$80,111.25",21.71,4,ashley.johnson@yahoo.com,,4,No
+CUST-1099,Amanda Davis,39,Female,,2021-08-12,88440.57,$403.72,12,N/A,+19584499454,2,
+CUST-1805,Ms. Kenneth Wilson,20,Non-Binary,canada,2023-10-05,99463.2,61.67,7,kenneth.wilson@outlook.com,+1-440-558-7911,2,yes
+CUST-1407,Carol Lewis,49,Male,Australia,2021-09-10,30993.94,331.5,9,  carol.lewis@gmail.com  ,+13893454943,2,1
+CUST-1503,Prof. George Thompson,29,male,Australia,2022-04-04,"$64,240.52",123.7,5,george.thompson@gmail.com,,4,0
+CUST-2072,,48,Male,UK,06-19-2021,76318.47,,8,jeanluc.allen@yahoo.com,+1-534-286-8864,3,Yes
+CUST-2057,Patricia Nelson,30,Female,United States,11-14-2022,80554.39,23.8,11,patricia.nelson@icloud.com,,4,No
+CUST-1930,Richard Anderson,31,Female,Canada,18/03/2022,"$71,983.20",$165.03,3,richard.anderson@icloud.com,,5,No
+,Paul Miller,37,Male,United States,,61368.23,463.58,-8,paul.miller@gmail.com,(338) 506-4476,4,No
+CUST-1201,George Johnson,39,Male,Germany,2023.04.23,59127.88,116.93,8,george.johnson@outlook.com,(355) 997-4079,2,No
+,Kimberly Flores,52,Female,United States,2021-01-16,42122.07,43.56,,kimberly.flores@outlook.com,+1-774-862-5631,3,No
+CUST-2052,Betty Sanchez, 52 yrs,Prefer not to say,Germany,02 Aug 2021,100486.79,86.29,4,betty.sanchezoutlook.com,,5,No
+CUST-1041,Sandra Hall,46,Female,Germany,2021-08-27,94873.38,N/A,5,sandra.hall@gmail.com,+1-511-704-2902,2,Yes
+CUST-2018,Mr. Lisa Miller,49,,Australia,2023-02-20,81920.99,342.09,7,,+1-949-238-9318,3/5,Yes
+CUST-1231,John Gonzalez,20,Female,Australia,2022-05-04,32301.91,,7,john.gonzalez@gmail.com,+1-753-858-6041,4,Yes
+CUST-1379,D'Angelo Smith,18,Male,Australia,11 Feb 2022,94002.65,-238.77,2,dangelo.smith@yahoo.com,+1-531-880-6185,1,Yes
+CUST-1289,George Mitchell,23,Female,Canada,2021-01-17,66704.42,506.11,999,george.mitchell@yahoo.com,+19176138310,4,Yes
+CUST-1419,Jean-Luc Thompson,31,Male,Australia,20/11/2022,"USD 70,170",93.63,3,jeanluc.thompson@outlook.com,+1-971-805-4547,4,No
+CUST-1392,Michael Johnson,51,Female,U.S.,12/10/2021,72159.61,18.45,6,michael.johnson@outlook.com,,3,No
+CUST-1593,Andrew Smith,44,Male,United States,29 Jan 2021,47423.75,156.13,,andrew.smith@outlook.com,,2,No
+CUST-2163,John Baker,65,Male,United States,2022-01-20,"$41,019.33",522.63,8,john.baker@yahoo.com,+1-654-633-7479,4,Yes
+CUST-2087,  Sandra Smith   ,,Female,United States,2021-08-07,"USD 71,205",,,sandra.smith@icloud.com,+1-823-694-3166,1,No
+CUST-1648,Richard Lopez,49,Female,United States,,50284.73,,7,richard.lopez@icloud.com,,4,No
+cust-2153,Carol Lopez,37,F,Australia,2023-06-29,81k,$297.43,8,,,2/5,Yes
+CUST-1521,Karen Jones,,Female,Canada,2024-04-09,31k,122.18,3,karen.jones@icloud.com,+1-686-546-3870,3,No
+CUST-1065,Barbara White,33,male,United States,2022-02-16,58252.24,144.05,5,barbara.white@yahoo.com,,4,0
+CUST-1015,Sandra Thompson,39,female,UK,2022-04-02,119191.33,-79.7,4,sandra.thompson@outlook.com,+1-485-271-5573,3,No
+CUST-2065,David Harris,52,Female,United States,2024-04-14,-27958.48,399.37,6,david.harris@yahoo.com,,3,Yes
+CUST-1493,Kimberly Clark,32,MALE,Ger,2022-10-22,96385.05,,7,KIMBERLY.CLARK@OUTLOOK.COM,+1-200-276-5117,4,No
+CUST-1380,John Wilson,30,Male,GB,2023-05-11,87101.04,17.75,8,john.wilson@yahoo.com,,3,Yes
+CUST-1188,Mark Scott,-48,,Germany,24 Jan 2022,91992.53,$451.27,2,mark.scott@outlook.com,,3/5,Yes
+CUST-1764,Betty Jackson,64,Male,United States,2021-02-07,24047.34,318.27,4,betty.jackson@yahoo.com,+1-477-747-5139,3,No
+CUST-1217,Nancy Wilson,35,Male,Oz,06-02-2023,48452.56,$239.14,,nancy.wilson@icloud.com,+1-780-550-9921,4,No
+CUST-1792,Ashley Davis,52,Male,Australia,2021-05-21,-39050.1,9999999.0,5,ASHLEY.DAVIS@GMAIL.COM,,3,No
+CUST-2077,Mr. Donald Sanchez,44,Female,Germany,2023-01-12,70884.46,234.26,8,donald.sanchez@outlook.com,+1-628-549-8558,2,No
+CUST-1879,Patricia Thompson, 53 yrs,Male,Australia,2021-05-07,unknown,67.93,6,patricia.thompson@yahoo.com,,3,FALSE
+CUST-1338,Paul Robinson,49,Female,Canada,03-25-2022,56634.69,35.57,5,paul.robinson@icloud.com,(350) 815-5643,2,No
+CUST-1720,Dr. Mark Torres,-22,Female,Germany,2022-04-08,33162.18,79.73,7,mark.torres@gmail.com,+1-230-746-2998,4,no
+CUST-1296,Amanda Nguyen,59,F,Australia,27 May 2024,-95391.99,154.14,5,amanda.nguyen@gmail.com,+1-703-223-6569,3/5,No
+CUST-2017,Jennifer Torres,21,Female,US,15 Jan 2024,-107055.33,68.2,4,jennifer.torres@yahoo.com,,5,
+CUST-1456,barbara ramirez,37,Female,Canada,2023-03-04,55016.57,239.01,6,barbara.ramirezicloud.com,(235) 467-7909,2,0
+CUST-1816,Dorothy King,35,M,United Kingdom,2022-08-01,29897.52,15.13,6,,,4,0
+CUST-1270,Renée Lee,38,Female,United Kingdom,2022-06-18,54295.24,164.04,5,renée.lee@outlook.com,,3,no
+CUST-1996,Patricia Campbell,20,Male,United Kingdom,2024-06-20,62306.41,183.19,4,patricia.campbell@gmail.com,+18077635033,3,Yes
+CUST-1202,Lisa Lopez,35,Male,Germany,29/08/2023,21983.92,253.35,7,lisa.lopez@yahoo.com,,4,No
+CUST-1162,Mary Allen,32,Male,Australia,2024-03-31,,30.12,3,mary.allen@yahoo.com,(237) 764-5269,4,Yes
+CUST-1730,David Ramirez,33,Non-Binary,United States,2021-05-26,110184.01,151.42,7,david.ramirez@icloud.com,+12983392471,Poor,No
+CUST-1402,Karen Smith,38,Female,United States,13/04/2021,71044.32,118.26,9,karen.smith@outlook.com,+14907143540,5,No
+CUST-1703,Matthew Jones,-19,Female,Germany,25 Sep 2023,53729.02,318.19,5,matthew.jones@gmail.com,+1-859-219-7517,0,Yes
+CUST-2130,Ms. Linda Clark,33,Female,Germany,2023-03-21,73748.03,12.79,2,linda.clark@yahoo.com,,4,No
+CUST-1566,David King,24,Female,US,2021-04-17,86066.2,refunded,5,DAVID.KING@YAHOO.COM,+1-495-761-8704,5,Yes
+CUST-2022,Matthew Young,46,Male,Canada,2024-02-27,,85.67,6,matthew.young@yahoo.com,+14094904399,5,No
+CUST-2026,Robert Baker,43,Non-Binary,United Kingdom,2022-04-01,62422.22,94.16,8,robert.baker@icloud.com,+12906881783,3,0
+  CUST-2105  ,RENÉE WHITE,43,Male,United Kingdom,N/A,,81.0,6,renée.white@gmail.com,,3,Yes
+CUST-1206,JAMES ROBINSON,51,Male,Germany,2024-01-19,-36031.53,,-9,james.robinson@icloud.com,,4/5,No
+CUST-1035,Kevin Adams,46,,Germany,2021-03-17,67774.09,131.95,9,kevin.adams@outlook.com,+1-302-650-2633,4,No
+CUST-1776,Sandra Campbell,40,Male,United States,2023-02-30,"USD 82,116",75.3,5,sandra.campbell@yahoo.com,+1-854-823-8403,,No
+CUST-1509,Kevin Adams,19,Female,Australia,2024-02-28,78301.03,57.8,4,kevin.adams@icloud.com,(975) 759-4292,3,No
+CUST-1437,elizabeth miller,39,Male,Germany,2022-02-02,0.00,45.71,3,elizabeth.miller@outlook.com,(531) 635-9394,4,0
+CUST-1092,Joseph Jones,46,,Australia,,31578.04,19.39,5,JOSEPH.JONES@OUTLOOK.COM,,4,No
+CUST-1898,Sarah Miller,74,,United Kingdom,2022-05-17,80938.8,,10,sarah.miller@yahoo.com,+1-372-639-1510,4,
+CUST-1565,  Donald Hernandez   ,28,Female,Australia,2023-11-26,,9999999.0,,donald.hernandez@yahoo.com,+1-237-590-6973,,No
+CUST-1777,Kimberly Miller,24,Female,United Kingdom,2021-03-02,78372.49,170.25,10,kimberly.miller@outlook.com,+1-970-644-9787,2,No
+CUST-1242,Donald Rivera,39,Male,Oz,08-22-2022,-78389.36,61.85,4,donald.rivera@outlook.com,+1-889-909-2075,2,Yes
+CUST-1014,Jessica Nelson,34,Female,Australia,2023-04-13,,69.67,,jessica.nelson@yahoo.com,+1-442-366-3900,5,No
+CUST-1316,Donna Johnson,46, Mal ,United States,2021-10-12,39970.92,refunded,3,donna.johnson@outlook.com,(781) 844-7404,,0
+CUST-1601,Prof. Elizabeth Clark,65,Female,,2021-12-07,91385.41,$160.07,8,elizabeth.clark@outlook.com,(663) 361-9730,4,No
+CUST-1388,Renée Wilson,50,Non-Binary,Germany,07/06/2023,77k,$125.73,3,renée.wilson@icloud.com,,5,No
+CUST-1167,Dr. Joshua Nguyen,36,Female,Germany,01/03/2023,102657.59,78.0,9,JOSHUA.NGUYEN@GMAIL.COM,+1-407-735-9263,4,Yes
+CUST-1841,Kimberly Rivera,35,Male,,2021-01-31,-36372.44,162.33,2,kimberly.rivera@yahoo.com,+1-674-377-4274,3,FALSE
+CUST-1021,Chloë Hill,42,Male,Germany,2022-03-26,49284.27,12.71,999,chloë.hill@icloud.com,+1-229-598-6507,,Yes
+CUST-1647,,53,Male,Deutschland,24/05/2021,60964.98,130.91,,james.lopez@outlook.com,+1-452-882-8676,4,1
+CUST-2155,Patricia Scott,18,Female,United Kingdom,2023-11-13,54k,109.71,,patricia.scott@icloud.com,,2,Yes
+CUST-1832,Dr. Joshua Flores,18,Female,United States,2021-08-30,39300.09,174.83,7,joshua.flores@icloud.com,,10,No
+CUST-1563,Anthony Rivera,48, Fem ,United Kingdom,2023-02-27,67829.58,237.9,6,anthony.rivera@icloud.com,+1-223-754-5451,3,No
+CUST-1555,Emily Green,32,Male,United States,2021.10.27,,$26.77,6,emily.green@yahoo.com,+1-978-269-8826,4/5,Yes
+CUST-1687,Lisa Martin,62,Male,United States,06/04/2022,54979.87,36.77,7,lisa.martin@gmail.com,,,No
+CUST-1958,Dorothy Brown,18,,United Kingdom,2022-04-17,54003.53,297.53,9,dorothy.brown@yahoo.com,,4,Yes
+CUST-1190,Lisa Anderson,32,Male,United States,27/01/2021,64691.57,21.06,6,lisa.anderson@yahoo.com,,4,No
+CUST-1976,margaret garcia,38,Female,Germany,2023-03-18,106564.13,25.86,3,margaret.garcia@gmail.com,+1-724-284-3299,5,
+CUST-1700,JENNIFER NELSON,51,Female,Germany,2022-10-05,60810.18,62.23,4,jennifer.nelson@outlook.com,+1-260-210-3587,5,Yes
+  CUST-1511  ,John Wilson,48,Female,United Kingdom,30/03/2022,,348.48,3,john.wilson@gmail.com,+1-931-408-9114,3,No
+CUST-2083,Susan Nguyen,23,Male,United Kingdom,01-11-2024,58257.5,219.78,10,susan.nguyen@icloud.com,,3,Yes
+CUST-1475,Prof. Carol Scott,52,MALE,Germany,2021-08-17,60181.3,,,,,5,No
+CUST-1857,James Garcia,36, Fem ,Canada,2021-10-20,108003.65,30.59,5,,,4,1
+CUST-1748,Carol Taylor,41,Male,Germany,2022-01-29,49202.57,356.48,4,carol.taylor@gmail.com,+1-908-752-4203,3/5,No
+CUST-1253,William Garcia,43,female,United States,2021-06-09,45154.87,-177.23,7,william.garcia@icloud.com,,1,FALSE
+CUST-1022,Christopher Wilson,52,Female,Canada,2023-02-16,46944.99,,6,christopher.wilsonicloud.com,,1,No
+CUST-1460,,18,Female,United States,2022-01-12,,304.14,5,melissa.martin@outlook.com,+1-938-868-2298,5,No
+CUST-2185,andrew taylor,57,Female,United States,2024-02-04,"USD 60,590",69.61,4,andrew.taylor@outlook.com,,3,FALSE
+CUST-1277,Betty Taylor,47,Female,Germany,2021-07-02,18000.0,-84.75,999,betty.taylor@icloud.com,,4,Yes
+CUST-1956,James Clark,26,,Australia,2023-05-08,56918.17,126.42,3,,+1-312-346-1888,5,TRUE
+  CUST-1027  ,Richard Wilson,41,Male,Canada,2024-04-22,"USD 68,876",69.75,3,richard.wilson@outlook.com,+1-302-398-5853,3,No
+CUST-1386,Robert Wilson,50,Male,Germany,2022-10-05,76343.82,168.53,6,robert.wilson@icloud.com,+1-364-384-5894,,0
+CUST-1806,William Moore,37,Prefer not to say,Australia,2023-06-25,89466.21,$202.96,11,  william.moore@icloud.com  ,(758) 652-9366,5,No
+  CUST-1344  ,Emily Taylor,53,Male,United States,2021-06-23,53709.68,76.11,6,emily.taylor@outlook.com,+1-572-757-3811,3,Yes
+CUST-1770,kevin martin,-37,Female,CAN,14 Oct 2021,71782.43,432.0,2,kevin.martin@outlook.com,,5,No
+CUST-1131,Barbara Moore,39,Female,Australia,2023-02-30,36774.17,69.54,6,barbara.moore@icloud.com,,4,No
+cust-1872,Nancy Wright,36,Female,ca,2024-02-23,62197.05,-69.61,3,nancy.wright@icloud.com,+1-446-390-2954,2,No
+CUST-2124,,46,Female,United States,2021-08-16,115201.86,9999999.0,999,,,1,No
+CUST-1088,Dorothy Brown,-41,Male,United States,2021-04-10,43475.8,$56.84,4,dorothy.brown@icloud.com,,1,No
+CUST-1331,Anthony Campbell,45,M,United States,2024-03-18,94279.08,180.39,8,none@none,+1-346-475-4432,,
+CUST-1307,Dorothy Thompson, 30 yrs,Female,Australia,2021-10-26,37312.89,,4,dorothy.thompson@outlook.com,+1-817-551-5768,3,No
+CUST-1467,Linda Hill,53,Male,United Kingdom,2022-05-17,75579.98,22.01,5,linda.hill@gmail.com,+1-207-966-1529,4,No
+CUST-1122,Prof. Barbara Lopez,55,,ca,05/01/2023,85341.94,,,barbara.lopez@gmail.com,+1-920-917-6761,5,No
+CUST-2045,Andrew Flores,20,Female,Australia,2021-02-04,68058.91,30.16,11,andrew.flores@gmail.com,+1-978-938-5200,5,No
+CUST-2096,Melissa Nelson,195,Male,United Kingdom,2022.12.12,64456.36,38.05,8,,,3,No
+,Donna Lee,52,Male,United States,2024.03.01,67342.87,9999999.0,8,donna.lee@yahoo.com,+14609378396,3,FALSE
+CUST-1861,Joshua Campbell,48,M,United Kingdom,2022-10-19,"$25,891.02",22.93,14,joshua.campbell@icloud.com,+1-609-769-9433,Good,
+CUST-2127,Anthony Robinson,,Female,United States,2022-05-15,101898.41,refunded,4,anthony.robinson@gmail.com,+1-930-785-4737,4,Yes
